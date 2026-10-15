@@ -15,7 +15,7 @@ what the record can and cannot show.
    may in particular differ in the app.
 
 2. **Memory and personalization were off.** Every call was a stateless request
-   with no account, no history and no user profile. Real users usually have
+   with no account, no history and no user profile. Real users may have
    some of these, and they can change the answer. Requests were not varied by
    location.
 
