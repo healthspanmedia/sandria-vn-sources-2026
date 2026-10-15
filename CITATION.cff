@@ -15,6 +15,14 @@ abstract: >-
 type: dataset
 version: 1.0.0
 date-released: "2026-10-15"
+doi: "10.5281/zenodo.23394837"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23394836"
+    description: "Concept DOI. Resolves to all versions of this record. Cite this one unless a specific version is needed."
+  - type: doi
+    value: "10.5281/zenodo.23394837"
+    description: "Version DOI for release 1.0.0."
 license: CC-BY-4.0
 url: "https://sandria.ai/findings/language-changes-ai-sources/"
 repository-code: "https://github.com/healthspanmedia/sandria-vn-sources-2026"

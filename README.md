@@ -1,5 +1,7 @@
 # Sandria VN sources 2026: which websites four AI assistants cited for everyday questions about Vietnam, in English and Vietnamese
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23394836.svg)](https://doi.org/10.5281/zenodo.23394836)
+
 Measured by Sandria™. Finding and method: https://sandria.ai/findings/language-changes-ai-sources/
 
 ## What this is
