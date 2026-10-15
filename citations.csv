@@ -1,0 +1,1545 @@
+run_id,question_id,query_id,platform,language,repetition,date,domain,type_code,type,scope,business_category
+R001,Q01,VN-EN-01,claude,en,1,2026-10-15,BW-255,1,business's own website,VN,Hotels
+R001,Q01,VN-EN-01,claude,en,1,2026-10-15,BW-284,1,business's own website,VN,Hotels
+R001,Q01,VN-EN-01,claude,en,1,2026-10-15,BW-360,1,business's own website,VN,Hotels
+R001,Q01,VN-EN-01,claude,en,1,2026-10-15,ohfishiee.com,5,editorial or media,UND,
+R001,Q01,VN-EN-01,claude,en,1,2026-10-15,refinedboutiquehotels.com,5,editorial or media,UND,
+R001,Q01,VN-EN-01,claude,en,1,2026-10-15,rustycompass.com,5,editorial or media,UND,
+R001,Q01,VN-EN-01,claude,en,1,2026-10-15,tripadvisor.com,3,review platform,INT,
+R001,Q01,VN-EN-01,claude,en,1,2026-10-15,vietnamcoracle.com,5,editorial or media,UND,
+R003,Q17,VN-EN-17,claude,en,0,2026-10-15,BW-099,1,business's own website,INT,Professional
+R003,Q17,VN-EN-17,claude,en,0,2026-10-15,BW-145,1,business's own website,INT,Professional
+R003,Q17,VN-EN-17,claude,en,0,2026-10-15,BW-176,1,business's own website,VN,Professional
+R003,Q17,VN-EN-17,claude,en,0,2026-10-15,BW-181,1,business's own website,UND,Professional
+R003,Q17,VN-EN-17,claude,en,0,2026-10-15,vietnamdoneright.com,5,editorial or media,VN,
+R004,Q07,VN-EN-07,gemini,en,1,2026-10-15,BW-059,1,business's own website,VN,Clinics
+R004,Q07,VN-EN-07,gemini,en,1,2026-10-15,BW-242,1,business's own website,VN,Clinics
+R004,Q07,VN-EN-07,gemini,en,1,2026-10-15,BW-280,1,business's own website,VN,Clinics
+R004,Q07,VN-EN-07,gemini,en,1,2026-10-15,BW-316,1,business's own website,VN,Clinics
+R004,Q07,VN-EN-07,gemini,en,1,2026-10-15,BW-342,1,business's own website,VN,Clinics
+R004,Q07,VN-EN-07,gemini,en,1,2026-10-15,dentaltrip.io,4,booking or marketplace,VN,
+R005,Q08,VN-EN-08,perplexity,en,0,2026-10-15,BW-092,1,business's own website,UND,"Clinics, Food, Retail"
+R005,Q08,VN-EN-08,perplexity,en,0,2026-10-15,BW-123,1,business's own website,VN,Clinics
+R005,Q08,VN-EN-08,perplexity,en,0,2026-10-15,citiesinsider.com,5,editorial or media,UND,
+R005,Q08,VN-EN-08,perplexity,en,0,2026-10-15,doctorsa.com,4,booking or marketplace,UND,
+R005,Q08,VN-EN-08,perplexity,en,0,2026-10-15,vietnamwithme.com,5,editorial or media,UND,
+R006,Q08,VN-EN-08,chatgpt,en,0,2026-10-15,BW-217,1,business's own website,VN,Clinics
+R006,Q08,VN-EN-08,chatgpt,en,0,2026-10-15,BW-380,1,business's own website,VN,Clinics
+R007,Q19,VN-VI-19,chatgpt,vi,1,2026-10-15,BW-025,1,business's own website,VN,Professional
+R007,Q19,VN-VI-19,chatgpt,vi,1,2026-10-15,BW-144,1,business's own website,VN,Professional
+R007,Q19,VN-VI-19,chatgpt,vi,1,2026-10-15,chinhphu.vn,6,official or government,VN,
+R007,Q19,VN-VI-19,chatgpt,vi,1,2026-10-15,mof.gov.vn,6,official or government,VN,
+R009,Q07,VN-VI-07,claude,vi,0,2026-10-15,BW-010,1,business's own website,VN,Clinics
+R009,Q07,VN-VI-07,claude,vi,0,2026-10-15,BW-214,1,business's own website,VN,Clinics
+R009,Q07,VN-VI-07,claude,vi,0,2026-10-15,BW-237,1,business's own website,VN,Clinics
+R009,Q07,VN-VI-07,claude,vi,0,2026-10-15,BW-367,1,business's own website,VN,Clinics
+R009,Q07,VN-VI-07,claude,vi,0,2026-10-15,bookingcare.vn,4,booking or marketplace,VN,
+R010,Q22,VN-VI-22,chatgpt,vi,0,2026-10-15,BW-045,1,business's own website,VN,Retail
+R010,Q22,VN-VI-22,chatgpt,vi,0,2026-10-15,BW-175,1,business's own website,VN,Retail
+R010,Q22,VN-VI-22,chatgpt,vi,0,2026-10-15,BW-221,1,business's own website,VN,Retail
+R010,Q22,VN-VI-22,chatgpt,vi,0,2026-10-15,BW-298,1,business's own website,VN,Retail
+R010,Q22,VN-VI-22,chatgpt,vi,0,2026-10-15,BW-325,1,business's own website,INT,Retail
+R011,Q21,VN-VI-21,perplexity,vi,1,2026-10-15,gamegearvn.com,5,editorial or media,UND,
+R011,Q21,VN-VI-21,perplexity,vi,1,2026-10-15,toplist.vn,5,editorial or media,VN,
+R011,Q21,VN-VI-21,perplexity,vi,1,2026-10-15,tripi.vn,4,booking or marketplace,VN,
+R012,Q02,VN-VI-02,perplexity,vi,0,2026-10-15,BW-020,1,business's own website,VN,"Food, Hotels"
+R012,Q02,VN-VI-02,perplexity,vi,0,2026-10-15,BW-264,1,business's own website,VN,Hotels
+R012,Q02,VN-VI-02,perplexity,vi,0,2026-10-15,hotels.com,4,booking or marketplace,INT,
+R015,Q17,VN-EN-17,perplexity,en,1,2026-10-15,fili.vn,5,editorial or media,VN,
+R015,Q17,VN-EN-17,perplexity,en,1,2026-10-15,maison-hanoi.com,2,map or business listing,UND,
+R015,Q17,VN-EN-17,perplexity,en,1,2026-10-15,professnow.com,4,booking or marketplace,UND,
+R015,Q17,VN-EN-17,perplexity,en,1,2026-10-15,the-shiv.com,5,editorial or media,UND,
+R015,Q17,VN-EN-17,perplexity,en,1,2026-10-15,themanifest.com,3,review platform,INT,
+R015,Q17,VN-EN-17,perplexity,en,1,2026-10-15,vietnamdoneright.com,5,editorial or media,VN,
+R016,Q19,VN-EN-19,claude,en,1,2026-10-15,BW-013,1,business's own website,INT,Professional
+R016,Q19,VN-EN-19,claude,en,1,2026-10-15,BW-067,1,business's own website,VN,Professional
+R016,Q19,VN-EN-19,claude,en,1,2026-10-15,BW-113,1,business's own website,VN,Professional
+R016,Q19,VN-EN-19,claude,en,1,2026-10-15,BW-148,1,business's own website,INT,Professional
+R016,Q19,VN-EN-19,claude,en,1,2026-10-15,BW-294,1,business's own website,UND,Professional
+R016,Q19,VN-EN-19,claude,en,1,2026-10-15,BW-311,1,business's own website,INT,Professional
+R016,Q19,VN-EN-19,claude,en,1,2026-10-15,BW-319,1,business's own website,INT,Professional
+R016,Q19,VN-EN-19,claude,en,1,2026-10-15,BW-345,1,business's own website,UND,Professional
+R017,Q05,VN-EN-05,perplexity,en,1,2026-10-15,bookimed.com,4,booking or marketplace,INT,
+R017,Q05,VN-EN-05,perplexity,en,1,2026-10-15,docosan.com,4,booking or marketplace,VN,
+R017,Q05,VN-EN-05,perplexity,en,1,2026-10-15,expatden.com,5,editorial or media,INT,
+R017,Q05,VN-EN-05,perplexity,en,1,2026-10-15,whatclinic.com,2,map or business listing,INT,
+R018,Q16,VN-VI-16,chatgpt,vi,1,2026-10-15,BW-125,1,business's own website,VN,Education
+R018,Q16,VN-VI-16,chatgpt,vi,1,2026-10-15,BW-199,1,business's own website,VN,Education
+R018,Q16,VN-VI-16,chatgpt,vi,1,2026-10-15,BW-341,1,business's own website,VN,Education
+R018,Q16,VN-VI-16,chatgpt,vi,1,2026-10-15,BW-392,1,business's own website,VN,Education
+R019,Q24,VN-EN-24,chatgpt,en,0,2026-10-15,BW-015,1,business's own website,VN,Retail
+R019,Q24,VN-EN-24,chatgpt,en,0,2026-10-15,BW-183,1,business's own website,VN,Retail
+R019,Q24,VN-EN-24,chatgpt,en,0,2026-10-15,BW-198,1,business's own website,VN,Retail
+R019,Q24,VN-EN-24,chatgpt,en,0,2026-10-15,BW-293,1,business's own website,VN,Retail
+R019,Q24,VN-EN-24,chatgpt,en,0,2026-10-15,grab.com,4,booking or marketplace,INT,
+R020,Q06,VN-VI-06,chatgpt,vi,1,2026-10-15,BW-196,1,business's own website,VN,Clinics
+R020,Q06,VN-VI-06,chatgpt,vi,1,2026-10-15,BW-206,1,business's own website,INT,Clinics
+R020,Q06,VN-VI-06,chatgpt,vi,1,2026-10-15,BW-263,1,business's own website,VN,Clinics
+R020,Q06,VN-VI-06,chatgpt,vi,1,2026-10-15,BW-380,1,business's own website,VN,Clinics
+R020,Q06,VN-VI-06,chatgpt,vi,1,2026-10-15,suckhoethudo.vn,6,official or government,VN,
+R021,Q16,VN-EN-16,gemini,en,1,2026-10-15,BW-048,1,business's own website,UND,Education
+R021,Q16,VN-EN-16,gemini,en,1,2026-10-15,BW-085,1,business's own website,VN,Education
+R021,Q16,VN-EN-16,gemini,en,1,2026-10-15,BW-244,1,business's own website,VN,Education
+R021,Q16,VN-EN-16,gemini,en,1,2026-10-15,BW-248,1,business's own website,VN,Education
+R021,Q16,VN-EN-16,gemini,en,1,2026-10-15,BW-276,1,business's own website,VN,Education
+R021,Q16,VN-EN-16,gemini,en,1,2026-10-15,BW-279,1,business's own website,VN,Education
+R021,Q16,VN-EN-16,gemini,en,1,2026-10-15,facebook.com,7,social media,INT,
+R022,Q12,VN-EN-12,perplexity,en,1,2026-10-15,BW-149,1,business's own website,VN,Food
+R022,Q12,VN-EN-12,perplexity,en,1,2026-10-15,michelin.com,5,editorial or media,INT,
+R022,Q12,VN-EN-12,perplexity,en,1,2026-10-15,trip.com,4,booking or marketplace,INT,
+R022,Q12,VN-EN-12,perplexity,en,1,2026-10-15,tripadvisor.com.au,3,review platform,INT,
+R023,Q05,VN-EN-05,chatgpt,en,0,2026-10-15,BW-047,1,business's own website,VN,Clinics
+R023,Q05,VN-EN-05,chatgpt,en,0,2026-10-15,BW-074,1,business's own website,VN,Clinics
+R023,Q05,VN-EN-05,chatgpt,en,0,2026-10-15,BW-219,1,business's own website,VN,Clinics
+R023,Q05,VN-EN-05,chatgpt,en,0,2026-10-15,BW-280,1,business's own website,VN,Clinics
+R023,Q05,VN-EN-05,chatgpt,en,0,2026-10-15,BW-344,1,business's own website,VN,Clinics
+R024,Q12,VN-VI-12,perplexity,vi,0,2026-10-15,BW-283,1,business's own website,VN,Food
+R024,Q12,VN-VI-12,perplexity,vi,0,2026-10-15,grab.com,4,booking or marketplace,INT,
+R024,Q12,VN-VI-12,perplexity,vi,0,2026-10-15,pasgo.vn,4,booking or marketplace,VN,
+R025,Q15,VN-EN-15,chatgpt,en,0,2026-10-15,BW-012,1,business's own website,INT,Education
+R025,Q15,VN-EN-15,chatgpt,en,0,2026-10-15,BW-057,1,business's own website,VN,Education
+R025,Q15,VN-EN-15,chatgpt,en,0,2026-10-15,BW-177,1,business's own website,VN,Education
+R025,Q15,VN-EN-15,chatgpt,en,0,2026-10-15,BW-194,1,business's own website,VN,Education
+R025,Q15,VN-EN-15,chatgpt,en,0,2026-10-15,BW-365,1,business's own website,VN,Education
+R025,Q15,VN-EN-15,chatgpt,en,0,2026-10-15,BW-369,1,business's own website,VN,Education
+R026,Q12,VN-VI-12,chatgpt,vi,1,2026-10-15,BW-042,1,business's own website,VN,Food
+R026,Q12,VN-VI-12,chatgpt,vi,1,2026-10-15,BW-096,1,business's own website,VN,Food
+R026,Q12,VN-VI-12,chatgpt,vi,1,2026-10-15,BW-153,1,business's own website,VN,Food
+R026,Q12,VN-VI-12,chatgpt,vi,1,2026-10-15,BW-201,1,business's own website,VN,Food
+R026,Q12,VN-VI-12,chatgpt,vi,1,2026-10-15,BW-287,1,business's own website,VN,Food
+R026,Q12,VN-VI-12,chatgpt,vi,1,2026-10-15,BW-391,1,business's own website,VN,Food
+R026,Q12,VN-VI-12,chatgpt,vi,1,2026-10-15,grab.com,4,booking or marketplace,INT,
+R026,Q12,VN-VI-12,chatgpt,vi,1,2026-10-15,pasgo.vn,4,booking or marketplace,VN,
+R026,Q12,VN-VI-12,chatgpt,vi,1,2026-10-15,tablenow.vn,4,booking or marketplace,VN,
+R027,Q03,VN-VI-03,claude,vi,0,2026-10-15,BW-053,1,business's own website,VN,Hotels
+R027,Q03,VN-VI-03,claude,vi,0,2026-10-15,BW-320,1,business's own website,VN,Hotels
+R027,Q03,VN-VI-03,claude,vi,0,2026-10-15,bestprice.vn,4,booking or marketplace,VN,
+R027,Q03,VN-VI-03,claude,vi,0,2026-10-15,booking.com,4,booking or marketplace,INT,
+R027,Q03,VN-VI-03,claude,vi,0,2026-10-15,tiimhotel.vn,4,booking or marketplace,VN,
+R027,Q03,VN-VI-03,claude,vi,0,2026-10-15,vivutour.vn,4,booking or marketplace,VN,
+R028,Q11,VN-VI-11,perplexity,vi,1,2026-10-15,BW-086,1,business's own website,VN,Food
+R028,Q11,VN-VI-11,perplexity,vi,1,2026-10-15,BW-262,1,business's own website,VN,Food
+R028,Q11,VN-VI-11,perplexity,vi,1,2026-10-15,BW-295,1,business's own website,VN,Food
+R028,Q11,VN-VI-11,perplexity,vi,1,2026-10-15,vietnamtourism.com,5,editorial or media,UND,
+R029,Q23,VN-VI-23,chatgpt,vi,0,2026-10-15,BW-132,1,business's own website,INT,Retail
+R029,Q23,VN-VI-23,chatgpt,vi,0,2026-10-15,BW-239,1,business's own website,VN,Retail
+R029,Q23,VN-VI-23,chatgpt,vi,0,2026-10-15,BW-240,1,business's own website,VN,Retail
+R030,Q12,VN-EN-12,claude,en,0,2026-10-15,BW-018,1,business's own website,VN,Food
+R030,Q12,VN-EN-12,claude,en,0,2026-10-15,BW-388,1,business's own website,INT,Food
+R030,Q12,VN-EN-12,claude,en,0,2026-10-15,BW-391,1,business's own website,VN,Food
+R030,Q12,VN-EN-12,claude,en,0,2026-10-15,diningcity.vn,4,booking or marketplace,INT,
+R030,Q12,VN-EN-12,claude,en,0,2026-10-15,michelin.com,5,editorial or media,INT,
+R030,Q12,VN-EN-12,claude,en,0,2026-10-15,tablecheck.com,4,booking or marketplace,INT,
+R030,Q12,VN-EN-12,claude,en,0,2026-10-15,trip.com,4,booking or marketplace,INT,
+R030,Q12,VN-EN-12,claude,en,0,2026-10-15,tripadvisor.com,3,review platform,INT,
+R030,Q12,VN-EN-12,claude,en,0,2026-10-15,tripadvisor.com.sg,3,review platform,INT,
+R031,Q11,VN-VI-11,claude,vi,0,2026-10-15,BW-262,1,business's own website,VN,Food
+R031,Q11,VN-VI-11,claude,vi,0,2026-10-15,BW-295,1,business's own website,VN,Food
+R031,Q11,VN-VI-11,claude,vi,0,2026-10-15,fnbmaps.com,2,map or business listing,VN,
+R031,Q11,VN-VI-11,claude,vi,0,2026-10-15,pasgo.vn,4,booking or marketplace,VN,
+R032,Q05,VN-EN-05,claude,en,1,2026-10-15,BW-061,1,business's own website,VN,Clinics
+R032,Q05,VN-EN-05,claude,en,1,2026-10-15,BW-118,1,business's own website,VN,Clinics
+R032,Q05,VN-EN-05,claude,en,1,2026-10-15,dentaltrip.io,4,booking or marketplace,VN,
+R032,Q05,VN-EN-05,claude,en,1,2026-10-15,expatden.com,5,editorial or media,INT,
+R032,Q05,VN-EN-05,claude,en,1,2026-10-15,housingsgn.com,4,booking or marketplace,VN,
+R033,Q15,VN-VI-15,perplexity,vi,0,2026-10-15,BW-057,1,business's own website,VN,Education
+R033,Q15,VN-VI-15,perplexity,vi,0,2026-10-15,BW-146,1,business's own website,VN,Education
+R033,Q15,VN-VI-15,perplexity,vi,0,2026-10-15,BW-309,1,business's own website,VN,Education
+R033,Q15,VN-VI-15,perplexity,vi,0,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R033,Q15,VN-VI-15,perplexity,vi,0,2026-10-15,tripi.vn,4,booking or marketplace,VN,
+R034,Q17,VN-EN-17,gemini,en,0,2026-10-15,BW-043,1,business's own website,INT,Professional
+R034,Q17,VN-EN-17,gemini,en,0,2026-10-15,BW-099,1,business's own website,INT,Professional
+R034,Q17,VN-EN-17,gemini,en,0,2026-10-15,BW-145,1,business's own website,INT,Professional
+R034,Q17,VN-EN-17,gemini,en,0,2026-10-15,BW-176,1,business's own website,VN,Professional
+R034,Q17,VN-EN-17,gemini,en,0,2026-10-15,BW-215,1,business's own website,VN,Professional
+R034,Q17,VN-EN-17,gemini,en,0,2026-10-15,BW-286,1,business's own website,INT,Professional
+R034,Q17,VN-EN-17,gemini,en,0,2026-10-15,BW-347,1,business's own website,VN,Professional
+R034,Q17,VN-EN-17,gemini,en,0,2026-10-15,BW-370,1,business's own website,INT,Professional
+R034,Q17,VN-EN-17,gemini,en,0,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R035,Q05,VN-EN-05,gemini,en,1,2026-10-15,BW-088,1,business's own website,VN,Clinics
+R035,Q05,VN-EN-05,gemini,en,1,2026-10-15,BW-129,1,business's own website,VN,Clinics
+R035,Q05,VN-EN-05,gemini,en,1,2026-10-15,BW-265,1,business's own website,VN,Clinics
+R035,Q05,VN-EN-05,gemini,en,1,2026-10-15,bookingcare.vn,4,booking or marketplace,VN,
+R035,Q05,VN-EN-05,gemini,en,1,2026-10-15,dentaldepartures.com,4,booking or marketplace,INT,
+R035,Q05,VN-EN-05,gemini,en,1,2026-10-15,dentaltrip.io,4,booking or marketplace,VN,
+R035,Q05,VN-EN-05,gemini,en,1,2026-10-15,docosan.com,4,booking or marketplace,VN,
+R035,Q05,VN-EN-05,gemini,en,1,2026-10-15,youtube.com,7,social media,INT,
+R038,Q09,VN-VI-09,perplexity,vi,0,2026-10-15,BW-020,1,business's own website,VN,"Food, Hotels"
+R038,Q09,VN-VI-09,perplexity,vi,0,2026-10-15,BW-232,1,business's own website,VN,Food
+R038,Q09,VN-VI-09,perplexity,vi,0,2026-10-15,pasgo.vn,4,booking or marketplace,VN,
+R038,Q09,VN-VI-09,perplexity,vi,0,2026-10-15,toplist.vn,5,editorial or media,VN,
+R038,Q09,VN-VI-09,perplexity,vi,0,2026-10-15,vietnam.travel,6,official or government,VN,
+R039,Q03,VN-VI-03,gemini,vi,0,2026-10-15,BW-375,1,business's own website,VN,Hotels
+R039,Q03,VN-VI-03,gemini,vi,0,2026-10-15,agoda.com,4,booking or marketplace,INT,
+R039,Q03,VN-VI-03,gemini,vi,0,2026-10-15,booking.com,4,booking or marketplace,INT,
+R039,Q03,VN-VI-03,gemini,vi,0,2026-10-15,cuongdulich.com,5,editorial or media,UND,
+R039,Q03,VN-VI-03,gemini,vi,0,2026-10-15,skyscanner.com.vn,4,booking or marketplace,INT,
+R039,Q03,VN-VI-03,gemini,vi,0,2026-10-15,tiimhotel.vn,4,booking or marketplace,VN,
+R039,Q03,VN-VI-03,gemini,vi,0,2026-10-15,traveloka.com,4,booking or marketplace,INT,
+R039,Q03,VN-VI-03,gemini,vi,0,2026-10-15,trip.com,4,booking or marketplace,INT,
+R040,Q22,VN-EN-22,claude,en,0,2026-10-15,fodors.com,5,editorial or media,INT,
+R040,Q22,VN-EN-22,claude,en,0,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R040,Q22,VN-EN-22,claude,en,0,2026-10-15,toplist.com.co,5,editorial or media,UND,
+R040,Q22,VN-EN-22,claude,en,0,2026-10-15,vietnamdoneright.com,5,editorial or media,VN,
+R041,Q20,VN-EN-20,claude,en,0,2026-10-15,BW-079,1,business's own website,INT,Professional
+R041,Q20,VN-EN-20,claude,en,0,2026-10-15,BW-124,1,business's own website,INT,Professional
+R041,Q20,VN-EN-20,claude,en,0,2026-10-15,BW-157,1,business's own website,INT,Professional
+R041,Q20,VN-EN-20,claude,en,0,2026-10-15,BW-162,1,business's own website,INT,Professional
+R041,Q20,VN-EN-20,claude,en,0,2026-10-15,BW-274,1,business's own website,INT,Professional
+R041,Q20,VN-EN-20,claude,en,0,2026-10-15,BW-328,1,business's own website,INT,Professional
+R041,Q20,VN-EN-20,claude,en,0,2026-10-15,BW-361,1,business's own website,VN,Professional
+R041,Q20,VN-EN-20,claude,en,0,2026-10-15,goodfirms.co,3,review platform,INT,
+R043,Q08,VN-EN-08,claude,en,1,2026-10-15,BW-249,1,business's own website,VN,Clinics
+R043,Q08,VN-EN-08,claude,en,1,2026-10-15,dentaldepartures.com,4,booking or marketplace,INT,
+R043,Q08,VN-EN-08,claude,en,1,2026-10-15,doctorsa.com,4,booking or marketplace,UND,
+R043,Q08,VN-EN-08,claude,en,1,2026-10-15,medicaltourism.vn,4,booking or marketplace,UND,
+R043,Q08,VN-EN-08,claude,en,1,2026-10-15,medicaltourismco.com,4,booking or marketplace,INT,
+R043,Q08,VN-EN-08,claude,en,1,2026-10-15,tripadvisor.co.uk,3,review platform,INT,
+R043,Q08,VN-EN-08,claude,en,1,2026-10-15,vietnam-dental.com,4,booking or marketplace,UND,
+R045,Q23,VN-EN-23,gemini,en,0,2026-10-15,BW-075,1,business's own website,VN,Retail
+R045,Q23,VN-EN-23,gemini,en,0,2026-10-15,BW-117,1,business's own website,VN,Retail
+R045,Q23,VN-EN-23,gemini,en,0,2026-10-15,BW-212,1,business's own website,VN,Retail
+R045,Q23,VN-EN-23,gemini,en,0,2026-10-15,BW-251,1,business's own website,VN,Retail
+R045,Q23,VN-EN-23,gemini,en,0,2026-10-15,BW-281,1,business's own website,INT,Retail
+R045,Q23,VN-EN-23,gemini,en,0,2026-10-15,BW-326,1,business's own website,VN,Retail
+R046,Q07,VN-VI-07,gemini,vi,0,2026-10-15,BW-010,1,business's own website,VN,Clinics
+R046,Q07,VN-VI-07,gemini,vi,0,2026-10-15,BW-100,1,business's own website,VN,Clinics
+R046,Q07,VN-VI-07,gemini,vi,0,2026-10-15,BW-214,1,business's own website,VN,Clinics
+R046,Q07,VN-VI-07,gemini,vi,0,2026-10-15,BW-367,1,business's own website,VN,Clinics
+R046,Q07,VN-VI-07,gemini,vi,0,2026-10-15,BW-368,1,business's own website,VN,Clinics
+R046,Q07,VN-VI-07,gemini,vi,0,2026-10-15,youtube.com,7,social media,INT,
+R047,Q15,VN-EN-15,perplexity,en,1,2026-10-15,BW-197,1,business's own website,VN,Education
+R047,Q15,VN-EN-15,perplexity,en,1,2026-10-15,BW-259,1,business's own website,VN,Education
+R047,Q15,VN-EN-15,perplexity,en,1,2026-10-15,BW-302,1,business's own website,INT,Education
+R047,Q15,VN-EN-15,perplexity,en,1,2026-10-15,BW-331,1,business's own website,INT,Education
+R047,Q15,VN-EN-15,perplexity,en,1,2026-10-15,BW-386,1,business's own website,INT,Education
+R047,Q15,VN-EN-15,perplexity,en,1,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R048,Q13,VN-EN-13,claude,en,1,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R050,Q11,VN-VI-11,chatgpt,vi,0,2026-10-15,BW-262,1,business's own website,VN,Food
+R051,Q19,VN-EN-19,claude,en,0,2026-10-15,BW-082,1,business's own website,UND,Professional
+R051,Q19,VN-EN-19,claude,en,0,2026-10-15,BW-113,1,business's own website,VN,Professional
+R051,Q19,VN-EN-19,claude,en,0,2026-10-15,BW-114,1,business's own website,UND,Professional
+R051,Q19,VN-EN-19,claude,en,0,2026-10-15,BW-148,1,business's own website,INT,Professional
+R051,Q19,VN-EN-19,claude,en,0,2026-10-15,BW-275,1,business's own website,VN,Professional
+R051,Q19,VN-EN-19,claude,en,0,2026-10-15,BW-294,1,business's own website,UND,Professional
+R051,Q19,VN-EN-19,claude,en,0,2026-10-15,BW-319,1,business's own website,INT,Professional
+R051,Q19,VN-EN-19,claude,en,0,2026-10-15,BW-345,1,business's own website,UND,Professional
+R052,Q21,VN-VI-21,chatgpt,vi,0,2026-10-15,BW-015,1,business's own website,VN,Retail
+R052,Q21,VN-VI-21,chatgpt,vi,0,2026-10-15,BW-139,1,business's own website,VN,Retail
+R052,Q21,VN-VI-21,chatgpt,vi,0,2026-10-15,BW-165,1,business's own website,VN,"Food, Retail"
+R052,Q21,VN-VI-21,chatgpt,vi,0,2026-10-15,BW-326,1,business's own website,VN,Retail
+R052,Q21,VN-VI-21,chatgpt,vi,0,2026-10-15,BW-338,1,business's own website,VN,Retail
+R052,Q21,VN-VI-21,chatgpt,vi,0,2026-10-15,BW-346,1,business's own website,VN,Retail
+R053,Q03,VN-EN-03,chatgpt,en,0,2026-10-15,vietnamtourism.com,5,editorial or media,UND,
+R057,Q21,VN-VI-21,perplexity,vi,0,2026-10-15,gamegearvn.com,5,editorial or media,UND,
+R057,Q21,VN-VI-21,perplexity,vi,0,2026-10-15,toplist.vn,5,editorial or media,VN,
+R057,Q21,VN-VI-21,perplexity,vi,0,2026-10-15,tripi.vn,4,booking or marketplace,VN,
+R058,Q24,VN-EN-24,claude,en,1,2026-10-15,BW-002,1,business's own website,VN,Retail
+R058,Q24,VN-EN-24,claude,en,1,2026-10-15,BW-364,1,business's own website,VN,Retail
+R058,Q24,VN-EN-24,claude,en,1,2026-10-15,BW-394,1,business's own website,UND,Retail
+R058,Q24,VN-EN-24,claude,en,1,2026-10-15,grab.com,4,booking or marketplace,INT,
+R058,Q24,VN-EN-24,claude,en,1,2026-10-15,tripadvisor.com,3,review platform,INT,
+R059,Q10,VN-EN-10,perplexity,en,1,2026-10-15,BW-020,1,business's own website,VN,"Food, Hotels"
+R059,Q10,VN-EN-10,perplexity,en,1,2026-10-15,trip.com,4,booking or marketplace,INT,
+R059,Q10,VN-EN-10,perplexity,en,1,2026-10-15,tripadvisor.com,3,review platform,INT,
+R060,Q16,VN-VI-16,perplexity,vi,0,2026-10-15,BW-160,1,business's own website,VN,Education
+R060,Q16,VN-VI-16,perplexity,vi,0,2026-10-15,BW-279,1,business's own website,VN,Education
+R060,Q16,VN-VI-16,perplexity,vi,0,2026-10-15,BW-333,1,business's own website,VN,Education
+R060,Q16,VN-VI-16,perplexity,vi,0,2026-10-15,BW-393,1,business's own website,VN,"Education, Retail"
+R061,Q21,VN-EN-21,gemini,en,0,2026-10-15,BW-055,1,business's own website,VN,Retail
+R061,Q21,VN-EN-21,gemini,en,0,2026-10-15,BW-165,1,business's own website,VN,"Food, Retail"
+R061,Q21,VN-EN-21,gemini,en,0,2026-10-15,BW-326,1,business's own website,VN,Retail
+R061,Q21,VN-EN-21,gemini,en,0,2026-10-15,BW-338,1,business's own website,VN,Retail
+R061,Q21,VN-EN-21,gemini,en,0,2026-10-15,amebaownd.com,9,other,INT,
+R061,Q21,VN-EN-21,gemini,en,0,2026-10-15,facebook.com,7,social media,INT,
+R061,Q21,VN-EN-21,gemini,en,0,2026-10-15,iigo.vn,2,map or business listing,VN,
+R061,Q21,VN-EN-21,gemini,en,0,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R061,Q21,VN-EN-21,gemini,en,0,2026-10-15,nashaplaneta.net,5,editorial or media,UND,
+R062,Q18,VN-EN-18,perplexity,en,0,2026-10-15,bewiseapps.com,5,editorial or media,UND,
+R062,Q18,VN-EN-18,perplexity,en,0,2026-10-15,lawzana.com,2,map or business listing,INT,
+R062,Q18,VN-EN-18,perplexity,en,0,2026-10-15,usembassy.gov,6,official or government,INT,
+R063,Q11,VN-EN-11,chatgpt,en,1,2026-10-15,BW-260,1,business's own website,INT,Food
+R063,Q11,VN-EN-11,chatgpt,en,1,2026-10-15,sevenrooms.com,4,booking or marketplace,INT,
+R064,Q04,VN-EN-04,perplexity,en,0,2026-10-15,BW-122,1,business's own website,INT,"Food, Hotels"
+R064,Q04,VN-EN-04,perplexity,en,0,2026-10-15,hotels.com,4,booking or marketplace,INT,
+R064,Q04,VN-EN-04,perplexity,en,0,2026-10-15,traveloka.com,4,booking or marketplace,INT,
+R064,Q04,VN-EN-04,perplexity,en,0,2026-10-15,trip.com,4,booking or marketplace,INT,
+R065,Q16,VN-VI-16,gemini,vi,1,2026-10-15,BW-083,1,business's own website,VN,Education
+R065,Q16,VN-VI-16,gemini,vi,1,2026-10-15,BW-089,1,business's own website,VN,Education
+R065,Q16,VN-VI-16,gemini,vi,1,2026-10-15,BW-143,1,business's own website,VN,Education
+R065,Q16,VN-VI-16,gemini,vi,1,2026-10-15,BW-179,1,business's own website,VN,Education
+R065,Q16,VN-VI-16,gemini,vi,1,2026-10-15,BW-248,1,business's own website,VN,Education
+R065,Q16,VN-VI-16,gemini,vi,1,2026-10-15,BW-341,1,business's own website,VN,Education
+R065,Q16,VN-VI-16,gemini,vi,1,2026-10-15,edu2review.com,3,review platform,VN,
+R065,Q16,VN-VI-16,gemini,vi,1,2026-10-15,facebook.com,7,social media,INT,
+R065,Q16,VN-VI-16,gemini,vi,1,2026-10-15,kiddihub.com,2,map or business listing,VN,
+R065,Q16,VN-VI-16,gemini,vi,1,2026-10-15,reviewnhatrang.com.vn,5,editorial or media,VN,
+R067,Q06,VN-EN-06,chatgpt,en,0,2026-10-15,BW-196,1,business's own website,VN,Clinics
+R067,Q06,VN-EN-06,chatgpt,en,0,2026-10-15,BW-263,1,business's own website,VN,Clinics
+R067,Q06,VN-EN-06,chatgpt,en,0,2026-10-15,BW-292,1,business's own website,INT,Clinics
+R067,Q06,VN-EN-06,chatgpt,en,0,2026-10-15,BW-380,1,business's own website,VN,Clinics
+R067,Q06,VN-EN-06,chatgpt,en,0,2026-10-15,embassy.gov.au,6,official or government,INT,
+R067,Q06,VN-EN-06,chatgpt,en,0,2026-10-15,state.gov,6,official or government,INT,
+R068,Q18,VN-VI-18,chatgpt,vi,0,2026-10-15,dangkykinhdoanh.gov.vn,6,official or government,VN,
+R068,Q18,VN-VI-18,chatgpt,vi,0,2026-10-15,luatsuhanoi.vn,2,map or business listing,VN,
+R069,Q23,VN-EN-23,claude,en,0,2026-10-15,BW-105,1,business's own website,VN,Retail
+R069,Q23,VN-EN-23,claude,en,0,2026-10-15,BW-240,1,business's own website,VN,Retail
+R069,Q23,VN-EN-23,claude,en,0,2026-10-15,BW-326,1,business's own website,VN,Retail
+R069,Q23,VN-EN-23,claude,en,0,2026-10-15,alibaba.com,4,booking or marketplace,INT,
+R070,Q05,VN-VI-05,chatgpt,vi,0,2026-10-15,BW-047,1,business's own website,VN,Clinics
+R070,Q05,VN-VI-05,chatgpt,vi,0,2026-10-15,BW-182,1,business's own website,VN,Clinics
+R070,Q05,VN-VI-05,chatgpt,vi,0,2026-10-15,BW-228,1,business's own website,VN,Clinics
+R070,Q05,VN-VI-05,chatgpt,vi,0,2026-10-15,BW-368,1,business's own website,VN,Clinics
+R071,Q05,VN-VI-05,perplexity,vi,0,2026-10-15,bookingcare.vn,4,booking or marketplace,VN,
+R071,Q05,VN-VI-05,perplexity,vi,0,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R071,Q05,VN-VI-05,perplexity,vi,0,2026-10-15,toplist.vn,5,editorial or media,VN,
+R071,Q05,VN-VI-05,perplexity,vi,0,2026-10-15,youmed.vn,4,booking or marketplace,VN,
+R072,Q03,VN-EN-03,gemini,en,0,2026-10-15,BW-110,1,business's own website,UND,Hotels
+R072,Q03,VN-EN-03,gemini,en,0,2026-10-15,agoda.com,4,booking or marketplace,INT,
+R072,Q03,VN-EN-03,gemini,en,0,2026-10-15,hotelscombined.com,4,booking or marketplace,INT,
+R072,Q03,VN-EN-03,gemini,en,0,2026-10-15,kayak.com,4,booking or marketplace,INT,
+R072,Q03,VN-EN-03,gemini,en,0,2026-10-15,klook.com,4,booking or marketplace,INT,
+R072,Q03,VN-EN-03,gemini,en,0,2026-10-15,momondo.com.au,4,booking or marketplace,INT,
+R072,Q03,VN-EN-03,gemini,en,0,2026-10-15,vietnamtourism.com,5,editorial or media,UND,
+R075,Q14,VN-EN-14,chatgpt,en,1,2026-10-15,BW-119,1,business's own website,INT,Education
+R075,Q14,VN-EN-14,chatgpt,en,1,2026-10-15,BW-291,1,business's own website,VN,Education
+R075,Q14,VN-EN-14,chatgpt,en,1,2026-10-15,BW-307,1,business's own website,VN,Education
+R075,Q14,VN-EN-14,chatgpt,en,1,2026-10-15,BW-340,1,business's own website,VN,Education
+R075,Q14,VN-EN-14,chatgpt,en,1,2026-10-15,finalsite.net,9,other,INT,
+R075,Q14,VN-EN-14,chatgpt,en,1,2026-10-15,legifrance.gouv.fr,6,official or government,INT,
+R076,Q12,VN-VI-12,claude,vi,1,2026-10-15,diningcity.vn,4,booking or marketplace,INT,
+R076,Q12,VN-VI-12,claude,vi,1,2026-10-15,pasgo.vn,4,booking or marketplace,VN,
+R076,Q12,VN-VI-12,claude,vi,1,2026-10-15,pato.com.vn,4,booking or marketplace,VN,
+R076,Q12,VN-VI-12,claude,vi,1,2026-10-15,tablenow.vn,4,booking or marketplace,VN,
+R077,Q17,VN-VI-17,claude,vi,1,2026-10-15,BW-007,1,business's own website,VN,Professional
+R077,Q17,VN-VI-17,claude,vi,1,2026-10-15,BW-033,1,business's own website,VN,Professional
+R077,Q17,VN-VI-17,claude,vi,1,2026-10-15,BW-104,1,business's own website,VN,Professional
+R077,Q17,VN-VI-17,claude,vi,1,2026-10-15,BW-147,1,business's own website,VN,Professional
+R077,Q17,VN-VI-17,claude,vi,1,2026-10-15,hanoimoi.vn,5,editorial or media,VN,
+R078,Q19,VN-VI-19,claude,vi,1,2026-10-15,BW-003,1,business's own website,VN,Professional
+R078,Q19,VN-VI-19,claude,vi,1,2026-10-15,BW-046,1,business's own website,VN,Professional
+R078,Q19,VN-VI-19,claude,vi,1,2026-10-15,BW-159,1,business's own website,VN,Professional
+R078,Q19,VN-VI-19,claude,vi,1,2026-10-15,BW-185,1,business's own website,VN,Professional
+R078,Q19,VN-VI-19,claude,vi,1,2026-10-15,BW-289,1,business's own website,VN,Professional
+R078,Q19,VN-VI-19,claude,vi,1,2026-10-15,BW-310,1,business's own website,VN,Professional
+R078,Q19,VN-VI-19,claude,vi,1,2026-10-15,BW-330,1,business's own website,VN,Professional
+R079,Q17,VN-VI-17,chatgpt,vi,1,2026-10-15,BW-081,1,business's own website,VN,Professional
+R079,Q17,VN-VI-17,chatgpt,vi,1,2026-10-15,BW-166,1,business's own website,VN,Professional
+R079,Q17,VN-VI-17,chatgpt,vi,1,2026-10-15,BW-266,1,business's own website,VN,Professional
+R079,Q17,VN-VI-17,chatgpt,vi,1,2026-10-15,BW-324,1,business's own website,VN,Professional
+R079,Q17,VN-VI-17,chatgpt,vi,1,2026-10-15,gdt.gov.vn,6,official or government,VN,
+R080,Q16,VN-VI-16,perplexity,vi,1,2026-10-15,BW-083,1,business's own website,VN,Education
+R080,Q16,VN-VI-16,perplexity,vi,1,2026-10-15,BW-279,1,business's own website,VN,Education
+R080,Q16,VN-VI-16,perplexity,vi,1,2026-10-15,BW-333,1,business's own website,VN,Education
+R080,Q16,VN-VI-16,perplexity,vi,1,2026-10-15,BW-393,1,business's own website,VN,"Education, Retail"
+R081,Q08,VN-EN-08,perplexity,en,1,2026-10-15,BW-123,1,business's own website,VN,Clinics
+R081,Q08,VN-EN-08,perplexity,en,1,2026-10-15,citiesinsider.com,5,editorial or media,UND,
+R081,Q08,VN-EN-08,perplexity,en,1,2026-10-15,doctorsa.com,4,booking or marketplace,UND,
+R081,Q08,VN-EN-08,perplexity,en,1,2026-10-15,vietnamwithme.com,5,editorial or media,UND,
+R082,Q10,VN-VI-10,perplexity,vi,1,2026-10-15,BW-232,1,business's own website,VN,Food
+R082,Q10,VN-VI-10,perplexity,vi,1,2026-10-15,dantri.com.vn,5,editorial or media,VN,
+R082,Q10,VN-VI-10,perplexity,vi,1,2026-10-15,foody.vn,3,review platform,VN,
+R082,Q10,VN-VI-10,perplexity,vi,1,2026-10-15,pasgo.vn,4,booking or marketplace,VN,
+R082,Q10,VN-VI-10,perplexity,vi,1,2026-10-15,toplist.vn,5,editorial or media,VN,
+R083,Q13,VN-EN-13,chatgpt,en,1,2026-10-15,BW-012,1,business's own website,INT,Education
+R083,Q13,VN-EN-13,chatgpt,en,1,2026-10-15,BW-125,1,business's own website,VN,Education
+R083,Q13,VN-EN-13,chatgpt,en,1,2026-10-15,BW-220,1,business's own website,VN,Education
+R083,Q13,VN-EN-13,chatgpt,en,1,2026-10-15,BW-355,1,business's own website,VN,Education
+R083,Q13,VN-EN-13,chatgpt,en,1,2026-10-15,BW-392,1,business's own website,VN,Education
+R084,Q09,VN-EN-09,chatgpt,en,1,2026-10-15,BW-357,1,business's own website,VN,Food
+R084,Q09,VN-EN-09,chatgpt,en,1,2026-10-15,michelin.com,5,editorial or media,INT,
+R085,Q12,VN-VI-12,claude,vi,0,2026-10-15,BW-165,1,business's own website,VN,"Food, Retail"
+R085,Q12,VN-VI-12,claude,vi,0,2026-10-15,pasgo.vn,4,booking or marketplace,VN,
+R085,Q12,VN-VI-12,claude,vi,0,2026-10-15,pato.com.vn,4,booking or marketplace,VN,
+R085,Q12,VN-VI-12,claude,vi,0,2026-10-15,tablenow.vn,4,booking or marketplace,VN,
+R086,Q18,VN-EN-18,perplexity,en,1,2026-10-15,bewiseapps.com,5,editorial or media,UND,
+R086,Q18,VN-EN-18,perplexity,en,1,2026-10-15,lawzana.com,2,map or business listing,INT,
+R087,Q04,VN-EN-04,chatgpt,en,0,2026-10-15,BW-026,1,business's own website,VN,Hotels
+R087,Q04,VN-EN-04,chatgpt,en,0,2026-10-15,BW-041,1,business's own website,VN,Hotels
+R087,Q04,VN-EN-04,chatgpt,en,0,2026-10-15,BW-077,1,business's own website,INT,"Food, Hotels"
+R087,Q04,VN-EN-04,chatgpt,en,0,2026-10-15,BW-084,1,business's own website,INT,"Food, Hotels"
+R087,Q04,VN-EN-04,chatgpt,en,0,2026-10-15,BW-091,1,business's own website,INT,"Food, Hotels"
+R087,Q04,VN-EN-04,chatgpt,en,0,2026-10-15,BW-103,1,business's own website,VN,Hotels
+R087,Q04,VN-EN-04,chatgpt,en,0,2026-10-15,BW-178,1,business's own website,VN,Hotels
+R087,Q04,VN-EN-04,chatgpt,en,0,2026-10-15,BW-231,1,business's own website,VN,Hotels
+R088,Q09,VN-EN-09,perplexity,en,0,2026-10-15,BW-020,1,business's own website,VN,"Food, Hotels"
+R088,Q09,VN-EN-09,perplexity,en,0,2026-10-15,BW-155,1,business's own website,INT,Food
+R088,Q09,VN-EN-09,perplexity,en,0,2026-10-15,michelin.com,5,editorial or media,INT,
+R088,Q09,VN-EN-09,perplexity,en,0,2026-10-15,timeout.com,5,editorial or media,INT,
+R089,Q05,VN-VI-05,perplexity,vi,1,2026-10-15,bookingcare.vn,4,booking or marketplace,VN,
+R089,Q05,VN-VI-05,perplexity,vi,1,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R089,Q05,VN-VI-05,perplexity,vi,1,2026-10-15,phunuvietnam.vn,5,editorial or media,VN,
+R089,Q05,VN-VI-05,perplexity,vi,1,2026-10-15,toplist.vn,5,editorial or media,VN,
+R089,Q05,VN-VI-05,perplexity,vi,1,2026-10-15,youmed.vn,4,booking or marketplace,VN,
+R090,Q09,VN-VI-09,perplexity,vi,1,2026-10-15,BW-020,1,business's own website,VN,"Food, Hotels"
+R090,Q09,VN-VI-09,perplexity,vi,1,2026-10-15,BW-232,1,business's own website,VN,Food
+R090,Q09,VN-VI-09,perplexity,vi,1,2026-10-15,pasgo.vn,4,booking or marketplace,VN,
+R090,Q09,VN-VI-09,perplexity,vi,1,2026-10-15,toplist.vn,5,editorial or media,VN,
+R090,Q09,VN-VI-09,perplexity,vi,1,2026-10-15,vietnam.travel,6,official or government,VN,
+R091,Q06,VN-EN-06,claude,en,0,2026-10-15,BW-270,1,business's own website,VN,Clinics
+R091,Q06,VN-EN-06,claude,en,0,2026-10-15,doctorsinvietnam.com,2,map or business listing,UND,
+R091,Q06,VN-EN-06,claude,en,0,2026-10-15,insurance-vietnam.com,5,editorial or media,UND,
+R091,Q06,VN-EN-06,claude,en,0,2026-10-15,vietnamdoneright.com,5,editorial or media,VN,
+R091,Q06,VN-EN-06,claude,en,0,2026-10-15,wikipedia.org,9,other,INT,
+R092,Q01,VN-EN-01,chatgpt,en,1,2026-10-15,BW-014,1,business's own website,VN,Hotels
+R092,Q01,VN-EN-01,chatgpt,en,1,2026-10-15,BW-070,1,business's own website,VN,Hotels
+R092,Q01,VN-EN-01,chatgpt,en,1,2026-10-15,BW-077,1,business's own website,INT,"Food, Hotels"
+R092,Q01,VN-EN-01,chatgpt,en,1,2026-10-15,BW-163,1,business's own website,VN,Hotels
+R092,Q01,VN-EN-01,chatgpt,en,1,2026-10-15,BW-189,1,business's own website,VN,Hotels
+R092,Q01,VN-EN-01,chatgpt,en,1,2026-10-15,BW-255,1,business's own website,VN,Hotels
+R092,Q01,VN-EN-01,chatgpt,en,1,2026-10-15,BW-284,1,business's own website,VN,Hotels
+R092,Q01,VN-EN-01,chatgpt,en,1,2026-10-15,BW-297,1,business's own website,VN,Hotels
+R093,Q01,VN-VI-01,claude,vi,1,2026-10-15,boutiquehotel.guru,5,editorial or media,UND,
+R093,Q01,VN-VI-01,claude,vi,1,2026-10-15,refinedboutiquehotels.com,5,editorial or media,UND,
+R093,Q01,VN-VI-01,claude,vi,1,2026-10-15,tripadvisor.co.nz,3,review platform,INT,
+R095,Q02,VN-EN-02,perplexity,en,1,2026-10-15,expedia.co.uk,4,booking or marketplace,INT,
+R095,Q02,VN-EN-02,perplexity,en,1,2026-10-15,hotels.com,4,booking or marketplace,INT,
+R098,Q06,VN-EN-06,perplexity,en,0,2026-10-15,embassy.gov.au,6,official or government,INT,
+R098,Q06,VN-EN-06,perplexity,en,0,2026-10-15,expatinfodesk.com,5,editorial or media,UND,
+R098,Q06,VN-EN-06,perplexity,en,0,2026-10-15,travelfish.org,5,editorial or media,INT,
+R098,Q06,VN-EN-06,perplexity,en,0,2026-10-15,travelinsuranceterms.com,5,editorial or media,UND,
+R099,Q16,VN-VI-16,chatgpt,vi,0,2026-10-15,BW-083,1,business's own website,VN,Education
+R099,Q16,VN-VI-16,chatgpt,vi,0,2026-10-15,BW-125,1,business's own website,VN,Education
+R099,Q16,VN-VI-16,chatgpt,vi,0,2026-10-15,BW-199,1,business's own website,VN,Education
+R099,Q16,VN-VI-16,chatgpt,vi,0,2026-10-15,BW-341,1,business's own website,VN,Education
+R100,Q11,VN-EN-11,perplexity,en,0,2026-10-15,alphatravelguide.com,5,editorial or media,UND,
+R100,Q11,VN-EN-11,perplexity,en,0,2026-10-15,vietnamtourism.com,5,editorial or media,UND,
+R101,Q21,VN-EN-21,claude,en,0,2026-10-15,BW-338,1,business's own website,VN,Retail
+R101,Q21,VN-EN-21,claude,en,0,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R101,Q21,VN-EN-21,claude,en,0,2026-10-15,reviewnhatrang.com.vn,5,editorial or media,VN,
+R101,Q21,VN-EN-21,claude,en,0,2026-10-15,toplist.vn,5,editorial or media,VN,
+R101,Q21,VN-EN-21,claude,en,0,2026-10-15,wikipedia.org,9,other,INT,
+R102,Q15,VN-VI-15,claude,vi,1,2026-10-15,BW-057,1,business's own website,VN,Education
+R102,Q15,VN-VI-15,claude,vi,1,2026-10-15,BW-134,1,business's own website,VN,Education
+R102,Q15,VN-VI-15,claude,vi,1,2026-10-15,BW-135,1,business's own website,VN,Education
+R102,Q15,VN-VI-15,claude,vi,1,2026-10-15,BW-146,1,business's own website,VN,Education
+R102,Q15,VN-VI-15,claude,vi,1,2026-10-15,BW-167,1,business's own website,VN,Education
+R102,Q15,VN-VI-15,claude,vi,1,2026-10-15,BW-317,1,business's own website,VN,Education
+R102,Q15,VN-VI-15,claude,vi,1,2026-10-15,khoahocreview.vn,5,editorial or media,VN,
+R103,Q19,VN-EN-19,chatgpt,en,0,2026-10-15,BW-046,1,business's own website,VN,Professional
+R103,Q19,VN-EN-19,chatgpt,en,0,2026-10-15,BW-156,1,business's own website,VN,Professional
+R103,Q19,VN-EN-19,chatgpt,en,0,2026-10-15,chinhphu.vn,6,official or government,VN,
+R105,Q11,VN-EN-11,chatgpt,en,0,2026-10-15,BW-260,1,business's own website,INT,Food
+R105,Q11,VN-EN-11,chatgpt,en,0,2026-10-15,investing.com,5,editorial or media,INT,
+R105,Q11,VN-EN-11,chatgpt,en,0,2026-10-15,vietnamtourism.com,5,editorial or media,UND,
+R107,Q04,VN-VI-04,perplexity,vi,1,2026-10-15,BW-091,1,business's own website,INT,"Food, Hotels"
+R107,Q04,VN-VI-04,perplexity,vi,1,2026-10-15,agoda.com,4,booking or marketplace,INT,
+R107,Q04,VN-VI-04,perplexity,vi,1,2026-10-15,hotels.com,4,booking or marketplace,INT,
+R107,Q04,VN-VI-04,perplexity,vi,1,2026-10-15,traveloka.com,4,booking or marketplace,INT,
+R107,Q04,VN-VI-04,perplexity,vi,1,2026-10-15,trip.com,4,booking or marketplace,INT,
+R108,Q08,VN-VI-08,claude,vi,1,2026-10-15,BW-040,1,business's own website,VN,Clinics
+R108,Q08,VN-VI-08,claude,vi,1,2026-10-15,BW-058,1,business's own website,VN,Clinics
+R108,Q08,VN-VI-08,claude,vi,1,2026-10-15,BW-380,1,business's own website,VN,Clinics
+R108,Q08,VN-VI-08,claude,vi,1,2026-10-15,hellobacsi.com,5,editorial or media,INT,
+R108,Q08,VN-VI-08,claude,vi,1,2026-10-15,phongkhambacsi.vn,2,map or business listing,VN,
+R110,Q23,VN-VI-23,claude,vi,0,2026-10-15,BW-055,1,business's own website,VN,Retail
+R110,Q23,VN-VI-23,claude,vi,0,2026-10-15,BW-105,1,business's own website,VN,Retail
+R110,Q23,VN-VI-23,claude,vi,0,2026-10-15,BW-326,1,business's own website,VN,Retail
+R111,Q23,VN-VI-23,gemini,vi,0,2026-10-15,BW-073,1,business's own website,VN,Retail
+R111,Q23,VN-VI-23,gemini,vi,0,2026-10-15,BW-107,1,business's own website,VN,Retail
+R111,Q23,VN-VI-23,gemini,vi,0,2026-10-15,BW-109,1,business's own website,VN,Retail
+R111,Q23,VN-VI-23,gemini,vi,0,2026-10-15,BW-326,1,business's own website,VN,Retail
+R111,Q23,VN-VI-23,gemini,vi,0,2026-10-15,BW-338,1,business's own website,VN,Retail
+R111,Q23,VN-VI-23,gemini,vi,0,2026-10-15,facebook.com,7,social media,INT,
+R111,Q23,VN-VI-23,gemini,vi,0,2026-10-15,tinhte.vn,8,forum or community,VN,
+R111,Q23,VN-VI-23,gemini,vi,0,2026-10-15,websosanh.vn,4,booking or marketplace,VN,
+R112,Q24,VN-VI-24,perplexity,vi,0,2026-10-15,BW-165,1,business's own website,VN,"Food, Retail"
+R112,Q24,VN-VI-24,perplexity,vi,0,2026-10-15,BW-272,1,business's own website,VN,Retail
+R112,Q24,VN-VI-24,perplexity,vi,0,2026-10-15,BW-374,1,business's own website,VN,Retail
+R112,Q24,VN-VI-24,perplexity,vi,0,2026-10-15,grab.com,4,booking or marketplace,INT,
+R113,Q08,VN-EN-08,claude,en,0,2026-10-15,BW-154,1,business's own website,VN,Clinics
+R113,Q08,VN-EN-08,claude,en,0,2026-10-15,doctorsa.com,4,booking or marketplace,UND,
+R113,Q08,VN-EN-08,claude,en,0,2026-10-15,medicaltourism.vn,4,booking or marketplace,UND,
+R113,Q08,VN-EN-08,claude,en,0,2026-10-15,medicaltourismco.com,4,booking or marketplace,INT,
+R113,Q08,VN-EN-08,claude,en,0,2026-10-15,tripadvisor.co.uk,3,review platform,INT,
+R113,Q08,VN-EN-08,claude,en,0,2026-10-15,vietnamwithme.com,5,editorial or media,UND,
+R114,Q18,VN-EN-18,chatgpt,en,0,2026-10-15,dangkykinhdoanh.gov.vn,6,official or government,VN,
+R114,Q18,VN-EN-18,chatgpt,en,0,2026-10-15,investvietnam.gov.vn,6,official or government,VN,
+R114,Q18,VN-EN-18,chatgpt,en,0,2026-10-15,luatsuhanoi.vn,2,map or business listing,VN,
+R116,Q19,VN-EN-19,gemini,en,1,2026-10-15,BW-113,1,business's own website,VN,Professional
+R116,Q19,VN-EN-19,gemini,en,1,2026-10-15,BW-226,1,business's own website,VN,Professional
+R116,Q19,VN-EN-19,gemini,en,1,2026-10-15,BW-299,1,business's own website,INT,Professional
+R116,Q19,VN-EN-19,gemini,en,1,2026-10-15,BW-303,1,business's own website,VN,Professional
+R116,Q19,VN-EN-19,gemini,en,1,2026-10-15,BW-329,1,business's own website,VN,Professional
+R116,Q19,VN-EN-19,gemini,en,1,2026-10-15,maisonoffice.vn,4,booking or marketplace,VN,
+R120,Q09,VN-EN-09,perplexity,en,1,2026-10-15,BW-020,1,business's own website,VN,"Food, Hotels"
+R120,Q09,VN-EN-09,perplexity,en,1,2026-10-15,BW-155,1,business's own website,INT,Food
+R120,Q09,VN-EN-09,perplexity,en,1,2026-10-15,michelin.com,5,editorial or media,INT,
+R120,Q09,VN-EN-09,perplexity,en,1,2026-10-15,tripadvisor.com,3,review platform,INT,
+R121,Q14,VN-EN-14,claude,en,0,2026-10-15,BW-186,1,business's own website,INT,Education
+R121,Q14,VN-EN-14,claude,en,0,2026-10-15,BW-382,1,business's own website,UND,Education
+R121,Q14,VN-EN-14,claude,en,0,2026-10-15,doris.school,2,map or business listing,UND,
+R121,Q14,VN-EN-14,claude,en,0,2026-10-15,vietnamteachingjobs.com,9,other,UND,
+R122,Q17,VN-VI-17,claude,vi,0,2026-10-15,BW-007,1,business's own website,VN,Professional
+R122,Q17,VN-VI-17,claude,vi,0,2026-10-15,BW-033,1,business's own website,VN,Professional
+R122,Q17,VN-VI-17,claude,vi,0,2026-10-15,BW-200,1,business's own website,VN,Professional
+R122,Q17,VN-VI-17,claude,vi,0,2026-10-15,BW-395,1,business's own website,VN,Professional
+R122,Q17,VN-VI-17,claude,vi,0,2026-10-15,hanoimoi.vn,5,editorial or media,VN,
+R122,Q17,VN-VI-17,claude,vi,0,2026-10-15,vietstock.vn,5,editorial or media,VN,
+R123,Q05,VN-VI-05,claude,vi,0,2026-10-15,BW-120,1,business's own website,VN,Clinics
+R123,Q05,VN-VI-05,claude,vi,0,2026-10-15,BW-243,1,business's own website,VN,Clinics
+R123,Q05,VN-VI-05,claude,vi,0,2026-10-15,BW-367,1,business's own website,VN,Clinics
+R124,Q06,VN-VI-06,chatgpt,vi,0,2026-10-15,BW-196,1,business's own website,VN,Clinics
+R124,Q06,VN-VI-06,chatgpt,vi,0,2026-10-15,BW-206,1,business's own website,INT,Clinics
+R124,Q06,VN-VI-06,chatgpt,vi,0,2026-10-15,BW-263,1,business's own website,VN,Clinics
+R124,Q06,VN-VI-06,chatgpt,vi,0,2026-10-15,BW-380,1,business's own website,VN,Clinics
+R124,Q06,VN-VI-06,chatgpt,vi,0,2026-10-15,suckhoethudo.vn,6,official or government,VN,
+R125,Q17,VN-VI-17,chatgpt,vi,0,2026-10-15,BW-081,1,business's own website,VN,Professional
+R125,Q17,VN-VI-17,chatgpt,vi,0,2026-10-15,BW-104,1,business's own website,VN,Professional
+R125,Q17,VN-VI-17,chatgpt,vi,0,2026-10-15,BW-127,1,business's own website,VN,Professional
+R125,Q17,VN-VI-17,chatgpt,vi,0,2026-10-15,gdt.gov.vn,6,official or government,VN,
+R126,Q08,VN-EN-08,chatgpt,en,1,2026-10-15,BW-040,1,business's own website,VN,Clinics
+R126,Q08,VN-EN-08,chatgpt,en,1,2026-10-15,BW-207,1,business's own website,INT,Clinics
+R126,Q08,VN-EN-08,chatgpt,en,1,2026-10-15,BW-380,1,business's own website,VN,Clinics
+R126,Q08,VN-EN-08,chatgpt,en,1,2026-10-15,gov.uk,6,official or government,INT,
+R127,Q06,VN-EN-06,chatgpt,en,1,2026-10-15,BW-196,1,business's own website,VN,Clinics
+R127,Q06,VN-EN-06,chatgpt,en,1,2026-10-15,BW-263,1,business's own website,VN,Clinics
+R127,Q06,VN-EN-06,chatgpt,en,1,2026-10-15,BW-292,1,business's own website,INT,Clinics
+R127,Q06,VN-EN-06,chatgpt,en,1,2026-10-15,BW-380,1,business's own website,VN,Clinics
+R127,Q06,VN-EN-06,chatgpt,en,1,2026-10-15,state.gov,6,official or government,INT,
+R128,Q07,VN-VI-07,perplexity,vi,1,2026-10-15,BW-237,1,business's own website,VN,Clinics
+R128,Q07,VN-VI-07,perplexity,vi,1,2026-10-15,bookingcare.vn,4,booking or marketplace,VN,
+R128,Q07,VN-VI-07,perplexity,vi,1,2026-10-15,checknhakhoa.com,5,editorial or media,VN,
+R129,Q05,VN-VI-05,chatgpt,vi,1,2026-10-15,BW-047,1,business's own website,VN,Clinics
+R129,Q05,VN-VI-05,chatgpt,vi,1,2026-10-15,BW-182,1,business's own website,VN,Clinics
+R129,Q05,VN-VI-05,chatgpt,vi,1,2026-10-15,BW-280,1,business's own website,VN,Clinics
+R129,Q05,VN-VI-05,chatgpt,vi,1,2026-10-15,BW-344,1,business's own website,VN,Clinics
+R129,Q05,VN-VI-05,chatgpt,vi,1,2026-10-15,hochiminhcity.gov.vn,6,official or government,VN,
+R130,Q22,VN-VI-22,chatgpt,vi,1,2026-10-15,BW-045,1,business's own website,VN,Retail
+R130,Q22,VN-VI-22,chatgpt,vi,1,2026-10-15,BW-175,1,business's own website,VN,Retail
+R130,Q22,VN-VI-22,chatgpt,vi,1,2026-10-15,BW-298,1,business's own website,VN,Retail
+R130,Q22,VN-VI-22,chatgpt,vi,1,2026-10-15,BW-312,1,business's own website,VN,Retail
+R130,Q22,VN-VI-22,chatgpt,vi,1,2026-10-15,BW-325,1,business's own website,INT,Retail
+R130,Q22,VN-VI-22,chatgpt,vi,1,2026-10-15,BW-343,1,business's own website,VN,Retail
+R131,Q18,VN-VI-18,chatgpt,vi,1,2026-10-15,dangkykinhdoanh.gov.vn,6,official or government,VN,
+R131,Q18,VN-VI-18,chatgpt,vi,1,2026-10-15,luatsuhanoi.vn,2,map or business listing,VN,
+R132,Q11,VN-VI-11,chatgpt,vi,1,2026-10-15,BW-262,1,business's own website,VN,Food
+R132,Q11,VN-VI-11,chatgpt,vi,1,2026-10-15,nhatrangduhi.com,5,editorial or media,UND,
+R132,Q11,VN-VI-11,chatgpt,vi,1,2026-10-15,reviewnhatrang.net,5,editorial or media,UND,
+R133,Q17,VN-VI-17,perplexity,vi,1,2026-10-15,BW-081,1,business's own website,VN,Professional
+R133,Q17,VN-VI-17,perplexity,vi,1,2026-10-15,BW-104,1,business's own website,VN,Professional
+R133,Q17,VN-VI-17,perplexity,vi,1,2026-10-15,BW-127,1,business's own website,VN,Professional
+R133,Q17,VN-VI-17,perplexity,vi,1,2026-10-15,hanoimoi.vn,5,editorial or media,VN,
+R133,Q17,VN-VI-17,perplexity,vi,1,2026-10-15,toplist.vn,5,editorial or media,VN,
+R134,Q10,VN-EN-10,claude,en,0,2026-10-15,BW-024,1,business's own website,VN,Food
+R134,Q10,VN-EN-10,claude,en,0,2026-10-15,BW-069,1,business's own website,UND,Food
+R134,Q10,VN-EN-10,claude,en,0,2026-10-15,BW-227,1,business's own website,VN,Food
+R134,Q10,VN-EN-10,claude,en,0,2026-10-15,BW-246,1,business's own website,UND,Food
+R134,Q10,VN-EN-10,claude,en,0,2026-10-15,restaurantsforkings.com,5,editorial or media,UND,
+R134,Q10,VN-EN-10,claude,en,0,2026-10-15,trip.com,4,booking or marketplace,INT,
+R135,Q13,VN-EN-13,chatgpt,en,0,2026-10-15,BW-012,1,business's own website,INT,Education
+R135,Q13,VN-EN-13,chatgpt,en,0,2026-10-15,BW-125,1,business's own website,VN,Education
+R135,Q13,VN-EN-13,chatgpt,en,0,2026-10-15,BW-220,1,business's own website,VN,Education
+R135,Q13,VN-EN-13,chatgpt,en,0,2026-10-15,BW-392,1,business's own website,VN,Education
+R136,Q19,VN-EN-19,chatgpt,en,1,2026-10-15,BW-223,1,business's own website,INT,Professional
+R136,Q19,VN-EN-19,chatgpt,en,1,2026-10-15,BW-321,1,business's own website,VN,Professional
+R136,Q19,VN-EN-19,chatgpt,en,1,2026-10-15,BW-334,1,business's own website,UND,Professional
+R136,Q19,VN-EN-19,chatgpt,en,1,2026-10-15,dichvucong.gov.vn,6,official or government,VN,
+R137,Q20,VN-EN-20,claude,en,1,2026-10-15,BW-079,1,business's own website,INT,Professional
+R137,Q20,VN-EN-20,claude,en,1,2026-10-15,BW-124,1,business's own website,INT,Professional
+R137,Q20,VN-EN-20,claude,en,1,2026-10-15,BW-157,1,business's own website,INT,Professional
+R137,Q20,VN-EN-20,claude,en,1,2026-10-15,BW-162,1,business's own website,INT,Professional
+R137,Q20,VN-EN-20,claude,en,1,2026-10-15,BW-274,1,business's own website,INT,Professional
+R137,Q20,VN-EN-20,claude,en,1,2026-10-15,BW-336,1,business's own website,INT,Professional
+R137,Q20,VN-EN-20,claude,en,1,2026-10-15,BW-359,1,business's own website,INT,Professional
+R137,Q20,VN-EN-20,claude,en,1,2026-10-15,BW-361,1,business's own website,VN,Professional
+R137,Q20,VN-EN-20,claude,en,1,2026-10-15,yellowpages.com.vn,2,map or business listing,VN,
+R138,Q14,VN-EN-14,perplexity,en,0,2026-10-15,BW-119,1,business's own website,INT,Education
+R138,Q14,VN-EN-14,perplexity,en,0,2026-10-15,BW-186,1,business's own website,INT,Education
+R138,Q14,VN-EN-14,perplexity,en,0,2026-10-15,goodschoolsguide.co.uk,5,editorial or media,INT,
+R138,Q14,VN-EN-14,perplexity,en,0,2026-10-15,international-schools-guide.com,2,map or business listing,UND,
+R138,Q14,VN-EN-14,perplexity,en,0,2026-10-15,internationalschools.net,2,map or business listing,UND,
+R138,Q14,VN-EN-14,perplexity,en,0,2026-10-15,vietnamkb.com,5,editorial or media,UND,
+R139,Q04,VN-EN-04,chatgpt,en,1,2026-10-15,BW-026,1,business's own website,VN,Hotels
+R139,Q04,VN-EN-04,chatgpt,en,1,2026-10-15,BW-041,1,business's own website,VN,Hotels
+R139,Q04,VN-EN-04,chatgpt,en,1,2026-10-15,BW-091,1,business's own website,INT,"Food, Hotels"
+R139,Q04,VN-EN-04,chatgpt,en,1,2026-10-15,BW-152,1,business's own website,UND,Hotels
+R139,Q04,VN-EN-04,chatgpt,en,1,2026-10-15,BW-250,1,business's own website,VN,Hotels
+R139,Q04,VN-EN-04,chatgpt,en,1,2026-10-15,BW-323,1,business's own website,VN,Hotels
+R140,Q04,VN-EN-04,perplexity,en,1,2026-10-15,BW-122,1,business's own website,INT,"Food, Hotels"
+R140,Q04,VN-EN-04,perplexity,en,1,2026-10-15,hotels.com,4,booking or marketplace,INT,
+R140,Q04,VN-EN-04,perplexity,en,1,2026-10-15,traveloka.com,4,booking or marketplace,INT,
+R140,Q04,VN-EN-04,perplexity,en,1,2026-10-15,trip.com,4,booking or marketplace,INT,
+R141,Q08,VN-VI-08,perplexity,vi,0,2026-10-15,BW-056,1,business's own website,VN,"Clinics, Food"
+R141,Q08,VN-VI-08,perplexity,vi,0,2026-10-15,BW-123,1,business's own website,VN,Clinics
+R141,Q08,VN-VI-08,perplexity,vi,0,2026-10-15,BW-371,1,business's own website,VN,Clinics
+R141,Q08,VN-VI-08,perplexity,vi,0,2026-10-15,BW-380,1,business's own website,VN,Clinics
+R141,Q08,VN-VI-08,perplexity,vi,0,2026-10-15,bcare.vn,4,booking or marketplace,VN,
+R141,Q08,VN-VI-08,perplexity,vi,0,2026-10-15,soctrangtourism.vn,5,editorial or media,UND,
+R142,Q14,VN-VI-14,perplexity,vi,1,2026-10-15,BW-044,1,business's own website,VN,Education
+R142,Q14,VN-VI-14,perplexity,vi,1,2026-10-15,BW-064,1,business's own website,INT,Education
+R142,Q14,VN-VI-14,perplexity,vi,1,2026-10-15,BW-076,1,business's own website,VN,Education
+R142,Q14,VN-VI-14,perplexity,vi,1,2026-10-15,BW-119,1,business's own website,INT,Education
+R143,Q05,VN-EN-05,claude,en,0,2026-10-15,BW-061,1,business's own website,VN,Clinics
+R143,Q05,VN-EN-05,claude,en,0,2026-10-15,BW-088,1,business's own website,VN,Clinics
+R143,Q05,VN-EN-05,claude,en,0,2026-10-15,BW-118,1,business's own website,VN,Clinics
+R143,Q05,VN-EN-05,claude,en,0,2026-10-15,BW-267,1,business's own website,VN,Clinics
+R143,Q05,VN-EN-05,claude,en,0,2026-10-15,BW-335,1,business's own website,VN,Clinics
+R143,Q05,VN-EN-05,claude,en,0,2026-10-15,bookingcare.vn,4,booking or marketplace,VN,
+R143,Q05,VN-EN-05,claude,en,0,2026-10-15,dentaltrip.io,4,booking or marketplace,VN,
+R144,Q14,VN-EN-14,chatgpt,en,0,2026-10-15,BW-119,1,business's own website,INT,Education
+R144,Q14,VN-EN-14,chatgpt,en,0,2026-10-15,BW-121,1,business's own website,VN,Education
+R144,Q14,VN-EN-14,chatgpt,en,0,2026-10-15,BW-291,1,business's own website,VN,Education
+R144,Q14,VN-EN-14,chatgpt,en,0,2026-10-15,BW-307,1,business's own website,VN,Education
+R144,Q14,VN-EN-14,chatgpt,en,0,2026-10-15,BW-340,1,business's own website,VN,Education
+R144,Q14,VN-EN-14,chatgpt,en,0,2026-10-15,cois.org,9,other,INT,
+R144,Q14,VN-EN-14,chatgpt,en,0,2026-10-15,finalsite.net,9,other,INT,
+R145,Q17,VN-EN-17,chatgpt,en,1,2026-10-15,BW-080,1,business's own website,INT,Professional
+R145,Q17,VN-EN-17,chatgpt,en,1,2026-10-15,BW-173,1,business's own website,VN,Professional
+R145,Q17,VN-EN-17,chatgpt,en,1,2026-10-15,BW-229,1,business's own website,INT,Professional
+R145,Q17,VN-EN-17,chatgpt,en,1,2026-10-15,BW-339,1,business's own website,INT,Professional
+R145,Q17,VN-EN-17,chatgpt,en,1,2026-10-15,BW-347,1,business's own website,VN,Professional
+R145,Q17,VN-EN-17,chatgpt,en,1,2026-10-15,BW-352,1,business's own website,INT,Professional
+R145,Q17,VN-EN-17,chatgpt,en,1,2026-10-15,vietnamdoneright.com,5,editorial or media,VN,
+R147,Q13,VN-EN-13,perplexity,en,0,2026-10-15,BW-016,1,business's own website,VN,Education
+R147,Q13,VN-EN-13,perplexity,en,0,2026-10-15,BW-054,1,business's own website,UND,Education
+R147,Q13,VN-EN-13,perplexity,en,0,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R148,Q19,VN-VI-19,perplexity,vi,1,2026-10-15,BW-062,1,business's own website,VN,Professional
+R148,Q19,VN-VI-19,perplexity,vi,1,2026-10-15,BW-081,1,business's own website,VN,Professional
+R148,Q19,VN-VI-19,perplexity,vi,1,2026-10-15,BW-158,1,business's own website,VN,Professional
+R148,Q19,VN-VI-19,perplexity,vi,1,2026-10-15,BW-185,1,business's own website,VN,Professional
+R148,Q19,VN-VI-19,perplexity,vi,1,2026-10-15,BW-218,1,business's own website,VN,Professional
+R148,Q19,VN-VI-19,perplexity,vi,1,2026-10-15,BW-275,1,business's own website,VN,Professional
+R149,Q12,VN-VI-12,chatgpt,vi,0,2026-10-15,BW-094,1,business's own website,VN,Food
+R149,Q12,VN-VI-12,chatgpt,vi,0,2026-10-15,BW-356,1,business's own website,VN,Food
+R149,Q12,VN-VI-12,chatgpt,vi,0,2026-10-15,michelin.com,5,editorial or media,INT,
+R149,Q12,VN-VI-12,chatgpt,vi,0,2026-10-15,pasgo.vn,4,booking or marketplace,VN,
+R149,Q12,VN-VI-12,chatgpt,vi,0,2026-10-15,pato.com.vn,4,booking or marketplace,VN,
+R149,Q12,VN-VI-12,chatgpt,vi,0,2026-10-15,tablecheck.com,4,booking or marketplace,INT,
+R149,Q12,VN-VI-12,chatgpt,vi,0,2026-10-15,tablenow.vn,4,booking or marketplace,VN,
+R151,Q23,VN-EN-23,chatgpt,en,1,2026-10-15,BW-165,1,business's own website,VN,"Food, Retail"
+R152,Q12,VN-EN-12,chatgpt,en,1,2026-10-15,BW-077,1,business's own website,INT,"Food, Hotels"
+R152,Q12,VN-EN-12,chatgpt,en,1,2026-10-15,BW-202,1,business's own website,VN,Food
+R152,Q12,VN-EN-12,chatgpt,en,1,2026-10-15,BW-253,1,business's own website,VN,Food
+R152,Q12,VN-EN-12,chatgpt,en,1,2026-10-15,BW-304,1,business's own website,VN,Food
+R152,Q12,VN-EN-12,chatgpt,en,1,2026-10-15,diny.io,9,other,UND,
+R152,Q12,VN-EN-12,chatgpt,en,1,2026-10-15,michelin.com,5,editorial or media,INT,
+R155,Q01,VN-EN-01,claude,en,0,2026-10-15,BW-284,1,business's own website,VN,Hotels
+R155,Q01,VN-EN-01,claude,en,0,2026-10-15,refinedboutiquehotels.com,5,editorial or media,UND,
+R155,Q01,VN-EN-01,claude,en,0,2026-10-15,tripadvisor.co.nz,3,review platform,INT,
+R156,Q19,VN-VI-19,perplexity,vi,0,2026-10-15,BW-062,1,business's own website,VN,Professional
+R156,Q19,VN-VI-19,perplexity,vi,0,2026-10-15,BW-081,1,business's own website,VN,Professional
+R156,Q19,VN-VI-19,perplexity,vi,0,2026-10-15,BW-158,1,business's own website,VN,Professional
+R156,Q19,VN-VI-19,perplexity,vi,0,2026-10-15,BW-185,1,business's own website,VN,Professional
+R156,Q19,VN-VI-19,perplexity,vi,0,2026-10-15,BW-218,1,business's own website,VN,Professional
+R156,Q19,VN-VI-19,perplexity,vi,0,2026-10-15,BW-275,1,business's own website,VN,Professional
+R157,Q10,VN-EN-10,claude,en,1,2026-10-15,BW-024,1,business's own website,VN,Food
+R157,Q10,VN-EN-10,claude,en,1,2026-10-15,BW-069,1,business's own website,UND,Food
+R157,Q10,VN-EN-10,claude,en,1,2026-10-15,BW-227,1,business's own website,VN,Food
+R157,Q10,VN-EN-10,claude,en,1,2026-10-15,BW-246,1,business's own website,UND,Food
+R157,Q10,VN-EN-10,claude,en,1,2026-10-15,restaurantsforkings.com,5,editorial or media,UND,
+R157,Q10,VN-EN-10,claude,en,1,2026-10-15,trip.com,4,booking or marketplace,INT,
+R158,Q15,VN-EN-15,gemini,en,0,2026-10-15,BW-050,1,business's own website,VN,Education
+R158,Q15,VN-EN-15,gemini,en,0,2026-10-15,BW-057,1,business's own website,VN,Education
+R158,Q15,VN-EN-15,gemini,en,0,2026-10-15,BW-090,1,business's own website,UND,Education
+R158,Q15,VN-EN-15,gemini,en,0,2026-10-15,BW-134,1,business's own website,VN,Education
+R158,Q15,VN-EN-15,gemini,en,0,2026-10-15,BW-135,1,business's own website,VN,Education
+R158,Q15,VN-EN-15,gemini,en,0,2026-10-15,BW-146,1,business's own website,VN,Education
+R158,Q15,VN-EN-15,gemini,en,0,2026-10-15,BW-151,1,business's own website,VN,Education
+R158,Q15,VN-EN-15,gemini,en,0,2026-10-15,BW-179,1,business's own website,VN,Education
+R158,Q15,VN-EN-15,gemini,en,0,2026-10-15,BW-194,1,business's own website,VN,Education
+R158,Q15,VN-EN-15,gemini,en,0,2026-10-15,BW-252,1,business's own website,VN,Education
+R159,Q23,VN-EN-23,gemini,en,1,2026-10-15,BW-015,1,business's own website,VN,Retail
+R159,Q23,VN-EN-23,gemini,en,1,2026-10-15,BW-055,1,business's own website,VN,Retail
+R159,Q23,VN-EN-23,gemini,en,1,2026-10-15,BW-098,1,business's own website,VN,Retail
+R159,Q23,VN-EN-23,gemini,en,1,2026-10-15,BW-117,1,business's own website,VN,Retail
+R159,Q23,VN-EN-23,gemini,en,1,2026-10-15,BW-165,1,business's own website,VN,"Food, Retail"
+R159,Q23,VN-EN-23,gemini,en,1,2026-10-15,BW-170,1,business's own website,VN,Retail
+R159,Q23,VN-EN-23,gemini,en,1,2026-10-15,BW-245,1,business's own website,VN,Retail
+R159,Q23,VN-EN-23,gemini,en,1,2026-10-15,BW-326,1,business's own website,VN,Retail
+R159,Q23,VN-EN-23,gemini,en,1,2026-10-15,facebook.com,7,social media,INT,
+R160,Q10,VN-EN-10,chatgpt,en,0,2026-10-15,BW-072,1,business's own website,INT,Food
+R160,Q10,VN-EN-10,chatgpt,en,0,2026-10-15,BW-091,1,business's own website,INT,"Food, Hotels"
+R160,Q10,VN-EN-10,chatgpt,en,0,2026-10-15,BW-096,1,business's own website,VN,Food
+R160,Q10,VN-EN-10,chatgpt,en,0,2026-10-15,BW-190,1,business's own website,VN,Food
+R160,Q10,VN-EN-10,chatgpt,en,0,2026-10-15,BW-379,1,business's own website,VN,Food
+R160,Q10,VN-EN-10,chatgpt,en,0,2026-10-15,michelin.com,5,editorial or media,INT,
+R162,Q09,VN-VI-09,chatgpt,vi,1,2026-10-15,michelin.com,5,editorial or media,INT,
+R163,Q15,VN-VI-15,perplexity,vi,1,2026-10-15,BW-057,1,business's own website,VN,Education
+R163,Q15,VN-VI-15,perplexity,vi,1,2026-10-15,BW-146,1,business's own website,VN,Education
+R163,Q15,VN-VI-15,perplexity,vi,1,2026-10-15,BW-209,1,business's own website,VN,Education
+R163,Q15,VN-VI-15,perplexity,vi,1,2026-10-15,BW-309,1,business's own website,VN,Education
+R163,Q15,VN-VI-15,perplexity,vi,1,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R163,Q15,VN-VI-15,perplexity,vi,1,2026-10-15,tripi.vn,4,booking or marketplace,VN,
+R164,Q15,VN-VI-15,claude,vi,0,2026-10-15,BW-057,1,business's own website,VN,Education
+R164,Q15,VN-VI-15,claude,vi,0,2026-10-15,BW-090,1,business's own website,UND,Education
+R164,Q15,VN-VI-15,claude,vi,0,2026-10-15,BW-135,1,business's own website,VN,Education
+R164,Q15,VN-VI-15,claude,vi,0,2026-10-15,BW-167,1,business's own website,VN,Education
+R164,Q15,VN-VI-15,claude,vi,0,2026-10-15,BW-236,1,business's own website,VN,Education
+R164,Q15,VN-VI-15,claude,vi,0,2026-10-15,BW-252,1,business's own website,VN,Education
+R164,Q15,VN-VI-15,claude,vi,0,2026-10-15,khoahocreview.vn,5,editorial or media,VN,
+R165,Q03,VN-EN-03,chatgpt,en,1,2026-10-15,budgetyourtrip.com,5,editorial or media,INT,
+R166,Q16,VN-VI-16,claude,vi,1,2026-10-15,BW-138,1,business's own website,VN,Education
+R166,Q16,VN-VI-16,claude,vi,1,2026-10-15,BW-160,1,business's own website,VN,Education
+R166,Q16,VN-VI-16,claude,vi,1,2026-10-15,BW-279,1,business's own website,VN,Education
+R166,Q16,VN-VI-16,claude,vi,1,2026-10-15,BW-341,1,business's own website,VN,Education
+R166,Q16,VN-VI-16,claude,vi,1,2026-10-15,BW-393,1,business's own website,VN,"Education, Retail"
+R166,Q16,VN-VI-16,claude,vi,1,2026-10-15,reviewnhatrang.com.vn,5,editorial or media,VN,
+R167,Q12,VN-VI-12,perplexity,vi,1,2026-10-15,BW-283,1,business's own website,VN,Food
+R167,Q12,VN-VI-12,perplexity,vi,1,2026-10-15,pasgo.vn,4,booking or marketplace,VN,
+R170,Q13,VN-VI-13,claude,vi,1,2026-10-15,BW-009,1,business's own website,VN,Education
+R170,Q13,VN-VI-13,claude,vi,1,2026-10-15,BW-230,1,business's own website,INT,Education
+R170,Q13,VN-VI-13,claude,vi,1,2026-10-15,hocdungvui.com,5,editorial or media,UND,
+R171,Q10,VN-EN-10,perplexity,en,0,2026-10-15,BW-155,1,business's own website,INT,Food
+R171,Q10,VN-EN-10,perplexity,en,0,2026-10-15,michelin.com,5,editorial or media,INT,
+R171,Q10,VN-EN-10,perplexity,en,0,2026-10-15,tripadvisor.com,3,review platform,INT,
+R172,Q14,VN-VI-14,claude,vi,0,2026-10-15,BW-032,1,business's own website,VN,Education
+R172,Q14,VN-VI-14,claude,vi,0,2026-10-15,BW-076,1,business's own website,VN,Education
+R172,Q14,VN-VI-14,claude,vi,0,2026-10-15,BW-296,1,business's own website,VN,Education
+R172,Q14,VN-VI-14,claude,vi,0,2026-10-15,vietgiaitri.com,5,editorial or media,VN,
+R172,Q14,VN-VI-14,claude,vi,0,2026-10-15,vnexpress.net,5,editorial or media,VN,
+R172,Q14,VN-VI-14,claude,vi,0,2026-10-15,wikipedia.org,9,other,INT,
+R173,Q20,VN-VI-20,claude,vi,0,2026-10-15,BW-006,1,business's own website,VN,Professional
+R173,Q20,VN-VI-20,claude,vi,0,2026-10-15,BW-108,1,business's own website,VN,Professional
+R173,Q20,VN-VI-20,claude,vi,0,2026-10-15,BW-269,1,business's own website,VN,Professional
+R173,Q20,VN-VI-20,claude,vi,0,2026-10-15,inhat.vn,5,editorial or media,VN,
+R173,Q20,VN-VI-20,claude,vi,0,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R173,Q20,VN-VI-20,claude,vi,0,2026-10-15,saigonreview.vn,5,editorial or media,VN,
+R173,Q20,VN-VI-20,claude,vi,0,2026-10-15,topmoving.org,2,map or business listing,UND,
+R174,Q08,VN-VI-08,chatgpt,vi,0,2026-10-15,BW-133,1,business's own website,VN,Clinics
+R174,Q08,VN-VI-08,chatgpt,vi,0,2026-10-15,BW-371,1,business's own website,VN,Clinics
+R174,Q08,VN-VI-08,chatgpt,vi,0,2026-10-15,BW-380,1,business's own website,VN,Clinics
+R175,Q16,VN-EN-16,chatgpt,en,1,2026-10-15,BW-125,1,business's own website,VN,Education
+R175,Q16,VN-EN-16,chatgpt,en,1,2026-10-15,BW-199,1,business's own website,VN,Education
+R175,Q16,VN-EN-16,chatgpt,en,1,2026-10-15,BW-341,1,business's own website,VN,Education
+R175,Q16,VN-EN-16,chatgpt,en,1,2026-10-15,BW-390,1,business's own website,UND,Education
+R175,Q16,VN-EN-16,chatgpt,en,1,2026-10-15,BW-392,1,business's own website,VN,Education
+R175,Q16,VN-EN-16,chatgpt,en,1,2026-10-15,schoolandcollegelistings.com,2,map or business listing,UND,
+R176,Q14,VN-VI-14,perplexity,vi,0,2026-10-15,BW-044,1,business's own website,VN,Education
+R176,Q14,VN-VI-14,perplexity,vi,0,2026-10-15,BW-064,1,business's own website,INT,Education
+R176,Q14,VN-VI-14,perplexity,vi,0,2026-10-15,BW-076,1,business's own website,VN,Education
+R176,Q14,VN-VI-14,perplexity,vi,0,2026-10-15,BW-119,1,business's own website,INT,Education
+R178,Q16,VN-VI-16,claude,vi,0,2026-10-15,BW-138,1,business's own website,VN,Education
+R178,Q16,VN-VI-16,claude,vi,0,2026-10-15,BW-160,1,business's own website,VN,Education
+R178,Q16,VN-VI-16,claude,vi,0,2026-10-15,BW-279,1,business's own website,VN,Education
+R178,Q16,VN-VI-16,claude,vi,0,2026-10-15,BW-341,1,business's own website,VN,Education
+R178,Q16,VN-VI-16,claude,vi,0,2026-10-15,BW-393,1,business's own website,VN,"Education, Retail"
+R178,Q16,VN-VI-16,claude,vi,0,2026-10-15,edu2review.com,3,review platform,VN,
+R178,Q16,VN-VI-16,claude,vi,0,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R178,Q16,VN-VI-16,claude,vi,0,2026-10-15,reviewnhatrang.com.vn,5,editorial or media,VN,
+R179,Q23,VN-EN-23,perplexity,en,1,2026-10-15,BW-281,1,business's own website,INT,Retail
+R179,Q23,VN-EN-23,perplexity,en,1,2026-10-15,alibaba.com,4,booking or marketplace,INT,
+R180,Q04,VN-EN-04,claude,en,1,2026-10-15,expedia.com,4,booking or marketplace,INT,
+R180,Q04,VN-EN-04,claude,en,1,2026-10-15,getyourguide.com,4,booking or marketplace,INT,
+R180,Q04,VN-EN-04,claude,en,1,2026-10-15,kayak.ie,4,booking or marketplace,INT,
+R180,Q04,VN-EN-04,claude,en,1,2026-10-15,travelocity.com,4,booking or marketplace,INT,
+R180,Q04,VN-EN-04,claude,en,1,2026-10-15,trip.com,4,booking or marketplace,INT,
+R180,Q04,VN-EN-04,claude,en,1,2026-10-15,waug.com,4,booking or marketplace,INT,
+R181,Q24,VN-VI-24,chatgpt,vi,1,2026-10-15,BW-036,1,business's own website,VN,Retail
+R181,Q24,VN-VI-24,chatgpt,vi,1,2026-10-15,BW-164,1,business's own website,VN,Retail
+R181,Q24,VN-VI-24,chatgpt,vi,1,2026-10-15,BW-261,1,business's own website,UND,Retail
+R181,Q24,VN-VI-24,chatgpt,vi,1,2026-10-15,BW-337,1,business's own website,VN,Retail
+R181,Q24,VN-VI-24,chatgpt,vi,1,2026-10-15,BW-387,1,business's own website,UND,Retail
+R181,Q24,VN-VI-24,chatgpt,vi,1,2026-10-15,grab.com,4,booking or marketplace,INT,
+R181,Q24,VN-VI-24,chatgpt,vi,1,2026-10-15,shopeefood.vn,4,booking or marketplace,INT,
+R182,Q07,VN-EN-07,chatgpt,en,0,2026-10-15,BW-191,1,business's own website,VN,Clinics
+R182,Q07,VN-EN-07,chatgpt,en,0,2026-10-15,BW-314,1,business's own website,VN,Clinics
+R182,Q07,VN-EN-07,chatgpt,en,0,2026-10-15,bookingcare.vn,4,booking or marketplace,VN,
+R184,Q09,VN-EN-09,claude,en,1,2026-10-15,BW-001,1,business's own website,VN,Food
+R184,Q09,VN-EN-09,claude,en,1,2026-10-15,BW-066,1,business's own website,VN,Food
+R184,Q09,VN-EN-09,claude,en,1,2026-10-15,BW-247,1,business's own website,VN,Food
+R184,Q09,VN-EN-09,claude,en,1,2026-10-15,creativetravelguide.com,5,editorial or media,UND,
+R184,Q09,VN-EN-09,claude,en,1,2026-10-15,pariseater.com,5,editorial or media,UND,
+R184,Q09,VN-EN-09,claude,en,1,2026-10-15,tripadvisor.com,3,review platform,INT,
+R186,Q05,VN-EN-05,chatgpt,en,1,2026-10-15,BW-047,1,business's own website,VN,Clinics
+R186,Q05,VN-EN-05,chatgpt,en,1,2026-10-15,BW-095,1,business's own website,VN,Clinics
+R186,Q05,VN-EN-05,chatgpt,en,1,2026-10-15,BW-219,1,business's own website,VN,Clinics
+R186,Q05,VN-EN-05,chatgpt,en,1,2026-10-15,BW-344,1,business's own website,VN,Clinics
+R186,Q05,VN-EN-05,chatgpt,en,1,2026-10-15,consulate.gov.au,6,official or government,INT,
+R187,Q22,VN-EN-22,perplexity,en,1,2026-10-15,fodors.com,5,editorial or media,INT,
+R187,Q22,VN-EN-22,perplexity,en,1,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R187,Q22,VN-EN-22,perplexity,en,1,2026-10-15,tripadvisor.com,3,review platform,INT,
+R187,Q22,VN-EN-22,perplexity,en,1,2026-10-15,vietnamdoneright.com,5,editorial or media,VN,
+R188,Q07,VN-EN-07,gemini,en,0,2026-10-15,BW-265,1,business's own website,VN,Clinics
+R188,Q07,VN-EN-07,gemini,en,0,2026-10-15,BW-280,1,business's own website,VN,Clinics
+R188,Q07,VN-EN-07,gemini,en,0,2026-10-15,BW-315,1,business's own website,VN,Clinics
+R188,Q07,VN-EN-07,gemini,en,0,2026-10-15,BW-316,1,business's own website,VN,Clinics
+R188,Q07,VN-EN-07,gemini,en,0,2026-10-15,BW-385,1,business's own website,VN,Clinics
+R188,Q07,VN-EN-07,gemini,en,0,2026-10-15,bookingcare.vn,4,booking or marketplace,VN,
+R188,Q07,VN-EN-07,gemini,en,0,2026-10-15,dentaltrip.io,4,booking or marketplace,VN,
+R190,Q17,VN-EN-17,claude,en,1,2026-10-15,BW-145,1,business's own website,INT,Professional
+R190,Q17,VN-EN-17,claude,en,1,2026-10-15,BW-176,1,business's own website,VN,Professional
+R190,Q17,VN-EN-17,claude,en,1,2026-10-15,BW-181,1,business's own website,UND,Professional
+R190,Q17,VN-EN-17,claude,en,1,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R190,Q17,VN-EN-17,claude,en,1,2026-10-15,vietnamdoneright.com,5,editorial or media,VN,
+R192,Q10,VN-VI-10,chatgpt,vi,1,2026-10-15,BW-004,1,business's own website,VN,Food
+R192,Q10,VN-VI-10,chatgpt,vi,1,2026-10-15,BW-027,1,business's own website,VN,Food
+R192,Q10,VN-VI-10,chatgpt,vi,1,2026-10-15,BW-091,1,business's own website,INT,"Food, Hotels"
+R192,Q10,VN-VI-10,chatgpt,vi,1,2026-10-15,BW-190,1,business's own website,VN,Food
+R192,Q10,VN-VI-10,chatgpt,vi,1,2026-10-15,BW-388,1,business's own website,INT,Food
+R192,Q10,VN-VI-10,chatgpt,vi,1,2026-10-15,michelin.com,5,editorial or media,INT,
+R193,Q01,VN-VI-01,chatgpt,vi,0,2026-10-15,BW-163,1,business's own website,VN,Hotels
+R193,Q01,VN-VI-01,chatgpt,vi,0,2026-10-15,BW-189,1,business's own website,VN,Hotels
+R193,Q01,VN-VI-01,chatgpt,vi,0,2026-10-15,BW-255,1,business's own website,VN,Hotels
+R193,Q01,VN-VI-01,chatgpt,vi,0,2026-10-15,BW-284,1,business's own website,VN,Hotels
+R193,Q01,VN-VI-01,chatgpt,vi,0,2026-10-15,BW-297,1,business's own website,VN,Hotels
+R193,Q01,VN-VI-01,chatgpt,vi,0,2026-10-15,michelin.com,5,editorial or media,INT,
+R193,Q01,VN-VI-01,chatgpt,vi,0,2026-10-15,tripadvisor.com,3,review platform,INT,
+R194,Q15,VN-VI-15,chatgpt,vi,1,2026-10-15,BW-012,1,business's own website,INT,Education
+R194,Q15,VN-VI-15,chatgpt,vi,1,2026-10-15,BW-125,1,business's own website,VN,Education
+R194,Q15,VN-VI-15,chatgpt,vi,1,2026-10-15,BW-179,1,business's own website,VN,Education
+R194,Q15,VN-VI-15,chatgpt,vi,1,2026-10-15,BW-194,1,business's own website,VN,Education
+R195,Q17,VN-VI-17,gemini,vi,0,2026-10-15,BW-007,1,business's own website,VN,Professional
+R195,Q17,VN-VI-17,gemini,vi,0,2026-10-15,BW-033,1,business's own website,VN,Professional
+R195,Q17,VN-VI-17,gemini,vi,0,2026-10-15,BW-192,1,business's own website,VN,Professional
+R195,Q17,VN-VI-17,gemini,vi,0,2026-10-15,BW-395,1,business's own website,VN,Professional
+R195,Q17,VN-VI-17,gemini,vi,0,2026-10-15,hanoimoi.vn,5,editorial or media,VN,
+R197,Q06,VN-EN-06,claude,en,1,2026-10-15,BW-270,1,business's own website,VN,Clinics
+R197,Q06,VN-EN-06,claude,en,1,2026-10-15,insurance-vietnam.com,5,editorial or media,UND,
+R197,Q06,VN-EN-06,claude,en,1,2026-10-15,medicaltourism.com,5,editorial or media,INT,
+R197,Q06,VN-EN-06,claude,en,1,2026-10-15,vietnamtourism.com,5,editorial or media,UND,
+R197,Q06,VN-EN-06,claude,en,1,2026-10-15,wikipedia.org,9,other,INT,
+R199,Q07,VN-EN-07,perplexity,en,0,2026-10-15,BW-280,1,business's own website,VN,Clinics
+R199,Q07,VN-EN-07,perplexity,en,0,2026-10-15,booking.dentist,4,booking or marketplace,UND,
+R199,Q07,VN-EN-07,perplexity,en,0,2026-10-15,dentavacation.com,4,booking or marketplace,INT,
+R199,Q07,VN-EN-07,perplexity,en,0,2026-10-15,smilejet.app,4,booking or marketplace,UND,
+R200,Q11,VN-VI-11,perplexity,vi,0,2026-10-15,BW-086,1,business's own website,VN,Food
+R200,Q11,VN-VI-11,perplexity,vi,0,2026-10-15,BW-262,1,business's own website,VN,Food
+R200,Q11,VN-VI-11,perplexity,vi,0,2026-10-15,BW-295,1,business's own website,VN,Food
+R200,Q11,VN-VI-11,perplexity,vi,0,2026-10-15,vietnamtourism.com,5,editorial or media,UND,
+R201,Q01,VN-EN-01,perplexity,en,0,2026-10-15,expedia.com,4,booking or marketplace,INT,
+R201,Q01,VN-EN-01,perplexity,en,0,2026-10-15,hotels.com,4,booking or marketplace,INT,
+R201,Q01,VN-EN-01,perplexity,en,0,2026-10-15,thehoteljournal.com,5,editorial or media,INT,
+R201,Q01,VN-EN-01,perplexity,en,0,2026-10-15,tripadvisor.in,3,review platform,INT,
+R202,Q07,VN-VI-07,claude,vi,1,2026-10-15,BW-010,1,business's own website,VN,Clinics
+R202,Q07,VN-VI-07,claude,vi,1,2026-10-15,BW-168,1,business's own website,VN,Clinics
+R202,Q07,VN-VI-07,claude,vi,1,2026-10-15,BW-214,1,business's own website,VN,Clinics
+R202,Q07,VN-VI-07,claude,vi,1,2026-10-15,BW-242,1,business's own website,VN,Clinics
+R202,Q07,VN-VI-07,claude,vi,1,2026-10-15,BW-367,1,business's own website,VN,Clinics
+R202,Q07,VN-VI-07,claude,vi,1,2026-10-15,bookingcare.vn,4,booking or marketplace,VN,
+R202,Q07,VN-VI-07,claude,vi,1,2026-10-15,medpro.vn,4,booking or marketplace,VN,
+R203,Q18,VN-VI-18,perplexity,vi,0,2026-10-15,BW-078,1,business's own website,VN,Professional
+R203,Q18,VN-VI-18,perplexity,vi,0,2026-10-15,baohatinh.vn,5,editorial or media,VN,
+R203,Q18,VN-VI-18,perplexity,vi,0,2026-10-15,lawzana.com,2,map or business listing,INT,
+R204,Q20,VN-EN-20,chatgpt,en,1,2026-10-15,BW-011,1,business's own website,INT,Professional
+R204,Q20,VN-EN-20,chatgpt,en,1,2026-10-15,BW-065,1,business's own website,VN,Professional
+R204,Q20,VN-EN-20,chatgpt,en,1,2026-10-15,BW-101,1,business's own website,INT,Professional
+R204,Q20,VN-EN-20,chatgpt,en,1,2026-10-15,BW-115,1,business's own website,INT,Professional
+R204,Q20,VN-EN-20,chatgpt,en,1,2026-10-15,BW-130,1,business's own website,VN,Professional
+R204,Q20,VN-EN-20,chatgpt,en,1,2026-10-15,BW-216,1,business's own website,INT,Professional
+R204,Q20,VN-EN-20,chatgpt,en,1,2026-10-15,BW-256,1,business's own website,INT,Professional
+R204,Q20,VN-EN-20,chatgpt,en,1,2026-10-15,BW-288,1,business's own website,UND,Professional
+R204,Q20,VN-EN-20,chatgpt,en,1,2026-10-15,BW-389,1,business's own website,VN,Professional
+R205,Q03,VN-EN-03,gemini,en,1,2026-10-15,BW-110,1,business's own website,UND,Hotels
+R205,Q03,VN-EN-03,gemini,en,1,2026-10-15,agoda.com,4,booking or marketplace,INT,
+R205,Q03,VN-EN-03,gemini,en,1,2026-10-15,hotelscombined.com,4,booking or marketplace,INT,
+R205,Q03,VN-EN-03,gemini,en,1,2026-10-15,kayak.com,4,booking or marketplace,INT,
+R205,Q03,VN-EN-03,gemini,en,1,2026-10-15,klook.com,4,booking or marketplace,INT,
+R205,Q03,VN-EN-03,gemini,en,1,2026-10-15,vietnamtourism.com,5,editorial or media,UND,
+R206,Q17,VN-VI-17,gemini,vi,1,2026-10-15,BW-071,1,business's own website,UND,Professional
+R206,Q17,VN-VI-17,gemini,vi,1,2026-10-15,BW-150,1,business's own website,VN,Professional
+R206,Q17,VN-VI-17,gemini,vi,1,2026-10-15,BW-173,1,business's own website,VN,Professional
+R206,Q17,VN-VI-17,gemini,vi,1,2026-10-15,BW-192,1,business's own website,VN,Professional
+R206,Q17,VN-VI-17,gemini,vi,1,2026-10-15,hanoimoi.vn,5,editorial or media,VN,
+R207,Q08,VN-EN-08,gemini,en,0,2026-10-15,BW-040,1,business's own website,VN,Clinics
+R207,Q08,VN-EN-08,gemini,en,0,2026-10-15,BW-380,1,business's own website,VN,Clinics
+R207,Q08,VN-EN-08,gemini,en,0,2026-10-15,bcare.vn,4,booking or marketplace,VN,
+R207,Q08,VN-EN-08,gemini,en,0,2026-10-15,boa.gov.vn,6,official or government,VN,
+R207,Q08,VN-EN-08,gemini,en,0,2026-10-15,clinicbooking.com,4,booking or marketplace,UND,
+R207,Q08,VN-EN-08,gemini,en,0,2026-10-15,docosan.com,4,booking or marketplace,VN,
+R207,Q08,VN-EN-08,gemini,en,0,2026-10-15,facebook.com,7,social media,INT,
+R207,Q08,VN-EN-08,gemini,en,0,2026-10-15,medicaltourism.vn,4,booking or marketplace,UND,
+R207,Q08,VN-EN-08,gemini,en,0,2026-10-15,medicaltourismco.com,4,booking or marketplace,INT,
+R207,Q08,VN-EN-08,gemini,en,0,2026-10-15,medigence.com,4,booking or marketplace,INT,
+R208,Q16,VN-EN-16,perplexity,en,1,2026-10-15,BW-203,1,business's own website,VN,"Education, Professional"
+R208,Q16,VN-EN-16,perplexity,en,1,2026-10-15,citiesinsider.com,5,editorial or media,UND,
+R208,Q16,VN-EN-16,perplexity,en,1,2026-10-15,nha-trang.vn,5,editorial or media,VN,
+R208,Q16,VN-EN-16,perplexity,en,1,2026-10-15,vietgid.com,2,map or business listing,UND,
+R209,Q10,VN-VI-10,claude,vi,1,2026-10-15,BW-277,1,business's own website,VN,Food
+R209,Q10,VN-VI-10,claude,vi,1,2026-10-15,BW-306,1,business's own website,VN,Food
+R209,Q10,VN-VI-10,claude,vi,1,2026-10-15,BW-349,1,business's own website,VN,Food
+R209,Q10,VN-VI-10,claude,vi,1,2026-10-15,doanhnhansaigon.vn,5,editorial or media,VN,
+R209,Q10,VN-VI-10,claude,vi,1,2026-10-15,pasgo.vn,4,booking or marketplace,VN,
+R210,Q18,VN-EN-18,claude,en,0,2026-10-15,BW-038,1,business's own website,VN,Professional
+R210,Q18,VN-EN-18,claude,en,0,2026-10-15,BW-174,1,business's own website,VN,Professional
+R211,Q03,VN-VI-03,perplexity,vi,1,2026-10-15,skyscanner.com.vn,4,booking or marketplace,INT,
+R211,Q03,VN-VI-03,perplexity,vi,1,2026-10-15,traveloka.com,4,booking or marketplace,INT,
+R211,Q03,VN-VI-03,perplexity,vi,1,2026-10-15,vietnamtourism.com,5,editorial or media,UND,
+R212,Q10,VN-EN-10,chatgpt,en,1,2026-10-15,BW-077,1,business's own website,INT,"Food, Hotels"
+R212,Q10,VN-EN-10,chatgpt,en,1,2026-10-15,BW-106,1,business's own website,VN,Food
+R212,Q10,VN-EN-10,chatgpt,en,1,2026-10-15,BW-190,1,business's own website,VN,Food
+R212,Q10,VN-EN-10,chatgpt,en,1,2026-10-15,BW-388,1,business's own website,INT,Food
+R212,Q10,VN-EN-10,chatgpt,en,1,2026-10-15,michelin.com,5,editorial or media,INT,
+R213,Q13,VN-VI-13,perplexity,vi,0,2026-10-15,BW-009,1,business's own website,VN,Education
+R213,Q13,VN-VI-13,perplexity,vi,0,2026-10-15,BW-016,1,business's own website,VN,Education
+R213,Q13,VN-VI-13,perplexity,vi,0,2026-10-15,BW-057,1,business's own website,VN,Education
+R213,Q13,VN-VI-13,perplexity,vi,0,2026-10-15,BW-146,1,business's own website,VN,Education
+R213,Q13,VN-VI-13,perplexity,vi,0,2026-10-15,toplist.vn,5,editorial or media,VN,
+R216,Q06,VN-VI-06,claude,vi,1,2026-10-15,congluan.vn,5,editorial or media,VN,
+R216,Q06,VN-VI-06,claude,vi,1,2026-10-15,sggp.org.vn,5,editorial or media,VN,
+R216,Q06,VN-VI-06,claude,vi,1,2026-10-15,vietnamplus.vn,5,editorial or media,VN,
+R216,Q06,VN-VI-06,claude,vi,1,2026-10-15,vtv.vn,5,editorial or media,VN,
+R219,Q07,VN-VI-07,gemini,vi,1,2026-10-15,BW-010,1,business's own website,VN,Clinics
+R219,Q07,VN-VI-07,gemini,vi,1,2026-10-15,BW-100,1,business's own website,VN,Clinics
+R219,Q07,VN-VI-07,gemini,vi,1,2026-10-15,BW-214,1,business's own website,VN,Clinics
+R219,Q07,VN-VI-07,gemini,vi,1,2026-10-15,BW-316,1,business's own website,VN,Clinics
+R219,Q07,VN-VI-07,gemini,vi,1,2026-10-15,BW-368,1,business's own website,VN,Clinics
+R219,Q07,VN-VI-07,gemini,vi,1,2026-10-15,medpro.vn,4,booking or marketplace,VN,
+R220,Q15,VN-EN-15,claude,en,1,2026-10-15,BW-057,1,business's own website,VN,Education
+R220,Q15,VN-EN-15,claude,en,1,2026-10-15,BW-090,1,business's own website,UND,Education
+R220,Q15,VN-EN-15,claude,en,1,2026-10-15,BW-135,1,business's own website,VN,Education
+R220,Q15,VN-EN-15,claude,en,1,2026-10-15,BW-209,1,business's own website,VN,Education
+R220,Q15,VN-EN-15,claude,en,1,2026-10-15,BW-252,1,business's own website,VN,Education
+R220,Q15,VN-EN-15,claude,en,1,2026-10-15,BW-317,1,business's own website,VN,Education
+R221,Q22,VN-VI-22,perplexity,vi,0,2026-10-15,BW-049,1,business's own website,VN,Retail
+R221,Q22,VN-VI-22,perplexity,vi,0,2026-10-15,BW-298,1,business's own website,VN,Retail
+R221,Q22,VN-VI-22,perplexity,vi,0,2026-10-15,BW-374,1,business's own website,VN,Retail
+R221,Q22,VN-VI-22,perplexity,vi,0,2026-10-15,maisonoffice.vn,4,booking or marketplace,VN,
+R221,Q22,VN-VI-22,perplexity,vi,0,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R221,Q22,VN-VI-22,perplexity,vi,0,2026-10-15,topbrands.vn,5,editorial or media,VN,
+R222,Q22,VN-EN-22,chatgpt,en,0,2026-10-15,BW-023,1,business's own website,VN,Retail
+R222,Q22,VN-EN-22,chatgpt,en,0,2026-10-15,BW-045,1,business's own website,VN,Retail
+R222,Q22,VN-EN-22,chatgpt,en,0,2026-10-15,BW-087,1,business's own website,VN,Retail
+R222,Q22,VN-EN-22,chatgpt,en,0,2026-10-15,BW-175,1,business's own website,VN,Retail
+R222,Q22,VN-EN-22,chatgpt,en,0,2026-10-15,BW-195,1,business's own website,INT,Retail
+R222,Q22,VN-EN-22,chatgpt,en,0,2026-10-15,BW-254,1,business's own website,INT,Retail
+R222,Q22,VN-EN-22,chatgpt,en,0,2026-10-15,BW-318,1,business's own website,INT,Retail
+R222,Q22,VN-EN-22,chatgpt,en,0,2026-10-15,BW-325,1,business's own website,INT,Retail
+R223,Q21,VN-EN-21,perplexity,en,0,2026-10-15,BW-017,1,business's own website,INT,Retail
+R223,Q21,VN-EN-21,perplexity,en,0,2026-10-15,BW-092,1,business's own website,UND,"Clinics, Food, Retail"
+R223,Q21,VN-EN-21,perplexity,en,0,2026-10-15,BW-384,1,business's own website,UND,Retail
+R223,Q21,VN-EN-21,perplexity,en,0,2026-10-15,letfind.me,5,editorial or media,UND,
+R225,Q03,VN-EN-03,perplexity,en,1,2026-10-15,budgetyourtrip.com,5,editorial or media,INT,
+R225,Q03,VN-EN-03,perplexity,en,1,2026-10-15,vietnamtourism.com,5,editorial or media,UND,
+R226,Q14,VN-VI-14,claude,vi,1,2026-10-15,BW-032,1,business's own website,VN,Education
+R226,Q14,VN-VI-14,claude,vi,1,2026-10-15,BW-076,1,business's own website,VN,Education
+R226,Q14,VN-VI-14,claude,vi,1,2026-10-15,vietgiaitri.com,5,editorial or media,VN,
+R226,Q14,VN-VI-14,claude,vi,1,2026-10-15,vnexpress.net,5,editorial or media,VN,
+R226,Q14,VN-VI-14,claude,vi,1,2026-10-15,wikipedia.org,9,other,INT,
+R227,Q03,VN-VI-03,claude,vi,1,2026-10-15,BW-053,1,business's own website,VN,Hotels
+R227,Q03,VN-VI-03,claude,vi,1,2026-10-15,BW-063,1,business's own website,VN,Hotels
+R227,Q03,VN-VI-03,claude,vi,1,2026-10-15,booking.com,4,booking or marketplace,INT,
+R227,Q03,VN-VI-03,claude,vi,1,2026-10-15,chudu24.com,4,booking or marketplace,VN,
+R227,Q03,VN-VI-03,claude,vi,1,2026-10-15,tiimhotel.vn,4,booking or marketplace,VN,
+R227,Q03,VN-VI-03,claude,vi,1,2026-10-15,vivutour.vn,4,booking or marketplace,VN,
+R228,Q01,VN-VI-01,perplexity,vi,1,2026-10-15,BW-268,1,business's own website,VN,Hotels
+R228,Q01,VN-VI-01,perplexity,vi,1,2026-10-15,BW-284,1,business's own website,VN,Hotels
+R228,Q01,VN-VI-01,perplexity,vi,1,2026-10-15,bestasiahotels.com,5,editorial or media,UND,
+R228,Q01,VN-VI-01,perplexity,vi,1,2026-10-15,toplist.vn,5,editorial or media,VN,
+R228,Q01,VN-VI-01,perplexity,vi,1,2026-10-15,traveloka.com,4,booking or marketplace,INT,
+R228,Q01,VN-VI-01,perplexity,vi,1,2026-10-15,vietgoing.com,4,booking or marketplace,VN,
+R229,Q21,VN-VI-21,claude,vi,1,2026-10-15,BW-021,1,business's own website,VN,Retail
+R229,Q21,VN-VI-21,claude,vi,1,2026-10-15,alltop.vn,5,editorial or media,VN,
+R229,Q21,VN-VI-21,claude,vi,1,2026-10-15,inhat.vn,5,editorial or media,VN,
+R229,Q21,VN-VI-21,claude,vi,1,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R229,Q21,VN-VI-21,claude,vi,1,2026-10-15,thodianhatrang.vn,2,map or business listing,VN,
+R232,Q03,VN-VI-03,chatgpt,vi,0,2026-10-15,booking.com,4,booking or marketplace,INT,
+R233,Q20,VN-VI-20,chatgpt,vi,1,2026-10-15,BW-011,1,business's own website,INT,Professional
+R233,Q20,VN-VI-20,chatgpt,vi,1,2026-10-15,BW-035,1,business's own website,VN,Professional
+R233,Q20,VN-VI-20,chatgpt,vi,1,2026-10-15,BW-142,1,business's own website,VN,Professional
+R233,Q20,VN-VI-20,chatgpt,vi,1,2026-10-15,BW-213,1,business's own website,VN,Professional
+R233,Q20,VN-VI-20,chatgpt,vi,1,2026-10-15,BW-216,1,business's own website,INT,Professional
+R233,Q20,VN-VI-20,chatgpt,vi,1,2026-10-15,BW-256,1,business's own website,INT,Professional
+R233,Q20,VN-VI-20,chatgpt,vi,1,2026-10-15,BW-313,1,business's own website,VN,Professional
+R234,Q20,VN-EN-20,chatgpt,en,0,2026-10-15,BW-011,1,business's own website,INT,Professional
+R234,Q20,VN-EN-20,chatgpt,en,0,2026-10-15,BW-035,1,business's own website,VN,Professional
+R234,Q20,VN-EN-20,chatgpt,en,0,2026-10-15,BW-037,1,business's own website,INT,Professional
+R234,Q20,VN-EN-20,chatgpt,en,0,2026-10-15,BW-101,1,business's own website,INT,Professional
+R234,Q20,VN-EN-20,chatgpt,en,0,2026-10-15,BW-115,1,business's own website,INT,Professional
+R234,Q20,VN-EN-20,chatgpt,en,0,2026-10-15,BW-142,1,business's own website,VN,Professional
+R234,Q20,VN-EN-20,chatgpt,en,0,2026-10-15,BW-216,1,business's own website,INT,Professional
+R234,Q20,VN-EN-20,chatgpt,en,0,2026-10-15,BW-256,1,business's own website,INT,Professional
+R234,Q20,VN-EN-20,chatgpt,en,0,2026-10-15,BW-313,1,business's own website,VN,Professional
+R234,Q20,VN-EN-20,chatgpt,en,0,2026-10-15,BW-381,1,business's own website,VN,Professional
+R235,Q03,VN-EN-03,perplexity,en,0,2026-10-15,budgetyourtrip.com,5,editorial or media,INT,
+R235,Q03,VN-EN-03,perplexity,en,0,2026-10-15,klook.com,4,booking or marketplace,INT,
+R235,Q03,VN-EN-03,perplexity,en,0,2026-10-15,vietnamtourism.com,5,editorial or media,UND,
+R236,Q21,VN-VI-21,chatgpt,vi,1,2026-10-15,BW-015,1,business's own website,VN,Retail
+R236,Q21,VN-VI-21,chatgpt,vi,1,2026-10-15,BW-055,1,business's own website,VN,Retail
+R236,Q21,VN-VI-21,chatgpt,vi,1,2026-10-15,BW-165,1,business's own website,VN,"Food, Retail"
+R236,Q21,VN-VI-21,chatgpt,vi,1,2026-10-15,BW-326,1,business's own website,VN,Retail
+R236,Q21,VN-VI-21,chatgpt,vi,1,2026-10-15,BW-338,1,business's own website,VN,Retail
+R237,Q15,VN-EN-15,gemini,en,1,2026-10-15,BW-009,1,business's own website,VN,Education
+R237,Q15,VN-EN-15,gemini,en,1,2026-10-15,BW-090,1,business's own website,UND,Education
+R237,Q15,VN-EN-15,gemini,en,1,2026-10-15,BW-131,1,business's own website,VN,Education
+R237,Q15,VN-EN-15,gemini,en,1,2026-10-15,BW-135,1,business's own website,VN,Education
+R237,Q15,VN-EN-15,gemini,en,1,2026-10-15,BW-146,1,business's own website,VN,Education
+R237,Q15,VN-EN-15,gemini,en,1,2026-10-15,BW-194,1,business's own website,VN,Education
+R237,Q15,VN-EN-15,gemini,en,1,2026-10-15,BW-290,1,business's own website,VN,Education
+R237,Q15,VN-EN-15,gemini,en,1,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R238,Q11,VN-EN-11,gemini,en,0,2026-10-15,BW-092,1,business's own website,UND,"Clinics, Food, Retail"
+R238,Q11,VN-EN-11,gemini,en,0,2026-10-15,BW-112,1,business's own website,VN,Food
+R238,Q11,VN-EN-11,gemini,en,0,2026-10-15,BW-137,1,business's own website,VN,Food
+R238,Q11,VN-EN-11,gemini,en,0,2026-10-15,BW-247,1,business's own website,VN,Food
+R238,Q11,VN-EN-11,gemini,en,0,2026-10-15,BW-332,1,business's own website,VN,Food
+R238,Q11,VN-EN-11,gemini,en,0,2026-10-15,BW-358,1,business's own website,VN,Food
+R238,Q11,VN-EN-11,gemini,en,0,2026-10-15,facebook.com,7,social media,INT,
+R238,Q11,VN-EN-11,gemini,en,0,2026-10-15,kkday.com,4,booking or marketplace,INT,
+R238,Q11,VN-EN-11,gemini,en,0,2026-10-15,klook.com,4,booking or marketplace,INT,
+R241,Q20,VN-EN-20,perplexity,en,1,2026-10-15,BW-111,1,business's own website,UND,Professional
+R241,Q20,VN-EN-20,perplexity,en,1,2026-10-15,BW-169,1,business's own website,INT,Professional
+R241,Q20,VN-EN-20,perplexity,en,1,2026-10-15,BW-187,1,business's own website,VN,Professional
+R241,Q20,VN-EN-20,perplexity,en,1,2026-10-15,BW-336,1,business's own website,INT,Professional
+R241,Q20,VN-EN-20,perplexity,en,1,2026-10-15,BW-396,1,business's own website,UND,Professional
+R241,Q20,VN-EN-20,perplexity,en,1,2026-10-15,ensun.io,2,map or business listing,INT,
+R241,Q20,VN-EN-20,perplexity,en,1,2026-10-15,yellowpages.com.vn,2,map or business listing,VN,
+R242,Q11,VN-VI-11,claude,vi,1,2026-10-15,BW-092,1,business's own website,UND,"Clinics, Food, Retail"
+R242,Q11,VN-VI-11,claude,vi,1,2026-10-15,BW-262,1,business's own website,VN,Food
+R242,Q11,VN-VI-11,claude,vi,1,2026-10-15,BW-295,1,business's own website,VN,Food
+R242,Q11,VN-VI-11,claude,vi,1,2026-10-15,fnbmaps.com,2,map or business listing,VN,
+R242,Q11,VN-VI-11,claude,vi,1,2026-10-15,pasgo.vn,4,booking or marketplace,VN,
+R243,Q14,VN-EN-14,perplexity,en,1,2026-10-15,BW-119,1,business's own website,INT,Education
+R243,Q14,VN-EN-14,perplexity,en,1,2026-10-15,BW-186,1,business's own website,INT,Education
+R243,Q14,VN-EN-14,perplexity,en,1,2026-10-15,expat.com,8,forum or community,INT,
+R243,Q14,VN-EN-14,perplexity,en,1,2026-10-15,goodschoolsguide.co.uk,5,editorial or media,INT,
+R243,Q14,VN-EN-14,perplexity,en,1,2026-10-15,international-schools-guide.com,2,map or business listing,UND,
+R243,Q14,VN-EN-14,perplexity,en,1,2026-10-15,internationalschools.net,2,map or business listing,UND,
+R243,Q14,VN-EN-14,perplexity,en,1,2026-10-15,vietnamkb.com,5,editorial or media,UND,
+R244,Q22,VN-EN-22,perplexity,en,0,2026-10-15,fodors.com,5,editorial or media,INT,
+R244,Q22,VN-EN-22,perplexity,en,0,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R244,Q22,VN-EN-22,perplexity,en,0,2026-10-15,reddit.com,8,forum or community,INT,
+R244,Q22,VN-EN-22,perplexity,en,0,2026-10-15,tripadvisor.com,3,review platform,INT,
+R244,Q22,VN-EN-22,perplexity,en,0,2026-10-15,vietnamdoneright.com,5,editorial or media,VN,
+R246,Q21,VN-EN-21,chatgpt,en,1,2026-10-15,BW-015,1,business's own website,VN,Retail
+R246,Q21,VN-EN-21,chatgpt,en,1,2026-10-15,BW-019,1,business's own website,INT,Retail
+R246,Q21,VN-EN-21,chatgpt,en,1,2026-10-15,BW-322,1,business's own website,VN,Retail
+R246,Q21,VN-EN-21,chatgpt,en,1,2026-10-15,BW-326,1,business's own website,VN,Retail
+R246,Q21,VN-EN-21,chatgpt,en,1,2026-10-15,BW-338,1,business's own website,VN,Retail
+R246,Q21,VN-EN-21,chatgpt,en,1,2026-10-15,BW-378,1,business's own website,VN,Retail
+R247,Q19,VN-EN-19,gemini,en,0,2026-10-15,BW-081,1,business's own website,VN,Professional
+R247,Q19,VN-EN-19,gemini,en,0,2026-10-15,BW-113,1,business's own website,VN,Professional
+R247,Q19,VN-EN-19,gemini,en,0,2026-10-15,BW-127,1,business's own website,VN,Professional
+R247,Q19,VN-EN-19,gemini,en,0,2026-10-15,BW-136,1,business's own website,VN,Professional
+R247,Q19,VN-EN-19,gemini,en,0,2026-10-15,BW-226,1,business's own website,VN,Professional
+R247,Q19,VN-EN-19,gemini,en,0,2026-10-15,BW-299,1,business's own website,INT,Professional
+R247,Q19,VN-EN-19,gemini,en,0,2026-10-15,BW-303,1,business's own website,VN,Professional
+R247,Q19,VN-EN-19,gemini,en,0,2026-10-15,BW-327,1,business's own website,VN,Professional
+R247,Q19,VN-EN-19,gemini,en,0,2026-10-15,reddit.com,8,forum or community,INT,
+R248,Q16,VN-EN-16,perplexity,en,0,2026-10-15,BW-203,1,business's own website,VN,"Education, Professional"
+R248,Q16,VN-EN-16,perplexity,en,0,2026-10-15,citiesinsider.com,5,editorial or media,UND,
+R248,Q16,VN-EN-16,perplexity,en,0,2026-10-15,nha-trang.vn,5,editorial or media,VN,
+R248,Q16,VN-EN-16,perplexity,en,0,2026-10-15,vietgid.com,2,map or business listing,UND,
+R250,Q11,VN-EN-11,claude,en,0,2026-10-15,BW-092,1,business's own website,UND,"Clinics, Food, Retail"
+R250,Q11,VN-EN-11,claude,en,0,2026-10-15,BW-273,1,business's own website,VN,Food
+R250,Q11,VN-EN-11,claude,en,0,2026-10-15,BW-332,1,business's own website,VN,Food
+R250,Q11,VN-EN-11,claude,en,0,2026-10-15,vietnamtourism.com,5,editorial or media,UND,
+R250,Q11,VN-EN-11,claude,en,0,2026-10-15,wanderlog.com,5,editorial or media,INT,
+R252,Q02,VN-VI-02,chatgpt,vi,1,2026-10-15,BW-208,1,business's own website,VN,Hotels
+R252,Q02,VN-VI-02,chatgpt,vi,1,2026-10-15,hanoitourism.org,5,editorial or media,UND,
+R252,Q02,VN-VI-02,chatgpt,vi,1,2026-10-15,journeyfinder.net,4,booking or marketplace,UND,
+R253,Q16,VN-EN-16,chatgpt,en,0,2026-10-15,BW-052,1,business's own website,VN,Education
+R253,Q16,VN-EN-16,chatgpt,en,0,2026-10-15,BW-083,1,business's own website,VN,Education
+R253,Q16,VN-EN-16,chatgpt,en,0,2026-10-15,BW-125,1,business's own website,VN,Education
+R253,Q16,VN-EN-16,chatgpt,en,0,2026-10-15,BW-199,1,business's own website,VN,Education
+R253,Q16,VN-EN-16,chatgpt,en,0,2026-10-15,BW-333,1,business's own website,VN,Education
+R253,Q16,VN-EN-16,chatgpt,en,0,2026-10-15,BW-341,1,business's own website,VN,Education
+R254,Q11,VN-EN-11,perplexity,en,1,2026-10-15,BW-092,1,business's own website,UND,"Clinics, Food, Retail"
+R254,Q11,VN-EN-11,perplexity,en,1,2026-10-15,BW-122,1,business's own website,INT,"Food, Hotels"
+R254,Q11,VN-EN-11,perplexity,en,1,2026-10-15,BW-332,1,business's own website,VN,Food
+R254,Q11,VN-EN-11,perplexity,en,1,2026-10-15,alphatravelguide.com,5,editorial or media,UND,
+R254,Q11,VN-EN-11,perplexity,en,1,2026-10-15,pholio.click,8,forum or community,UND,
+R254,Q11,VN-EN-11,perplexity,en,1,2026-10-15,vietnamtourism.com,5,editorial or media,UND,
+R255,Q19,VN-EN-19,perplexity,en,0,2026-10-15,BW-068,1,business's own website,INT,Professional
+R255,Q19,VN-EN-19,perplexity,en,0,2026-10-15,BW-148,1,business's own website,INT,Professional
+R255,Q19,VN-EN-19,perplexity,en,0,2026-10-15,BW-203,1,business's own website,VN,"Education, Professional"
+R255,Q19,VN-EN-19,perplexity,en,0,2026-10-15,BW-205,1,business's own website,UND,Professional
+R255,Q19,VN-EN-19,perplexity,en,0,2026-10-15,dangkykinhdoanh.gov.vn,6,official or government,VN,
+R255,Q19,VN-EN-19,perplexity,en,0,2026-10-15,vietnamkb.com,5,editorial or media,UND,
+R257,Q09,VN-EN-09,claude,en,0,2026-10-15,BW-001,1,business's own website,VN,Food
+R257,Q09,VN-EN-09,claude,en,0,2026-10-15,BW-066,1,business's own website,VN,Food
+R257,Q09,VN-EN-09,claude,en,0,2026-10-15,creativetravelguide.com,5,editorial or media,UND,
+R257,Q09,VN-EN-09,claude,en,0,2026-10-15,pariseater.com,5,editorial or media,UND,
+R258,Q04,VN-VI-04,perplexity,vi,0,2026-10-15,BW-091,1,business's own website,INT,"Food, Hotels"
+R258,Q04,VN-VI-04,perplexity,vi,0,2026-10-15,agoda.com,4,booking or marketplace,INT,
+R258,Q04,VN-VI-04,perplexity,vi,0,2026-10-15,hotels.com,4,booking or marketplace,INT,
+R258,Q04,VN-VI-04,perplexity,vi,0,2026-10-15,traveloka.com,4,booking or marketplace,INT,
+R260,Q05,VN-VI-05,claude,vi,1,2026-10-15,BW-120,1,business's own website,VN,Clinics
+R260,Q05,VN-VI-05,claude,vi,1,2026-10-15,BW-243,1,business's own website,VN,Clinics
+R260,Q05,VN-VI-05,claude,vi,1,2026-10-15,BW-335,1,business's own website,VN,Clinics
+R260,Q05,VN-VI-05,claude,vi,1,2026-10-15,BW-367,1,business's own website,VN,Clinics
+R260,Q05,VN-VI-05,claude,vi,1,2026-10-15,topaz.vn,5,editorial or media,VN,
+R261,Q03,VN-VI-03,chatgpt,vi,1,2026-10-15,booking.com,4,booking or marketplace,INT,
+R262,Q04,VN-VI-04,claude,vi,1,2026-10-15,chudu24.com,4,booking or marketplace,VN,
+R262,Q04,VN-VI-04,claude,vi,1,2026-10-15,duancamranh.vn,5,editorial or media,UND,
+R262,Q04,VN-VI-04,claude,vi,1,2026-10-15,vexere.com,4,booking or marketplace,VN,
+R265,Q10,VN-VI-10,chatgpt,vi,0,2026-10-15,BW-027,1,business's own website,VN,Food
+R265,Q10,VN-VI-10,chatgpt,vi,0,2026-10-15,BW-190,1,business's own website,VN,Food
+R265,Q10,VN-VI-10,chatgpt,vi,0,2026-10-15,BW-253,1,business's own website,VN,Food
+R265,Q10,VN-VI-10,chatgpt,vi,0,2026-10-15,BW-388,1,business's own website,INT,Food
+R265,Q10,VN-VI-10,chatgpt,vi,0,2026-10-15,michelin.com,5,editorial or media,INT,
+R266,Q22,VN-VI-22,claude,vi,1,2026-10-15,BW-022,1,business's own website,UND,Retail
+R266,Q22,VN-VI-22,claude,vi,1,2026-10-15,BW-126,1,business's own website,VN,Retail
+R266,Q22,VN-VI-22,claude,vi,1,2026-10-15,BW-362,1,business's own website,VN,Retail
+R266,Q22,VN-VI-22,claude,vi,1,2026-10-15,heucollege.edu.vn,5,editorial or media,UND,
+R267,Q17,VN-EN-17,chatgpt,en,0,2026-10-15,BW-028,1,business's own website,INT,Professional
+R267,Q17,VN-EN-17,chatgpt,en,0,2026-10-15,BW-140,1,business's own website,INT,Professional
+R267,Q17,VN-EN-17,chatgpt,en,0,2026-10-15,BW-171,1,business's own website,VN,Professional
+R267,Q17,VN-EN-17,chatgpt,en,0,2026-10-15,BW-241,1,business's own website,VN,Professional
+R267,Q17,VN-EN-17,chatgpt,en,0,2026-10-15,BW-324,1,business's own website,VN,Professional
+R267,Q17,VN-EN-17,chatgpt,en,0,2026-10-15,BW-339,1,business's own website,INT,Professional
+R267,Q17,VN-EN-17,chatgpt,en,0,2026-10-15,BW-352,1,business's own website,INT,Professional
+R267,Q17,VN-EN-17,chatgpt,en,0,2026-10-15,mof.gov.vn,6,official or government,VN,
+R268,Q06,VN-VI-06,perplexity,vi,1,2026-10-15,BW-039,1,business's own website,VN,Clinics
+R268,Q06,VN-VI-06,perplexity,vi,1,2026-10-15,bookingcare.vn,4,booking or marketplace,VN,
+R268,Q06,VN-VI-06,perplexity,vi,1,2026-10-15,hellobacsi.com,5,editorial or media,INT,
+R269,Q01,VN-VI-01,claude,vi,0,2026-10-15,BW-284,1,business's own website,VN,Hotels
+R269,Q01,VN-VI-01,claude,vi,0,2026-10-15,refinedboutiquehotels.com,5,editorial or media,UND,
+R269,Q01,VN-VI-01,claude,vi,0,2026-10-15,tripadvisor.co.nz,3,review platform,INT,
+R270,Q03,VN-VI-03,gemini,vi,1,2026-10-15,BW-375,1,business's own website,VN,Hotels
+R270,Q03,VN-VI-03,gemini,vi,1,2026-10-15,agoda.com,4,booking or marketplace,INT,
+R270,Q03,VN-VI-03,gemini,vi,1,2026-10-15,booking.com,4,booking or marketplace,INT,
+R270,Q03,VN-VI-03,gemini,vi,1,2026-10-15,chudu24.com,4,booking or marketplace,VN,
+R270,Q03,VN-VI-03,gemini,vi,1,2026-10-15,cuongdulich.com,5,editorial or media,UND,
+R270,Q03,VN-VI-03,gemini,vi,1,2026-10-15,nhatrang-travel.com,6,official or government,VN,
+R270,Q03,VN-VI-03,gemini,vi,1,2026-10-15,traveloka.com,4,booking or marketplace,INT,
+R270,Q03,VN-VI-03,gemini,vi,1,2026-10-15,trip.com,4,booking or marketplace,INT,
+R271,Q03,VN-VI-03,perplexity,vi,0,2026-10-15,BW-184,1,business's own website,VN,Hotels
+R271,Q03,VN-VI-03,perplexity,vi,0,2026-10-15,traveloka.com,4,booking or marketplace,INT,
+R271,Q03,VN-VI-03,perplexity,vi,0,2026-10-15,vietnamtourism.com,5,editorial or media,UND,
+R272,Q02,VN-EN-02,chatgpt,en,1,2026-10-15,hanoitourism.org,5,editorial or media,UND,
+R272,Q02,VN-EN-02,chatgpt,en,1,2026-10-15,vietnamtourism.com,5,editorial or media,UND,
+R272,Q02,VN-EN-02,chatgpt,en,1,2026-10-15,vietnamtourism.vn,6,official or government,VN,
+R273,Q02,VN-VI-02,chatgpt,vi,0,2026-10-15,vietnam.travel,6,official or government,VN,
+R274,Q12,VN-EN-12,chatgpt,en,0,2026-10-15,BW-027,1,business's own website,VN,Food
+R274,Q12,VN-EN-12,chatgpt,en,0,2026-10-15,diningcity.vn,4,booking or marketplace,INT,
+R274,Q12,VN-EN-12,chatgpt,en,0,2026-10-15,michelin.com,5,editorial or media,INT,
+R275,Q20,VN-EN-20,perplexity,en,0,2026-10-15,BW-111,1,business's own website,UND,Professional
+R275,Q20,VN-EN-20,perplexity,en,0,2026-10-15,BW-169,1,business's own website,INT,Professional
+R275,Q20,VN-EN-20,perplexity,en,0,2026-10-15,BW-187,1,business's own website,VN,Professional
+R275,Q20,VN-EN-20,perplexity,en,0,2026-10-15,BW-336,1,business's own website,INT,Professional
+R275,Q20,VN-EN-20,perplexity,en,0,2026-10-15,BW-396,1,business's own website,UND,Professional
+R275,Q20,VN-EN-20,perplexity,en,0,2026-10-15,ensun.io,2,map or business listing,INT,
+R275,Q20,VN-EN-20,perplexity,en,0,2026-10-15,yellowpages.com.vn,2,map or business listing,VN,
+R276,Q13,VN-VI-13,perplexity,vi,1,2026-10-15,BW-009,1,business's own website,VN,Education
+R276,Q13,VN-VI-13,perplexity,vi,1,2026-10-15,BW-016,1,business's own website,VN,Education
+R276,Q13,VN-VI-13,perplexity,vi,1,2026-10-15,BW-146,1,business's own website,VN,Education
+R276,Q13,VN-VI-13,perplexity,vi,1,2026-10-15,toplist.vn,5,editorial or media,VN,
+R277,Q04,VN-VI-04,chatgpt,vi,1,2026-10-15,BW-026,1,business's own website,VN,Hotels
+R277,Q04,VN-VI-04,chatgpt,vi,1,2026-10-15,BW-077,1,business's own website,INT,"Food, Hotels"
+R277,Q04,VN-VI-04,chatgpt,vi,1,2026-10-15,BW-091,1,business's own website,INT,"Food, Hotels"
+R277,Q04,VN-VI-04,chatgpt,vi,1,2026-10-15,BW-103,1,business's own website,VN,Hotels
+R277,Q04,VN-VI-04,chatgpt,vi,1,2026-10-15,BW-110,1,business's own website,UND,Hotels
+R277,Q04,VN-VI-04,chatgpt,vi,1,2026-10-15,BW-152,1,business's own website,UND,Hotels
+R277,Q04,VN-VI-04,chatgpt,vi,1,2026-10-15,BW-354,1,business's own website,INT,Hotels
+R278,Q07,VN-EN-07,claude,en,0,2026-10-15,BW-093,1,business's own website,UND,Clinics
+R278,Q07,VN-EN-07,claude,en,0,2026-10-15,dentaltrip.io,4,booking or marketplace,VN,
+R278,Q07,VN-EN-07,claude,en,0,2026-10-15,dentavacation.com,4,booking or marketplace,INT,
+R278,Q07,VN-EN-07,claude,en,0,2026-10-15,medicaltourismco.com,4,booking or marketplace,INT,
+R279,Q04,VN-VI-04,chatgpt,vi,0,2026-10-15,BW-077,1,business's own website,INT,"Food, Hotels"
+R279,Q04,VN-VI-04,chatgpt,vi,0,2026-10-15,BW-091,1,business's own website,INT,"Food, Hotels"
+R279,Q04,VN-VI-04,chatgpt,vi,0,2026-10-15,BW-110,1,business's own website,UND,Hotels
+R279,Q04,VN-VI-04,chatgpt,vi,0,2026-10-15,BW-152,1,business's own website,UND,Hotels
+R279,Q04,VN-VI-04,chatgpt,vi,0,2026-10-15,BW-323,1,business's own website,VN,Hotels
+R279,Q04,VN-VI-04,chatgpt,vi,0,2026-10-15,BW-373,1,business's own website,INT,Hotels
+R280,Q16,VN-EN-16,claude,en,1,2026-10-15,BW-138,1,business's own website,VN,Education
+R280,Q16,VN-EN-16,claude,en,1,2026-10-15,BW-160,1,business's own website,VN,Education
+R280,Q16,VN-EN-16,claude,en,1,2026-10-15,BW-210,1,business's own website,VN,Education
+R280,Q16,VN-EN-16,claude,en,1,2026-10-15,BW-244,1,business's own website,VN,Education
+R280,Q16,VN-EN-16,claude,en,1,2026-10-15,BW-279,1,business's own website,VN,Education
+R280,Q16,VN-EN-16,claude,en,1,2026-10-15,BW-305,1,business's own website,VN,Education
+R280,Q16,VN-EN-16,claude,en,1,2026-10-15,BW-341,1,business's own website,VN,Education
+R280,Q16,VN-EN-16,claude,en,1,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R280,Q16,VN-EN-16,claude,en,1,2026-10-15,racinesvietnam.com,5,editorial or media,UND,
+R281,Q24,VN-EN-24,perplexity,en,0,2026-10-15,deliveryk.com,4,booking or marketplace,UND,
+R281,Q24,VN-EN-24,perplexity,en,0,2026-10-15,grab.com,4,booking or marketplace,INT,
+R281,Q24,VN-EN-24,perplexity,en,0,2026-10-15,tratoli.com,4,booking or marketplace,UND,
+R282,Q04,VN-VI-04,gemini,vi,1,2026-10-15,BW-041,1,business's own website,VN,Hotels
+R282,Q04,VN-VI-04,gemini,vi,1,2026-10-15,BW-231,1,business's own website,VN,Hotels
+R282,Q04,VN-VI-04,gemini,vi,1,2026-10-15,BW-377,1,business's own website,INT,Hotels
+R282,Q04,VN-VI-04,gemini,vi,1,2026-10-15,chudu24.com,4,booking or marketplace,VN,
+R282,Q04,VN-VI-04,gemini,vi,1,2026-10-15,dulich24.com.vn,4,booking or marketplace,VN,
+R282,Q04,VN-VI-04,gemini,vi,1,2026-10-15,ivivu.com,4,booking or marketplace,VN,
+R282,Q04,VN-VI-04,gemini,vi,1,2026-10-15,kenh14.vn,5,editorial or media,VN,
+R282,Q04,VN-VI-04,gemini,vi,1,2026-10-15,vietnambooking.com,4,booking or marketplace,VN,
+R283,Q24,VN-EN-24,perplexity,en,1,2026-10-15,grab.com,4,booking or marketplace,INT,
+R283,Q24,VN-EN-24,perplexity,en,1,2026-10-15,iigo.vn,2,map or business listing,VN,
+R283,Q24,VN-EN-24,perplexity,en,1,2026-10-15,tratoli.com,4,booking or marketplace,UND,
+R283,Q24,VN-EN-24,perplexity,en,1,2026-10-15,trip.com,4,booking or marketplace,INT,
+R284,Q22,VN-EN-22,claude,en,1,2026-10-15,fodors.com,5,editorial or media,INT,
+R284,Q22,VN-EN-22,claude,en,1,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R284,Q22,VN-EN-22,claude,en,1,2026-10-15,toplist.com.co,5,editorial or media,UND,
+R284,Q22,VN-EN-22,claude,en,1,2026-10-15,vietnamdoneright.com,5,editorial or media,VN,
+R287,Q19,VN-VI-19,chatgpt,vi,0,2026-10-15,BW-376,1,business's own website,VN,Professional
+R287,Q19,VN-VI-19,chatgpt,vi,0,2026-10-15,chinhphu.vn,6,official or government,VN,
+R287,Q19,VN-VI-19,chatgpt,vi,0,2026-10-15,dangkykinhdoanh.gov.vn,6,official or government,VN,
+R288,Q09,VN-VI-09,chatgpt,vi,0,2026-10-15,michelin.com,5,editorial or media,INT,
+R289,Q23,VN-VI-23,perplexity,vi,1,2026-10-15,BW-139,1,business's own website,VN,Retail
+R289,Q23,VN-VI-23,perplexity,vi,1,2026-10-15,BW-326,1,business's own website,VN,Retail
+R289,Q23,VN-VI-23,perplexity,vi,1,2026-10-15,vietnamfinance.vn,5,editorial or media,VN,
+R290,Q17,VN-EN-17,perplexity,en,0,2026-10-15,fili.vn,5,editorial or media,VN,
+R290,Q17,VN-EN-17,perplexity,en,0,2026-10-15,maison-hanoi.com,2,map or business listing,UND,
+R290,Q17,VN-EN-17,perplexity,en,0,2026-10-15,professnow.com,4,booking or marketplace,UND,
+R290,Q17,VN-EN-17,perplexity,en,0,2026-10-15,the-shiv.com,5,editorial or media,UND,
+R290,Q17,VN-EN-17,perplexity,en,0,2026-10-15,themanifest.com,3,review platform,INT,
+R290,Q17,VN-EN-17,perplexity,en,0,2026-10-15,vietnamdoneright.com,5,editorial or media,VN,
+R291,Q15,VN-EN-15,claude,en,0,2026-10-15,BW-090,1,business's own website,UND,Education
+R291,Q15,VN-EN-15,claude,en,0,2026-10-15,BW-134,1,business's own website,VN,Education
+R291,Q15,VN-EN-15,claude,en,0,2026-10-15,BW-135,1,business's own website,VN,Education
+R291,Q15,VN-EN-15,claude,en,0,2026-10-15,BW-146,1,business's own website,VN,Education
+R291,Q15,VN-EN-15,claude,en,0,2026-10-15,BW-167,1,business's own website,VN,Education
+R291,Q15,VN-EN-15,claude,en,0,2026-10-15,BW-236,1,business's own website,VN,Education
+R291,Q15,VN-EN-15,claude,en,0,2026-10-15,BW-252,1,business's own website,VN,Education
+R291,Q15,VN-EN-15,claude,en,0,2026-10-15,khoahocreview.vn,5,editorial or media,VN,
+R292,Q21,VN-EN-21,perplexity,en,1,2026-10-15,BW-017,1,business's own website,INT,Retail
+R292,Q21,VN-EN-21,perplexity,en,1,2026-10-15,BW-092,1,business's own website,UND,"Clinics, Food, Retail"
+R292,Q21,VN-EN-21,perplexity,en,1,2026-10-15,BW-384,1,business's own website,UND,Retail
+R292,Q21,VN-EN-21,perplexity,en,1,2026-10-15,letfind.me,5,editorial or media,UND,
+R293,Q08,VN-VI-08,perplexity,vi,1,2026-10-15,BW-371,1,business's own website,VN,Clinics
+R293,Q08,VN-VI-08,perplexity,vi,1,2026-10-15,BW-380,1,business's own website,VN,Clinics
+R294,Q20,VN-VI-20,claude,vi,1,2026-10-15,BW-006,1,business's own website,VN,Professional
+R294,Q20,VN-VI-20,claude,vi,1,2026-10-15,BW-108,1,business's own website,VN,Professional
+R294,Q20,VN-VI-20,claude,vi,1,2026-10-15,BW-278,1,business's own website,VN,Professional
+R294,Q20,VN-VI-20,claude,vi,1,2026-10-15,inhat.vn,5,editorial or media,VN,
+R294,Q20,VN-VI-20,claude,vi,1,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R294,Q20,VN-VI-20,claude,vi,1,2026-10-15,topmoving.org,2,map or business listing,UND,
+R295,Q10,VN-VI-10,claude,vi,0,2026-10-15,BW-069,1,business's own website,UND,Food
+R295,Q10,VN-VI-10,claude,vi,0,2026-10-15,BW-306,1,business's own website,VN,Food
+R295,Q10,VN-VI-10,claude,vi,0,2026-10-15,BW-349,1,business's own website,VN,Food
+R295,Q10,VN-VI-10,claude,vi,0,2026-10-15,michelin.com,5,editorial or media,INT,
+R295,Q10,VN-VI-10,claude,vi,0,2026-10-15,pasgo.vn,4,booking or marketplace,VN,
+R295,Q10,VN-VI-10,claude,vi,0,2026-10-15,vietnamnet.vn,5,editorial or media,VN,
+R296,Q21,VN-EN-21,chatgpt,en,0,2026-10-15,BW-015,1,business's own website,VN,Retail
+R296,Q21,VN-EN-21,chatgpt,en,0,2026-10-15,BW-132,1,business's own website,INT,Retail
+R296,Q21,VN-EN-21,chatgpt,en,0,2026-10-15,BW-338,1,business's own website,VN,Retail
+R296,Q21,VN-EN-21,chatgpt,en,0,2026-10-15,BW-378,1,business's own website,VN,Retail
+R297,Q24,VN-VI-24,claude,vi,0,2026-10-15,BW-180,1,business's own website,VN,Retail
+R297,Q24,VN-VI-24,claude,vi,0,2026-10-15,BW-224,1,business's own website,VN,Retail
+R297,Q24,VN-VI-24,claude,vi,0,2026-10-15,BW-308,1,business's own website,VN,Retail
+R297,Q24,VN-VI-24,claude,vi,0,2026-10-15,BW-366,1,business's own website,VN,Retail
+R297,Q24,VN-VI-24,claude,vi,0,2026-10-15,BW-393,1,business's own website,VN,"Education, Retail"
+R298,Q07,VN-VI-07,chatgpt,vi,1,2026-10-15,BW-193,1,business's own website,VN,Clinics
+R298,Q07,VN-VI-07,chatgpt,vi,1,2026-10-15,BW-242,1,business's own website,VN,Clinics
+R298,Q07,VN-VI-07,chatgpt,vi,1,2026-10-15,BW-300,1,business's own website,VN,Clinics
+R298,Q07,VN-VI-07,chatgpt,vi,1,2026-10-15,BW-348,1,business's own website,VN,Clinics
+R300,Q24,VN-VI-24,claude,vi,1,2026-10-15,BW-211,1,business's own website,VN,Retail
+R300,Q24,VN-VI-24,claude,vi,1,2026-10-15,BW-224,1,business's own website,VN,Retail
+R300,Q24,VN-VI-24,claude,vi,1,2026-10-15,BW-225,1,business's own website,VN,Retail
+R300,Q24,VN-VI-24,claude,vi,1,2026-10-15,BW-393,1,business's own website,VN,"Education, Retail"
+R300,Q24,VN-VI-24,claude,vi,1,2026-10-15,findtour.vn,4,booking or marketplace,VN,
+R300,Q24,VN-VI-24,claude,vi,1,2026-10-15,khanhhoareview.com,5,editorial or media,VN,
+R302,Q15,VN-VI-15,chatgpt,vi,0,2026-10-15,BW-012,1,business's own website,INT,Education
+R302,Q15,VN-VI-15,chatgpt,vi,0,2026-10-15,BW-125,1,business's own website,VN,Education
+R302,Q15,VN-VI-15,chatgpt,vi,0,2026-10-15,BW-179,1,business's own website,VN,Education
+R302,Q15,VN-VI-15,chatgpt,vi,0,2026-10-15,BW-194,1,business's own website,VN,Education
+R302,Q15,VN-VI-15,chatgpt,vi,0,2026-10-15,BW-235,1,business's own website,VN,Education
+R303,Q14,VN-EN-14,claude,en,1,2026-10-15,BW-186,1,business's own website,INT,Education
+R303,Q14,VN-EN-14,claude,en,1,2026-10-15,vietnamteachingjobs.com,9,other,UND,
+R303,Q14,VN-EN-14,claude,en,1,2026-10-15,wikipedia.org,9,other,INT,
+R304,Q08,VN-VI-08,claude,vi,0,2026-10-15,BW-102,1,business's own website,VN,Clinics
+R304,Q08,VN-VI-08,claude,vi,0,2026-10-15,BW-380,1,business's own website,VN,Clinics
+R304,Q08,VN-VI-08,claude,vi,0,2026-10-15,BW-383,1,business's own website,VN,Clinics
+R304,Q08,VN-VI-08,claude,vi,0,2026-10-15,hellobacsi.com,5,editorial or media,INT,
+R304,Q08,VN-VI-08,claude,vi,0,2026-10-15,phongkhambacsi.vn,2,map or business listing,VN,
+R305,Q12,VN-EN-12,perplexity,en,0,2026-10-15,BW-149,1,business's own website,VN,Food
+R305,Q12,VN-EN-12,perplexity,en,0,2026-10-15,michelin.com,5,editorial or media,INT,
+R305,Q12,VN-EN-12,perplexity,en,0,2026-10-15,trip.com,4,booking or marketplace,INT,
+R305,Q12,VN-EN-12,perplexity,en,0,2026-10-15,tripadvisor.com.au,3,review platform,INT,
+R306,Q17,VN-EN-17,gemini,en,1,2026-10-15,BW-043,1,business's own website,INT,Professional
+R306,Q17,VN-EN-17,gemini,en,1,2026-10-15,BW-097,1,business's own website,VN,Professional
+R306,Q17,VN-EN-17,gemini,en,1,2026-10-15,BW-099,1,business's own website,INT,Professional
+R306,Q17,VN-EN-17,gemini,en,1,2026-10-15,BW-113,1,business's own website,VN,Professional
+R306,Q17,VN-EN-17,gemini,en,1,2026-10-15,BW-176,1,business's own website,VN,Professional
+R306,Q17,VN-EN-17,gemini,en,1,2026-10-15,BW-192,1,business's own website,VN,Professional
+R306,Q17,VN-EN-17,gemini,en,1,2026-10-15,BW-215,1,business's own website,VN,Professional
+R306,Q17,VN-EN-17,gemini,en,1,2026-10-15,hanoimoi.vn,5,editorial or media,VN,
+R306,Q17,VN-EN-17,gemini,en,1,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R307,Q13,VN-EN-13,perplexity,en,1,2026-10-15,BW-016,1,business's own website,VN,Education
+R307,Q13,VN-EN-13,perplexity,en,1,2026-10-15,BW-054,1,business's own website,UND,Education
+R307,Q13,VN-EN-13,perplexity,en,1,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R308,Q23,VN-EN-23,perplexity,en,0,2026-10-15,BW-281,1,business's own website,INT,Retail
+R308,Q23,VN-EN-23,perplexity,en,0,2026-10-15,alibaba.com,4,booking or marketplace,INT,
+R309,Q02,VN-EN-02,chatgpt,en,0,2026-10-15,tourism.vn,6,official or government,VN,
+R309,Q02,VN-EN-02,chatgpt,en,0,2026-10-15,vietnam.travel,6,official or government,VN,
+R310,Q10,VN-VI-10,perplexity,vi,0,2026-10-15,BW-232,1,business's own website,VN,Food
+R310,Q10,VN-VI-10,perplexity,vi,0,2026-10-15,foody.vn,3,review platform,VN,
+R310,Q10,VN-VI-10,perplexity,vi,0,2026-10-15,lovevnfood.org,5,editorial or media,UND,
+R310,Q10,VN-VI-10,perplexity,vi,0,2026-10-15,pasgo.vn,4,booking or marketplace,VN,
+R310,Q10,VN-VI-10,perplexity,vi,0,2026-10-15,toplist.vn,5,editorial or media,VN,
+R311,Q04,VN-EN-04,claude,en,0,2026-10-15,BW-141,1,business's own website,VN,Hotels
+R311,Q04,VN-EN-04,claude,en,0,2026-10-15,BW-250,1,business's own website,VN,Hotels
+R311,Q04,VN-EN-04,claude,en,0,2026-10-15,hotels.com,4,booking or marketplace,INT,
+R311,Q04,VN-EN-04,claude,en,0,2026-10-15,kayak.com,4,booking or marketplace,INT,
+R311,Q04,VN-EN-04,claude,en,0,2026-10-15,trip.com,4,booking or marketplace,INT,
+R312,Q22,VN-VI-22,perplexity,vi,1,2026-10-15,BW-049,1,business's own website,VN,Retail
+R312,Q22,VN-VI-22,perplexity,vi,1,2026-10-15,BW-298,1,business's own website,VN,Retail
+R312,Q22,VN-VI-22,perplexity,vi,1,2026-10-15,BW-374,1,business's own website,VN,Retail
+R312,Q22,VN-VI-22,perplexity,vi,1,2026-10-15,maisonoffice.vn,4,booking or marketplace,VN,
+R312,Q22,VN-VI-22,perplexity,vi,1,2026-10-15,topbrands.vn,5,editorial or media,VN,
+R313,Q05,VN-EN-05,perplexity,en,0,2026-10-15,bookimed.com,4,booking or marketplace,INT,
+R313,Q05,VN-EN-05,perplexity,en,0,2026-10-15,docosan.com,4,booking or marketplace,VN,
+R313,Q05,VN-EN-05,perplexity,en,0,2026-10-15,expatden.com,5,editorial or media,INT,
+R313,Q05,VN-EN-05,perplexity,en,0,2026-10-15,whatclinic.com,2,map or business listing,INT,
+R314,Q13,VN-EN-13,claude,en,0,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R315,Q07,VN-EN-07,chatgpt,en,1,2026-10-15,BW-191,1,business's own website,VN,Clinics
+R315,Q07,VN-EN-07,chatgpt,en,1,2026-10-15,BW-280,1,business's own website,VN,Clinics
+R316,Q03,VN-EN-03,claude,en,1,2026-10-15,BW-110,1,business's own website,UND,Hotels
+R316,Q03,VN-EN-03,claude,en,1,2026-10-15,budgetyourtrip.com,5,editorial or media,INT,
+R316,Q03,VN-EN-03,claude,en,1,2026-10-15,daytripsvietnam.com,5,editorial or media,UND,
+R316,Q03,VN-EN-03,claude,en,1,2026-10-15,trip.com,4,booking or marketplace,INT,
+R316,Q03,VN-EN-03,claude,en,1,2026-10-15,vietnamtourism.com,5,editorial or media,UND,
+R316,Q03,VN-EN-03,claude,en,1,2026-10-15,vietnamwithme.com,5,editorial or media,UND,
+R317,Q04,VN-VI-04,claude,vi,0,2026-10-15,BW-238,1,business's own website,VN,Hotels
+R317,Q04,VN-VI-04,claude,vi,0,2026-10-15,chudu24.com,4,booking or marketplace,VN,
+R317,Q04,VN-VI-04,claude,vi,0,2026-10-15,trip.com,4,booking or marketplace,INT,
+R317,Q04,VN-VI-04,claude,vi,0,2026-10-15,vexere.com,4,booking or marketplace,VN,
+R317,Q04,VN-VI-04,claude,vi,0,2026-10-15,vietnambooking.com,4,booking or marketplace,VN,
+R318,Q23,VN-VI-23,chatgpt,vi,1,2026-10-15,BW-132,1,business's own website,INT,Retail
+R318,Q23,VN-VI-23,chatgpt,vi,1,2026-10-15,BW-326,1,business's own website,VN,Retail
+R319,Q23,VN-VI-23,claude,vi,1,2026-10-15,BW-109,1,business's own website,VN,Retail
+R319,Q23,VN-VI-23,claude,vi,1,2026-10-15,BW-240,1,business's own website,VN,Retail
+R319,Q23,VN-VI-23,claude,vi,1,2026-10-15,chotot.com,4,booking or marketplace,VN,
+R319,Q23,VN-VI-23,claude,vi,1,2026-10-15,kenh14.vn,5,editorial or media,VN,
+R320,Q15,VN-EN-15,perplexity,en,0,2026-10-15,BW-197,1,business's own website,VN,Education
+R320,Q15,VN-EN-15,perplexity,en,0,2026-10-15,BW-259,1,business's own website,VN,Education
+R320,Q15,VN-EN-15,perplexity,en,0,2026-10-15,BW-302,1,business's own website,INT,Education
+R320,Q15,VN-EN-15,perplexity,en,0,2026-10-15,BW-331,1,business's own website,INT,Education
+R320,Q15,VN-EN-15,perplexity,en,0,2026-10-15,BW-386,1,business's own website,INT,Education
+R320,Q15,VN-EN-15,perplexity,en,0,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R321,Q24,VN-VI-24,chatgpt,vi,0,2026-10-15,grab.com,4,booking or marketplace,INT,
+R321,Q24,VN-VI-24,chatgpt,vi,0,2026-10-15,shopeefood.vn,4,booking or marketplace,INT,
+R322,Q21,VN-VI-21,claude,vi,0,2026-10-15,BW-188,1,business's own website,UND,Retail
+R322,Q21,VN-VI-21,claude,vi,0,2026-10-15,BW-234,1,business's own website,VN,Retail
+R322,Q21,VN-VI-21,claude,vi,0,2026-10-15,inhat.vn,5,editorial or media,VN,
+R322,Q21,VN-VI-21,claude,vi,0,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R322,Q21,VN-VI-21,claude,vi,0,2026-10-15,reviewnhatrang.com.vn,5,editorial or media,VN,
+R322,Q21,VN-VI-21,claude,vi,0,2026-10-15,thodianhatrang.vn,2,map or business listing,VN,
+R324,Q06,VN-EN-06,perplexity,en,1,2026-10-15,embassy.gov.au,6,official or government,INT,
+R324,Q06,VN-EN-06,perplexity,en,1,2026-10-15,expatinfodesk.com,5,editorial or media,UND,
+R324,Q06,VN-EN-06,perplexity,en,1,2026-10-15,placidway.com,4,booking or marketplace,INT,
+R324,Q06,VN-EN-06,perplexity,en,1,2026-10-15,smilejet.app,4,booking or marketplace,UND,
+R324,Q06,VN-EN-06,perplexity,en,1,2026-10-15,travelfish.org,5,editorial or media,INT,
+R324,Q06,VN-EN-06,perplexity,en,1,2026-10-15,travelinsuranceterms.com,5,editorial or media,UND,
+R325,Q14,VN-VI-14,chatgpt,vi,1,2026-10-15,BW-060,1,business's own website,VN,Education
+R325,Q14,VN-VI-14,chatgpt,vi,1,2026-10-15,BW-340,1,business's own website,VN,Education
+R325,Q14,VN-VI-14,chatgpt,vi,1,2026-10-15,cois.org,9,other,INT,
+R326,Q24,VN-VI-24,perplexity,vi,1,2026-10-15,BW-165,1,business's own website,VN,"Food, Retail"
+R326,Q24,VN-VI-24,perplexity,vi,1,2026-10-15,BW-374,1,business's own website,VN,Retail
+R326,Q24,VN-VI-24,perplexity,vi,1,2026-10-15,grab.com,4,booking or marketplace,INT,
+R327,Q18,VN-EN-18,claude,en,1,2026-10-15,BW-031,1,business's own website,VN,Professional
+R327,Q18,VN-EN-18,claude,en,1,2026-10-15,BW-350,1,business's own website,INT,Professional
+R327,Q18,VN-EN-18,claude,en,1,2026-10-15,lawzana.com,2,map or business listing,INT,
+R327,Q18,VN-EN-18,claude,en,1,2026-10-15,lexology.com,5,editorial or media,INT,
+R328,Q01,VN-EN-01,chatgpt,en,0,2026-10-15,BW-077,1,business's own website,INT,"Food, Hotels"
+R328,Q01,VN-EN-01,chatgpt,en,0,2026-10-15,BW-091,1,business's own website,INT,"Food, Hotels"
+R328,Q01,VN-EN-01,chatgpt,en,0,2026-10-15,BW-163,1,business's own website,VN,Hotels
+R328,Q01,VN-EN-01,chatgpt,en,0,2026-10-15,BW-189,1,business's own website,VN,Hotels
+R328,Q01,VN-EN-01,chatgpt,en,0,2026-10-15,BW-255,1,business's own website,VN,Hotels
+R328,Q01,VN-EN-01,chatgpt,en,0,2026-10-15,michelin.com,5,editorial or media,INT,
+R328,Q01,VN-EN-01,chatgpt,en,0,2026-10-15,tripadvisor.com,3,review platform,INT,
+R330,Q01,VN-VI-01,perplexity,vi,0,2026-10-15,BW-268,1,business's own website,VN,Hotels
+R330,Q01,VN-VI-01,perplexity,vi,0,2026-10-15,BW-284,1,business's own website,VN,Hotels
+R330,Q01,VN-VI-01,perplexity,vi,0,2026-10-15,bestasiahotels.com,5,editorial or media,UND,
+R330,Q01,VN-VI-01,perplexity,vi,0,2026-10-15,toplist.vn,5,editorial or media,VN,
+R330,Q01,VN-VI-01,perplexity,vi,0,2026-10-15,traveloka.com,4,booking or marketplace,INT,
+R330,Q01,VN-VI-01,perplexity,vi,0,2026-10-15,vietgoing.com,4,booking or marketplace,VN,
+R331,Q06,VN-VI-06,claude,vi,0,2026-10-15,BW-219,1,business's own website,VN,Clinics
+R331,Q06,VN-VI-06,claude,vi,0,2026-10-15,moh.gov.vn,6,official or government,VN,
+R332,Q13,VN-VI-13,chatgpt,vi,0,2026-10-15,BW-012,1,business's own website,INT,Education
+R332,Q13,VN-VI-13,chatgpt,vi,0,2026-10-15,BW-125,1,business's own website,VN,Education
+R332,Q13,VN-VI-13,chatgpt,vi,0,2026-10-15,BW-220,1,business's own website,VN,Education
+R332,Q13,VN-VI-13,chatgpt,vi,0,2026-10-15,BW-392,1,business's own website,VN,Education
+R333,Q20,VN-VI-20,perplexity,vi,0,2026-10-15,BW-218,1,business's own website,VN,Professional
+R333,Q20,VN-VI-20,perplexity,vi,0,2026-10-15,BW-233,1,business's own website,INT,Professional
+R333,Q20,VN-VI-20,perplexity,vi,0,2026-10-15,baotuyenquang.com.vn,5,editorial or media,VN,
+R333,Q20,VN-VI-20,perplexity,vi,0,2026-10-15,joboko.com,9,other,VN,
+R333,Q20,VN-VI-20,perplexity,vi,0,2026-10-15,saigonreview.vn,5,editorial or media,VN,
+R333,Q20,VN-VI-20,perplexity,vi,0,2026-10-15,toplist.vn,5,editorial or media,VN,
+R333,Q20,VN-VI-20,perplexity,vi,0,2026-10-15,tripi.vn,4,booking or marketplace,VN,
+R334,Q23,VN-EN-23,claude,en,1,2026-10-15,BW-008,1,business's own website,VN,Retail
+R334,Q23,VN-EN-23,claude,en,1,2026-10-15,BW-109,1,business's own website,VN,Retail
+R334,Q23,VN-EN-23,claude,en,1,2026-10-15,BW-240,1,business's own website,VN,Retail
+R334,Q23,VN-EN-23,claude,en,1,2026-10-15,BW-353,1,business's own website,VN,Retail
+R335,Q08,VN-VI-08,chatgpt,vi,1,2026-10-15,BW-133,1,business's own website,VN,Clinics
+R335,Q08,VN-VI-08,chatgpt,vi,1,2026-10-15,BW-371,1,business's own website,VN,Clinics
+R335,Q08,VN-VI-08,chatgpt,vi,1,2026-10-15,BW-380,1,business's own website,VN,Clinics
+R336,Q22,VN-VI-22,claude,vi,0,2026-10-15,BW-022,1,business's own website,UND,Retail
+R336,Q22,VN-VI-22,claude,vi,0,2026-10-15,BW-029,1,business's own website,VN,Retail
+R336,Q22,VN-VI-22,claude,vi,0,2026-10-15,BW-116,1,business's own website,VN,Retail
+R336,Q22,VN-VI-22,claude,vi,0,2026-10-15,BW-258,1,business's own website,VN,Retail
+R336,Q22,VN-VI-22,claude,vi,0,2026-10-15,BW-362,1,business's own website,VN,Retail
+R336,Q22,VN-VI-22,claude,vi,0,2026-10-15,heucollege.edu.vn,5,editorial or media,UND,
+R337,Q12,VN-EN-12,claude,en,1,2026-10-15,BW-018,1,business's own website,VN,Food
+R337,Q12,VN-EN-12,claude,en,1,2026-10-15,BW-388,1,business's own website,INT,Food
+R337,Q12,VN-EN-12,claude,en,1,2026-10-15,BW-391,1,business's own website,VN,Food
+R337,Q12,VN-EN-12,claude,en,1,2026-10-15,diningcity.vn,4,booking or marketplace,INT,
+R337,Q12,VN-EN-12,claude,en,1,2026-10-15,michelin.com,5,editorial or media,INT,
+R337,Q12,VN-EN-12,claude,en,1,2026-10-15,trip.com,4,booking or marketplace,INT,
+R337,Q12,VN-EN-12,claude,en,1,2026-10-15,tripadvisor.com,3,review platform,INT,
+R337,Q12,VN-EN-12,claude,en,1,2026-10-15,tripadvisor.com.sg,3,review platform,INT,
+R338,Q03,VN-EN-03,claude,en,0,2026-10-15,BW-110,1,business's own website,UND,Hotels
+R338,Q03,VN-EN-03,claude,en,0,2026-10-15,budgetyourtrip.com,5,editorial or media,INT,
+R338,Q03,VN-EN-03,claude,en,0,2026-10-15,daytripsvietnam.com,5,editorial or media,UND,
+R338,Q03,VN-EN-03,claude,en,0,2026-10-15,trip.com,4,booking or marketplace,INT,
+R338,Q03,VN-EN-03,claude,en,0,2026-10-15,vietnamtourism.com,5,editorial or media,UND,
+R338,Q03,VN-EN-03,claude,en,0,2026-10-15,vietnamwithme.com,5,editorial or media,UND,
+R339,Q09,VN-VI-09,claude,vi,0,2026-10-15,BW-056,1,business's own website,VN,"Clinics, Food"
+R339,Q09,VN-VI-09,claude,vi,0,2026-10-15,BW-222,1,business's own website,VN,Food
+R339,Q09,VN-VI-09,claude,vi,0,2026-10-15,pasgo.vn,4,booking or marketplace,VN,
+R339,Q09,VN-VI-09,claude,vi,0,2026-10-15,topgo.vn,5,editorial or media,VN,
+R340,Q22,VN-EN-22,chatgpt,en,1,2026-10-15,BW-023,1,business's own website,VN,Retail
+R340,Q22,VN-EN-22,chatgpt,en,1,2026-10-15,BW-045,1,business's own website,VN,Retail
+R340,Q22,VN-EN-22,chatgpt,en,1,2026-10-15,BW-087,1,business's own website,VN,Retail
+R340,Q22,VN-EN-22,chatgpt,en,1,2026-10-15,BW-175,1,business's own website,VN,Retail
+R340,Q22,VN-EN-22,chatgpt,en,1,2026-10-15,BW-254,1,business's own website,INT,Retail
+R340,Q22,VN-EN-22,chatgpt,en,1,2026-10-15,BW-298,1,business's own website,VN,Retail
+R340,Q22,VN-EN-22,chatgpt,en,1,2026-10-15,BW-318,1,business's own website,INT,Retail
+R340,Q22,VN-EN-22,chatgpt,en,1,2026-10-15,BW-325,1,business's own website,INT,Retail
+R340,Q22,VN-EN-22,chatgpt,en,1,2026-10-15,hanoitoplist.com,5,editorial or media,VN,
+R342,Q06,VN-VI-06,perplexity,vi,0,2026-10-15,BW-039,1,business's own website,VN,Clinics
+R342,Q06,VN-VI-06,perplexity,vi,0,2026-10-15,bookingcare.vn,4,booking or marketplace,VN,
+R342,Q06,VN-VI-06,perplexity,vi,0,2026-10-15,moh.gov.vn,6,official or government,VN,
+R344,Q23,VN-VI-23,perplexity,vi,0,2026-10-15,BW-139,1,business's own website,VN,Retail
+R344,Q23,VN-VI-23,perplexity,vi,0,2026-10-15,vietnamfinance.vn,5,editorial or media,VN,
+R345,Q02,VN-VI-02,perplexity,vi,1,2026-10-15,BW-020,1,business's own website,VN,"Food, Hotels"
+R345,Q02,VN-VI-02,perplexity,vi,1,2026-10-15,hotels.com,4,booking or marketplace,INT,
+R345,Q02,VN-VI-02,perplexity,vi,1,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R347,Q16,VN-VI-16,gemini,vi,0,2026-10-15,BW-083,1,business's own website,VN,Education
+R347,Q16,VN-VI-16,gemini,vi,0,2026-10-15,BW-143,1,business's own website,VN,Education
+R347,Q16,VN-VI-16,gemini,vi,0,2026-10-15,BW-160,1,business's own website,VN,Education
+R347,Q16,VN-VI-16,gemini,vi,0,2026-10-15,facebook.com,7,social media,INT,
+R348,Q08,VN-EN-08,gemini,en,1,2026-10-15,BW-040,1,business's own website,VN,Clinics
+R348,Q08,VN-EN-08,gemini,en,1,2026-10-15,BW-380,1,business's own website,VN,Clinics
+R348,Q08,VN-EN-08,gemini,en,1,2026-10-15,bcare.vn,4,booking or marketplace,VN,
+R348,Q08,VN-EN-08,gemini,en,1,2026-10-15,doctorsa.com,4,booking or marketplace,UND,
+R348,Q08,VN-EN-08,gemini,en,1,2026-10-15,facebook.com,7,social media,INT,
+R348,Q08,VN-EN-08,gemini,en,1,2026-10-15,medicaltourismco.com,4,booking or marketplace,INT,
+R348,Q08,VN-EN-08,gemini,en,1,2026-10-15,medigence.com,4,booking or marketplace,INT,
+R349,Q13,VN-VI-13,chatgpt,vi,1,2026-10-15,BW-012,1,business's own website,INT,Education
+R349,Q13,VN-VI-13,chatgpt,vi,1,2026-10-15,BW-125,1,business's own website,VN,Education
+R349,Q13,VN-VI-13,chatgpt,vi,1,2026-10-15,BW-220,1,business's own website,VN,Education
+R349,Q13,VN-VI-13,chatgpt,vi,1,2026-10-15,BW-392,1,business's own website,VN,Education
+R350,Q23,VN-VI-23,gemini,vi,1,2026-10-15,BW-073,1,business's own website,VN,Retail
+R350,Q23,VN-VI-23,gemini,vi,1,2026-10-15,BW-107,1,business's own website,VN,Retail
+R350,Q23,VN-VI-23,gemini,vi,1,2026-10-15,BW-240,1,business's own website,VN,Retail
+R350,Q23,VN-VI-23,gemini,vi,1,2026-10-15,BW-245,1,business's own website,VN,Retail
+R350,Q23,VN-VI-23,gemini,vi,1,2026-10-15,thanhnien.vn,5,editorial or media,VN,
+R350,Q23,VN-VI-23,gemini,vi,1,2026-10-15,tinhte.vn,8,forum or community,VN,
+R351,Q24,VN-EN-24,claude,en,0,2026-10-15,BW-002,1,business's own website,VN,Retail
+R351,Q24,VN-EN-24,claude,en,0,2026-10-15,BW-364,1,business's own website,VN,Retail
+R351,Q24,VN-EN-24,claude,en,0,2026-10-15,BW-394,1,business's own website,UND,Retail
+R351,Q24,VN-EN-24,claude,en,0,2026-10-15,deliver-now.store,4,booking or marketplace,UND,
+R351,Q24,VN-EN-24,claude,en,0,2026-10-15,grab.com,4,booking or marketplace,INT,
+R352,Q21,VN-EN-21,claude,en,1,2026-10-15,BW-338,1,business's own website,VN,Retail
+R352,Q21,VN-EN-21,claude,en,1,2026-10-15,alltop.vn,5,editorial or media,VN,
+R352,Q21,VN-EN-21,claude,en,1,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R352,Q21,VN-EN-21,claude,en,1,2026-10-15,reviewnhatrang.com.vn,5,editorial or media,VN,
+R352,Q21,VN-EN-21,claude,en,1,2026-10-15,toplist.vn,5,editorial or media,VN,
+R353,Q23,VN-EN-23,chatgpt,en,0,2026-10-15,BW-132,1,business's own website,INT,Retail
+R353,Q23,VN-EN-23,chatgpt,en,0,2026-10-15,BW-326,1,business's own website,VN,Retail
+R354,Q21,VN-VI-21,gemini,vi,0,2026-10-15,BW-055,1,business's own website,VN,Retail
+R354,Q21,VN-VI-21,gemini,vi,0,2026-10-15,BW-326,1,business's own website,VN,Retail
+R354,Q21,VN-VI-21,gemini,vi,0,2026-10-15,iigo.vn,2,map or business listing,VN,
+R355,Q19,VN-EN-19,perplexity,en,1,2026-10-15,BW-068,1,business's own website,INT,Professional
+R355,Q19,VN-EN-19,perplexity,en,1,2026-10-15,BW-148,1,business's own website,INT,Professional
+R355,Q19,VN-EN-19,perplexity,en,1,2026-10-15,BW-203,1,business's own website,VN,"Education, Professional"
+R355,Q19,VN-EN-19,perplexity,en,1,2026-10-15,BW-397,1,business's own website,VN,Professional
+R355,Q19,VN-EN-19,perplexity,en,1,2026-10-15,dangkykinhdoanh.gov.vn,6,official or government,VN,
+R355,Q19,VN-EN-19,perplexity,en,1,2026-10-15,vietnamkb.com,5,editorial or media,UND,
+R356,Q13,VN-VI-13,claude,vi,0,2026-10-15,BW-009,1,business's own website,VN,Education
+R356,Q13,VN-VI-13,claude,vi,0,2026-10-15,BW-172,1,business's own website,VN,Education
+R356,Q13,VN-VI-13,claude,vi,0,2026-10-15,BW-230,1,business's own website,INT,Education
+R356,Q13,VN-VI-13,claude,vi,0,2026-10-15,hocdungvui.com,5,editorial or media,UND,
+R356,Q13,VN-VI-13,claude,vi,0,2026-10-15,toplist.vn,5,editorial or media,VN,
+R357,Q14,VN-VI-14,chatgpt,vi,0,2026-10-15,BW-119,1,business's own website,INT,Education
+R357,Q14,VN-VI-14,chatgpt,vi,0,2026-10-15,BW-340,1,business's own website,VN,Education
+R357,Q14,VN-VI-14,chatgpt,vi,0,2026-10-15,cois.org,9,other,INT,
+R357,Q14,VN-VI-14,chatgpt,vi,0,2026-10-15,ibo.org,2,map or business listing,INT,
+R358,Q17,VN-VI-17,perplexity,vi,0,2026-10-15,BW-081,1,business's own website,VN,Professional
+R358,Q17,VN-VI-17,perplexity,vi,0,2026-10-15,BW-104,1,business's own website,VN,Professional
+R358,Q17,VN-VI-17,perplexity,vi,0,2026-10-15,hanoimoi.vn,5,editorial or media,VN,
+R358,Q17,VN-VI-17,perplexity,vi,0,2026-10-15,toplist.vn,5,editorial or media,VN,
+R359,Q07,VN-EN-07,claude,en,1,2026-10-15,BW-093,1,business's own website,UND,Clinics
+R359,Q07,VN-EN-07,claude,en,1,2026-10-15,dentaltrip.io,4,booking or marketplace,VN,
+R359,Q07,VN-EN-07,claude,en,1,2026-10-15,dentavacation.com,4,booking or marketplace,INT,
+R359,Q07,VN-EN-07,claude,en,1,2026-10-15,jennywongbeautygroup.com,5,editorial or media,UND,
+R359,Q07,VN-EN-07,claude,en,1,2026-10-15,medicaltourismco.com,4,booking or marketplace,INT,
+R360,Q20,VN-VI-20,chatgpt,vi,0,2026-10-15,BW-035,1,business's own website,VN,Professional
+R360,Q20,VN-VI-20,chatgpt,vi,0,2026-10-15,BW-101,1,business's own website,INT,Professional
+R360,Q20,VN-VI-20,chatgpt,vi,0,2026-10-15,BW-115,1,business's own website,INT,Professional
+R360,Q20,VN-VI-20,chatgpt,vi,0,2026-10-15,BW-142,1,business's own website,VN,Professional
+R360,Q20,VN-VI-20,chatgpt,vi,0,2026-10-15,BW-161,1,business's own website,INT,Professional
+R360,Q20,VN-VI-20,chatgpt,vi,0,2026-10-15,BW-213,1,business's own website,VN,Professional
+R360,Q20,VN-VI-20,chatgpt,vi,0,2026-10-15,BW-256,1,business's own website,INT,Professional
+R360,Q20,VN-VI-20,chatgpt,vi,0,2026-10-15,BW-271,1,business's own website,VN,Professional
+R362,Q02,VN-EN-02,perplexity,en,0,2026-10-15,BW-034,1,business's own website,VN,Hotels
+R362,Q02,VN-EN-02,perplexity,en,0,2026-10-15,hotels.com,4,booking or marketplace,INT,
+R362,Q02,VN-EN-02,perplexity,en,0,2026-10-15,travellemming.com,5,editorial or media,INT,
+R363,Q01,VN-EN-01,perplexity,en,1,2026-10-15,expedia.com,4,booking or marketplace,INT,
+R363,Q01,VN-EN-01,perplexity,en,1,2026-10-15,grantourismotravels.com,5,editorial or media,INT,
+R363,Q01,VN-EN-01,perplexity,en,1,2026-10-15,hotels.com,4,booking or marketplace,INT,
+R363,Q01,VN-EN-01,perplexity,en,1,2026-10-15,myboutiquehotel.com,4,booking or marketplace,INT,
+R363,Q01,VN-EN-01,perplexity,en,1,2026-10-15,thehoteljournal.com,5,editorial or media,INT,
+R363,Q01,VN-EN-01,perplexity,en,1,2026-10-15,tripadvisor.in,3,review platform,INT,
+R364,Q16,VN-EN-16,gemini,en,0,2026-10-15,BW-005,1,business's own website,VN,Education
+R364,Q16,VN-EN-16,gemini,en,0,2026-10-15,BW-083,1,business's own website,VN,Education
+R364,Q16,VN-EN-16,gemini,en,0,2026-10-15,BW-244,1,business's own website,VN,Education
+R364,Q16,VN-EN-16,gemini,en,0,2026-10-15,BW-279,1,business's own website,VN,Education
+R364,Q16,VN-EN-16,gemini,en,0,2026-10-15,BW-341,1,business's own website,VN,Education
+R364,Q16,VN-EN-16,gemini,en,0,2026-10-15,BW-363,1,business's own website,UND,Education
+R364,Q16,VN-EN-16,gemini,en,0,2026-10-15,BW-390,1,business's own website,UND,Education
+R364,Q16,VN-EN-16,gemini,en,0,2026-10-15,facebook.com,7,social media,INT,
+R364,Q16,VN-EN-16,gemini,en,0,2026-10-15,khanhhoareview.com,5,editorial or media,VN,
+R365,Q15,VN-EN-15,chatgpt,en,1,2026-10-15,BW-012,1,business's own website,INT,Education
+R365,Q15,VN-EN-15,chatgpt,en,1,2026-10-15,BW-090,1,business's own website,UND,Education
+R365,Q15,VN-EN-15,chatgpt,en,1,2026-10-15,BW-179,1,business's own website,VN,Education
+R365,Q15,VN-EN-15,chatgpt,en,1,2026-10-15,BW-209,1,business's own website,VN,Education
+R365,Q15,VN-EN-15,chatgpt,en,1,2026-10-15,investing.com,5,editorial or media,INT,
+R366,Q07,VN-EN-07,perplexity,en,1,2026-10-15,BW-191,1,business's own website,VN,Clinics
+R366,Q07,VN-EN-07,perplexity,en,1,2026-10-15,BW-280,1,business's own website,VN,Clinics
+R366,Q07,VN-EN-07,perplexity,en,1,2026-10-15,bookimed.com,4,booking or marketplace,INT,
+R366,Q07,VN-EN-07,perplexity,en,1,2026-10-15,booking.dentist,4,booking or marketplace,UND,
+R366,Q07,VN-EN-07,perplexity,en,1,2026-10-15,dentavacation.com,4,booking or marketplace,INT,
+R366,Q07,VN-EN-07,perplexity,en,1,2026-10-15,medicaltourismco.com,4,booking or marketplace,INT,
+R367,Q07,VN-VI-07,perplexity,vi,0,2026-10-15,BW-030,1,business's own website,VN,Clinics
+R367,Q07,VN-VI-07,perplexity,vi,0,2026-10-15,bookingcare.vn,4,booking or marketplace,VN,
+R367,Q07,VN-VI-07,perplexity,vi,0,2026-10-15,checknhakhoa.com,5,editorial or media,VN,
+R367,Q07,VN-VI-07,perplexity,vi,0,2026-10-15,medpro.vn,4,booking or marketplace,VN,
+R368,Q09,VN-EN-09,chatgpt,en,0,2026-10-15,michelin.com,5,editorial or media,INT,
+R369,Q24,VN-EN-24,chatgpt,en,1,2026-10-15,BW-183,1,business's own website,VN,Retail
+R369,Q24,VN-EN-24,chatgpt,en,1,2026-10-15,BW-198,1,business's own website,VN,Retail
+R369,Q24,VN-EN-24,chatgpt,en,1,2026-10-15,BW-285,1,business's own website,VN,Retail
+R369,Q24,VN-EN-24,chatgpt,en,1,2026-10-15,BW-293,1,business's own website,VN,Retail
+R369,Q24,VN-EN-24,chatgpt,en,1,2026-10-15,BW-337,1,business's own website,VN,Retail
+R369,Q24,VN-EN-24,chatgpt,en,1,2026-10-15,BW-387,1,business's own website,UND,Retail
+R369,Q24,VN-EN-24,chatgpt,en,1,2026-10-15,grab.com,4,booking or marketplace,INT,
+R369,Q24,VN-EN-24,chatgpt,en,1,2026-10-15,shopeefood.vn,4,booking or marketplace,INT,
+R370,Q20,VN-VI-20,perplexity,vi,1,2026-10-15,BW-218,1,business's own website,VN,Professional
+R370,Q20,VN-VI-20,perplexity,vi,1,2026-10-15,BW-233,1,business's own website,INT,Professional
+R370,Q20,VN-VI-20,perplexity,vi,1,2026-10-15,baotuyenquang.com.vn,5,editorial or media,VN,
+R370,Q20,VN-VI-20,perplexity,vi,1,2026-10-15,joboko.com,9,other,VN,
+R370,Q20,VN-VI-20,perplexity,vi,1,2026-10-15,saigonreview.vn,5,editorial or media,VN,
+R370,Q20,VN-VI-20,perplexity,vi,1,2026-10-15,toplist.vn,5,editorial or media,VN,
+R370,Q20,VN-VI-20,perplexity,vi,1,2026-10-15,tripi.vn,4,booking or marketplace,VN,
+R371,Q11,VN-EN-11,claude,en,1,2026-10-15,BW-084,1,business's own website,INT,"Food, Hotels"
+R371,Q11,VN-EN-11,claude,en,1,2026-10-15,BW-092,1,business's own website,UND,"Clinics, Food, Retail"
+R371,Q11,VN-EN-11,claude,en,1,2026-10-15,BW-273,1,business's own website,VN,Food
+R371,Q11,VN-EN-11,claude,en,1,2026-10-15,BW-332,1,business's own website,VN,Food
+R371,Q11,VN-EN-11,claude,en,1,2026-10-15,vietnamtourism.com,5,editorial or media,UND,
+R372,Q08,VN-VI-08,gemini,vi,0,2026-10-15,BW-040,1,business's own website,VN,Clinics
+R372,Q08,VN-VI-08,gemini,vi,0,2026-10-15,BW-133,1,business's own website,VN,Clinics
+R372,Q08,VN-VI-08,gemini,vi,0,2026-10-15,BW-257,1,business's own website,UND,Clinics
+R372,Q08,VN-VI-08,gemini,vi,0,2026-10-15,BW-282,1,business's own website,VN,Clinics
+R372,Q08,VN-VI-08,gemini,vi,0,2026-10-15,BW-371,1,business's own website,VN,Clinics
+R372,Q08,VN-VI-08,gemini,vi,0,2026-10-15,BW-380,1,business's own website,VN,Clinics
+R372,Q08,VN-VI-08,gemini,vi,0,2026-10-15,tinhuykhanhhoa.vn,6,official or government,VN,
+R373,Q09,VN-VI-09,claude,vi,1,2026-10-15,BW-301,1,business's own website,VN,Food
+R373,Q09,VN-VI-09,claude,vi,1,2026-10-15,BW-358,1,business's own website,VN,Food
+R373,Q09,VN-VI-09,claude,vi,1,2026-10-15,pasgo.vn,4,booking or marketplace,VN,
+R374,Q19,VN-VI-19,claude,vi,0,2026-10-15,BW-003,1,business's own website,VN,Professional
+R374,Q19,VN-VI-19,claude,vi,0,2026-10-15,BW-051,1,business's own website,VN,Professional
+R374,Q19,VN-VI-19,claude,vi,0,2026-10-15,BW-128,1,business's own website,VN,Professional
+R374,Q19,VN-VI-19,claude,vi,0,2026-10-15,BW-185,1,business's own website,VN,Professional
+R374,Q19,VN-VI-19,claude,vi,0,2026-10-15,BW-310,1,business's own website,VN,Professional
+R374,Q19,VN-VI-19,claude,vi,0,2026-10-15,BW-330,1,business's own website,VN,Professional
+R374,Q19,VN-VI-19,claude,vi,0,2026-10-15,BW-351,1,business's own website,VN,Professional
+R374,Q19,VN-VI-19,claude,vi,0,2026-10-15,BW-372,1,business's own website,VN,Professional
+R378,Q01,VN-VI-01,chatgpt,vi,1,2026-10-15,BW-189,1,business's own website,VN,Hotels
+R378,Q01,VN-VI-01,chatgpt,vi,1,2026-10-15,michelin.com,5,editorial or media,INT,
+R378,Q01,VN-VI-01,chatgpt,vi,1,2026-10-15,tripadvisor.com,3,review platform,INT,
+R379,Q16,VN-EN-16,claude,en,0,2026-10-15,BW-138,1,business's own website,VN,Education
+R379,Q16,VN-EN-16,claude,en,0,2026-10-15,BW-210,1,business's own website,VN,Education
+R379,Q16,VN-EN-16,claude,en,0,2026-10-15,BW-244,1,business's own website,VN,Education
+R379,Q16,VN-EN-16,claude,en,0,2026-10-15,BW-305,1,business's own website,VN,Education
+R379,Q16,VN-EN-16,claude,en,0,2026-10-15,BW-341,1,business's own website,VN,Education
+R379,Q16,VN-EN-16,claude,en,0,2026-10-15,mytour.vn,4,booking or marketplace,VN,
+R379,Q16,VN-EN-16,claude,en,0,2026-10-15,preply.com,4,booking or marketplace,INT,
+R379,Q16,VN-EN-16,claude,en,0,2026-10-15,racinesvietnam.com,5,editorial or media,UND,
+R380,Q07,VN-VI-07,chatgpt,vi,0,2026-10-15,BW-182,1,business's own website,VN,Clinics
+R380,Q07,VN-VI-07,chatgpt,vi,0,2026-10-15,BW-204,1,business's own website,VN,Clinics
+R381,Q18,VN-VI-18,perplexity,vi,1,2026-10-15,BW-062,1,business's own website,VN,Professional
+R381,Q18,VN-VI-18,perplexity,vi,1,2026-10-15,lawzana.com,2,map or business listing,INT,
+R384,Q18,VN-EN-18,chatgpt,en,1,2026-10-15,amchamhanoi.com,9,other,UND,
+R384,Q18,VN-EN-18,chatgpt,en,1,2026-10-15,chambers.com,5,editorial or media,INT,
+R384,Q18,VN-EN-18,chatgpt,en,1,2026-10-15,dangkykinhdoanh.gov.vn,6,official or government,VN,
+R384,Q18,VN-EN-18,chatgpt,en,1,2026-10-15,liendoanluatsu.org.vn,2,map or business listing,VN,
+R384,Q18,VN-EN-18,chatgpt,en,1,2026-10-15,moj.gov.vn,6,official or government,VN,

@@ -1,0 +1,385 @@
+run_id,question_id,query_id,platform,language,repetition,date,timestamp_utc,model_id,effort,search_invoked,cited_websites,retrieved_websites,map_links_excluded,finish_reason
+R001,Q01,VN-EN-01,claude,en,1,2026-10-15,2026-10-15T02:45:39Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,8,1,0,end_turn
+R002,Q02,VN-EN-02,gemini,en,0,2026-10-15,2026-10-15T02:46:00Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R003,Q17,VN-EN-17,claude,en,0,2026-10-15,2026-10-15T02:46:20Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,3,0,end_turn
+R004,Q07,VN-EN-07,gemini,en,1,2026-10-15,2026-10-15T02:46:37Z,gemini-3.8-flash,provider default (no thinking level sent),true,6,0,0,STOP
+R005,Q08,VN-EN-08,perplexity,en,0,2026-10-15,2026-10-15T02:46:53Z,sonar,n/a,true,5,1,0,stop
+R006,Q08,VN-EN-08,chatgpt,en,0,2026-10-15,2026-10-15T02:46:57Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,2,12,0,completed
+R007,Q19,VN-VI-19,chatgpt,vi,1,2026-10-15,2026-10-15T02:47:13Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,4,17,0,completed
+R008,Q24,VN-VI-24,gemini,vi,0,2026-10-15,2026-10-15T02:47:35Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R009,Q07,VN-VI-07,claude,vi,0,2026-10-15,2026-10-15T02:47:49Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,2,0,end_turn
+R010,Q22,VN-VI-22,chatgpt,vi,0,2026-10-15,2026-10-15T02:48:05Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,5,15,0,completed
+R011,Q21,VN-VI-21,perplexity,vi,1,2026-10-15,2026-10-15T02:48:34Z,sonar,n/a,true,3,3,0,stop
+R012,Q02,VN-VI-02,perplexity,vi,0,2026-10-15,2026-10-15T02:48:38Z,sonar,n/a,true,3,4,0,stop
+R013,Q08,VN-VI-08,gemini,vi,1,2026-10-15,2026-10-15T02:48:43Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R014,Q02,VN-EN-02,claude,en,0,2026-10-15,2026-10-15T02:49:02Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",false,0,0,0,end_turn
+R015,Q17,VN-EN-17,perplexity,en,1,2026-10-15,2026-10-15T02:49:19Z,sonar,n/a,true,6,0,0,stop
+R016,Q19,VN-EN-19,claude,en,1,2026-10-15,2026-10-15T02:49:24Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,8,1,0,end_turn
+R017,Q05,VN-EN-05,perplexity,en,1,2026-10-15,2026-10-15T02:49:41Z,sonar,n/a,true,4,3,0,stop
+R018,Q16,VN-VI-16,chatgpt,vi,1,2026-10-15,2026-10-15T02:49:44Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,4,17,0,completed
+R019,Q24,VN-EN-24,chatgpt,en,0,2026-10-15,2026-10-15T02:50:11Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,5,6,0,completed
+R020,Q06,VN-VI-06,chatgpt,vi,1,2026-10-15,2026-10-15T02:50:30Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,5,20,0,completed
+R021,Q16,VN-EN-16,gemini,en,1,2026-10-15,2026-10-15T02:50:59Z,gemini-3.8-flash,provider default (no thinking level sent),true,7,0,0,STOP
+R022,Q12,VN-EN-12,perplexity,en,1,2026-10-15,2026-10-15T02:51:14Z,sonar,n/a,true,4,1,0,stop
+R023,Q05,VN-EN-05,chatgpt,en,0,2026-10-15,2026-10-15T02:51:17Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,5,26,0,completed
+R024,Q12,VN-VI-12,perplexity,vi,0,2026-10-15,2026-10-15T02:51:47Z,sonar,n/a,true,3,3,0,stop
+R025,Q15,VN-EN-15,chatgpt,en,0,2026-10-15,2026-10-15T02:51:50Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,6,8,0,completed
+R026,Q12,VN-VI-12,chatgpt,vi,1,2026-10-15,2026-10-15T02:52:11Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,9,21,0,completed
+R027,Q03,VN-VI-03,claude,vi,0,2026-10-15,2026-10-15T02:52:33Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,6,2,0,end_turn
+R028,Q11,VN-VI-11,perplexity,vi,1,2026-10-15,2026-10-15T02:52:49Z,sonar,n/a,true,4,6,0,stop
+R029,Q23,VN-VI-23,chatgpt,vi,0,2026-10-15,2026-10-15T02:52:52Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,3,8,0,completed
+R030,Q12,VN-EN-12,claude,en,0,2026-10-15,2026-10-15T02:53:09Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,9,2,0,end_turn
+R031,Q11,VN-VI-11,claude,vi,0,2026-10-15,2026-10-15T02:53:25Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,4,4,0,end_turn
+R032,Q05,VN-EN-05,claude,en,1,2026-10-15,2026-10-15T02:53:38Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,2,0,end_turn
+R033,Q15,VN-VI-15,perplexity,vi,0,2026-10-15,2026-10-15T02:53:55Z,sonar,n/a,true,5,4,0,stop
+R034,Q17,VN-EN-17,gemini,en,0,2026-10-15,2026-10-15T02:53:58Z,gemini-3.8-flash,provider default (no thinking level sent),true,9,0,0,STOP
+R035,Q05,VN-EN-05,gemini,en,1,2026-10-15,2026-10-15T02:54:19Z,gemini-3.8-flash,provider default (no thinking level sent),true,8,0,0,STOP
+R036,Q09,VN-VI-09,gemini,vi,0,2026-10-15,2026-10-15T02:54:40Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R037,Q06,VN-EN-06,gemini,en,1,2026-10-15,2026-10-15T02:55:01Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R038,Q09,VN-VI-09,perplexity,vi,0,2026-10-15,2026-10-15T02:55:15Z,sonar,n/a,true,5,2,0,stop
+R039,Q03,VN-VI-03,gemini,vi,0,2026-10-15,2026-10-15T02:55:19Z,gemini-3.8-flash,provider default (no thinking level sent),true,8,0,0,STOP
+R040,Q22,VN-EN-22,claude,en,0,2026-10-15,2026-10-15T02:55:36Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,4,1,0,end_turn
+R041,Q20,VN-EN-20,claude,en,0,2026-10-15,2026-10-15T02:55:53Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,8,1,0,end_turn
+R042,Q13,VN-VI-13,gemini,vi,0,2026-10-15,2026-10-15T02:56:11Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R043,Q08,VN-EN-08,claude,en,1,2026-10-15,2026-10-15T02:56:31Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,7,2,0,end_turn
+R044,Q21,VN-VI-21,gemini,vi,1,2026-10-15,2026-10-15T02:56:47Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R045,Q23,VN-EN-23,gemini,en,0,2026-10-15,2026-10-15T02:57:02Z,gemini-3.8-flash,provider default (no thinking level sent),true,6,0,0,STOP
+R046,Q07,VN-VI-07,gemini,vi,0,2026-10-15,2026-10-15T02:57:19Z,gemini-3.8-flash,provider default (no thinking level sent),true,6,0,0,STOP
+R047,Q15,VN-EN-15,perplexity,en,1,2026-10-15,2026-10-15T02:57:37Z,sonar,n/a,true,6,1,0,stop
+R048,Q13,VN-EN-13,claude,en,1,2026-10-15,2026-10-15T02:57:40Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,1,0,0,end_turn
+R049,Q18,VN-VI-18,gemini,vi,0,2026-10-15,2026-10-15T02:57:55Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R050,Q11,VN-VI-11,chatgpt,vi,0,2026-10-15,2026-10-15T02:58:14Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,1,17,0,completed
+R051,Q19,VN-EN-19,claude,en,0,2026-10-15,2026-10-15T02:58:23Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,8,0,0,end_turn
+R052,Q21,VN-VI-21,chatgpt,vi,0,2026-10-15,2026-10-15T02:58:39Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,6,3,0,completed
+R053,Q03,VN-EN-03,chatgpt,en,0,2026-10-15,2026-10-15T03:01:05Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,1,14,0,completed
+R054,Q24,VN-EN-24,gemini,en,1,2026-10-15,2026-10-15T03:01:12Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R055,Q09,VN-VI-09,gemini,vi,1,2026-10-15,2026-10-15T03:01:25Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R056,Q24,VN-EN-24,gemini,en,0,2026-10-15,2026-10-15T03:01:45Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R057,Q21,VN-VI-21,perplexity,vi,0,2026-10-15,2026-10-15T03:02:00Z,sonar,n/a,true,3,3,0,stop
+R058,Q24,VN-EN-24,claude,en,1,2026-10-15,2026-10-15T03:02:04Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,4,0,end_turn
+R059,Q10,VN-EN-10,perplexity,en,1,2026-10-15,2026-10-15T03:02:17Z,sonar,n/a,true,3,5,0,stop
+R060,Q16,VN-VI-16,perplexity,vi,0,2026-10-15,2026-10-15T03:02:20Z,sonar,n/a,true,4,4,0,stop
+R061,Q21,VN-EN-21,gemini,en,0,2026-10-15,2026-10-15T03:02:24Z,gemini-3.8-flash,provider default (no thinking level sent),true,9,0,0,STOP
+R062,Q18,VN-EN-18,perplexity,en,0,2026-10-15,2026-10-15T03:02:43Z,sonar,n/a,true,3,2,0,stop
+R063,Q11,VN-EN-11,chatgpt,en,1,2026-10-15,2026-10-15T03:02:48Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,2,23,0,completed
+R064,Q04,VN-EN-04,perplexity,en,0,2026-10-15,2026-10-15T03:03:00Z,sonar,n/a,true,4,0,0,stop
+R065,Q16,VN-VI-16,gemini,vi,1,2026-10-15,2026-10-15T03:03:04Z,gemini-3.8-flash,provider default (no thinking level sent),true,10,0,0,STOP
+R066,Q01,VN-EN-01,gemini,en,1,2026-10-15,2026-10-15T03:03:25Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R067,Q06,VN-EN-06,chatgpt,en,0,2026-10-15,2026-10-15T03:03:42Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,6,20,0,completed
+R068,Q18,VN-VI-18,chatgpt,vi,0,2026-10-15,2026-10-15T03:04:13Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,2,2,0,completed
+R069,Q23,VN-EN-23,claude,en,0,2026-10-15,2026-10-15T03:04:37Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,4,7,0,end_turn
+R070,Q05,VN-VI-05,chatgpt,vi,0,2026-10-15,2026-10-15T03:04:54Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,4,13,0,completed
+R071,Q05,VN-VI-05,perplexity,vi,0,2026-10-15,2026-10-15T03:05:21Z,sonar,n/a,true,4,5,0,stop
+R072,Q03,VN-EN-03,gemini,en,0,2026-10-15,2026-10-15T03:05:25Z,gemini-3.8-flash,provider default (no thinking level sent),true,7,0,0,STOP
+R073,Q09,VN-EN-09,gemini,en,0,2026-10-15,2026-10-15T03:05:37Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R074,Q05,VN-EN-05,gemini,en,0,2026-10-15,2026-10-15T03:05:56Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R075,Q14,VN-EN-14,chatgpt,en,1,2026-10-15,2026-10-15T03:06:13Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,6,14,0,completed
+R076,Q12,VN-VI-12,claude,vi,1,2026-10-15,2026-10-15T03:07:01Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,4,4,0,end_turn
+R077,Q17,VN-VI-17,claude,vi,1,2026-10-15,2026-10-15T03:07:16Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,4,0,end_turn
+R078,Q19,VN-VI-19,claude,vi,1,2026-10-15,2026-10-15T03:07:35Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,7,0,0,end_turn
+R079,Q17,VN-VI-17,chatgpt,vi,1,2026-10-15,2026-10-15T03:07:54Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,5,25,0,completed
+R080,Q16,VN-VI-16,perplexity,vi,1,2026-10-15,2026-10-15T03:08:23Z,sonar,n/a,true,4,4,0,stop
+R081,Q08,VN-EN-08,perplexity,en,1,2026-10-15,2026-10-15T03:08:26Z,sonar,n/a,true,4,2,0,stop
+R082,Q10,VN-VI-10,perplexity,vi,1,2026-10-15,2026-10-15T03:08:29Z,sonar,n/a,true,5,2,0,stop
+R083,Q13,VN-EN-13,chatgpt,en,1,2026-10-15,2026-10-15T03:08:34Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,5,9,0,completed
+R084,Q09,VN-EN-09,chatgpt,en,1,2026-10-15,2026-10-15T03:09:11Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,2,12,0,completed
+R085,Q12,VN-VI-12,claude,vi,0,2026-10-15,2026-10-15T03:09:36Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,4,4,0,end_turn
+R086,Q18,VN-EN-18,perplexity,en,1,2026-10-15,2026-10-15T03:09:53Z,sonar,n/a,true,2,3,0,stop
+R087,Q04,VN-EN-04,chatgpt,en,0,2026-10-15,2026-10-15T03:09:57Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,8,18,0,completed
+R088,Q09,VN-EN-09,perplexity,en,0,2026-10-15,2026-10-15T03:10:19Z,sonar,n/a,true,4,3,0,stop
+R089,Q05,VN-VI-05,perplexity,vi,1,2026-10-15,2026-10-15T03:10:31Z,sonar,n/a,true,5,4,0,stop
+R090,Q09,VN-VI-09,perplexity,vi,1,2026-10-15,2026-10-15T03:10:35Z,sonar,n/a,true,5,2,0,stop
+R091,Q06,VN-EN-06,claude,en,0,2026-10-15,2026-10-15T03:10:39Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,4,0,end_turn
+R092,Q01,VN-EN-01,chatgpt,en,1,2026-10-15,2026-10-15T03:11:05Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,8,24,0,completed
+R093,Q01,VN-VI-01,claude,vi,1,2026-10-15,2026-10-15T03:11:35Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,3,2,0,end_turn
+R094,Q12,VN-EN-12,gemini,en,1,2026-10-15,2026-10-15T03:11:52Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R095,Q02,VN-EN-02,perplexity,en,1,2026-10-15,2026-10-15T03:12:09Z,sonar,n/a,true,2,2,0,stop
+R096,Q19,VN-VI-19,gemini,vi,1,2026-10-15,2026-10-15T03:12:14Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R097,Q19,VN-VI-19,gemini,vi,0,2026-10-15,2026-10-15T03:12:34Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R098,Q06,VN-EN-06,perplexity,en,0,2026-10-15,2026-10-15T03:12:53Z,sonar,n/a,true,4,6,0,stop
+R099,Q16,VN-VI-16,chatgpt,vi,0,2026-10-15,2026-10-15T03:12:58Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,4,12,0,completed
+R100,Q11,VN-EN-11,perplexity,en,0,2026-10-15,2026-10-15T03:13:18Z,sonar,n/a,true,2,6,0,stop
+R101,Q21,VN-EN-21,claude,en,0,2026-10-15,2026-10-15T03:13:21Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,3,0,end_turn
+R102,Q15,VN-VI-15,claude,vi,1,2026-10-15,2026-10-15T03:13:37Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,7,2,0,end_turn
+R103,Q19,VN-EN-19,chatgpt,en,0,2026-10-15,2026-10-15T03:13:54Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,3,33,0,completed
+R104,Q22,VN-VI-22,gemini,vi,0,2026-10-15,2026-10-15T03:14:21Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R105,Q11,VN-EN-11,chatgpt,en,0,2026-10-15,2026-10-15T03:14:40Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,3,24,0,completed
+R106,Q18,VN-EN-18,gemini,en,1,2026-10-15,2026-10-15T03:14:53Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R107,Q04,VN-VI-04,perplexity,vi,1,2026-10-15,2026-10-15T03:15:11Z,sonar,n/a,true,5,0,0,stop
+R108,Q08,VN-VI-08,claude,vi,1,2026-10-15,2026-10-15T03:15:17Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,2,0,end_turn
+R109,Q06,VN-EN-06,gemini,en,0,2026-10-15,2026-10-15T03:15:38Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R110,Q23,VN-VI-23,claude,vi,0,2026-10-15,2026-10-15T03:15:54Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,3,5,0,end_turn
+R111,Q23,VN-VI-23,gemini,vi,0,2026-10-15,2026-10-15T03:23:44Z,gemini-3.8-flash,provider default (no thinking level sent),true,8,0,0,STOP
+R112,Q24,VN-VI-24,perplexity,vi,0,2026-10-15,2026-10-15T03:26:22Z,sonar,n/a,true,4,3,0,stop
+R113,Q08,VN-EN-08,claude,en,0,2026-10-15,2026-10-15T03:26:25Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,6,3,0,end_turn
+R114,Q18,VN-EN-18,chatgpt,en,0,2026-10-15,2026-10-15T03:26:39Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,3,2,0,completed
+R115,Q24,VN-VI-24,gemini,vi,1,2026-10-15,2026-10-15T03:27:07Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R116,Q19,VN-EN-19,gemini,en,1,2026-10-15,2026-10-15T03:27:23Z,gemini-3.8-flash,provider default (no thinking level sent),true,6,0,0,STOP
+R117,Q12,VN-VI-12,gemini,vi,1,2026-10-15,2026-10-15T03:27:45Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R118,Q13,VN-EN-13,gemini,en,1,2026-10-15,2026-10-15T03:28:03Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R119,Q04,VN-EN-04,gemini,en,0,2026-10-15,2026-10-15T03:28:20Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R120,Q09,VN-EN-09,perplexity,en,1,2026-10-15,2026-10-15T03:28:35Z,sonar,n/a,true,4,3,0,stop
+R121,Q14,VN-EN-14,claude,en,0,2026-10-15,2026-10-15T03:28:39Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,4,1,0,end_turn
+R122,Q17,VN-VI-17,claude,vi,0,2026-10-15,2026-10-15T03:29:00Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,6,3,0,end_turn
+R123,Q05,VN-VI-05,claude,vi,0,2026-10-15,2026-10-15T03:29:18Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,3,5,0,end_turn
+R124,Q06,VN-VI-06,chatgpt,vi,0,2026-10-15,2026-10-15T03:29:35Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,5,10,0,completed
+R125,Q17,VN-VI-17,chatgpt,vi,0,2026-10-15,2026-10-15T03:30:10Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,4,21,0,completed
+R126,Q08,VN-EN-08,chatgpt,en,1,2026-10-15,2026-10-15T03:30:42Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,4,31,0,completed
+R127,Q06,VN-EN-06,chatgpt,en,1,2026-10-15,2026-10-15T03:31:02Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,5,10,0,completed
+R128,Q07,VN-VI-07,perplexity,vi,1,2026-10-15,2026-10-15T03:31:28Z,sonar,n/a,true,3,3,0,stop
+R129,Q05,VN-VI-05,chatgpt,vi,1,2026-10-15,2026-10-15T03:31:32Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,5,24,0,completed
+R130,Q22,VN-VI-22,chatgpt,vi,1,2026-10-15,2026-10-15T03:32:03Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,6,16,0,completed
+R131,Q18,VN-VI-18,chatgpt,vi,1,2026-10-15,2026-10-15T03:32:23Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,2,5,0,completed
+R132,Q11,VN-VI-11,chatgpt,vi,1,2026-10-15,2026-10-15T03:32:49Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,3,17,0,completed
+R133,Q17,VN-VI-17,perplexity,vi,1,2026-10-15,2026-10-15T03:32:58Z,sonar,n/a,true,5,4,0,stop
+R134,Q10,VN-EN-10,claude,en,0,2026-10-15,2026-10-15T03:33:02Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,6,3,0,end_turn
+R135,Q13,VN-EN-13,chatgpt,en,0,2026-10-15,2026-10-15T03:33:18Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,4,8,0,completed
+R136,Q19,VN-EN-19,chatgpt,en,1,2026-10-15,2026-10-15T03:33:47Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,4,30,0,completed
+R137,Q20,VN-EN-20,claude,en,1,2026-10-15,2026-10-15T03:34:08Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,9,0,0,end_turn
+R138,Q14,VN-EN-14,perplexity,en,0,2026-10-15,2026-10-15T03:34:23Z,sonar,n/a,true,6,3,0,stop
+R139,Q04,VN-EN-04,chatgpt,en,1,2026-10-15,2026-10-15T03:34:30Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,6,8,0,completed
+R140,Q04,VN-EN-04,perplexity,en,1,2026-10-15,2026-10-15T03:34:49Z,sonar,n/a,true,4,0,0,stop
+R141,Q08,VN-VI-08,perplexity,vi,0,2026-10-15,2026-10-15T03:34:53Z,sonar,n/a,true,6,2,0,stop
+R142,Q14,VN-VI-14,perplexity,vi,1,2026-10-15,2026-10-15T03:34:56Z,sonar,n/a,true,4,2,0,stop
+R143,Q05,VN-EN-05,claude,en,0,2026-10-15,2026-10-15T03:35:03Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,7,1,0,end_turn
+R144,Q14,VN-EN-14,chatgpt,en,0,2026-10-15,2026-10-15T03:35:20Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,7,6,0,completed
+R145,Q17,VN-EN-17,chatgpt,en,1,2026-10-15,2026-10-15T03:36:02Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,7,27,0,completed
+R146,Q05,VN-VI-05,gemini,vi,1,2026-10-15,2026-10-15T03:36:51Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R147,Q13,VN-EN-13,perplexity,en,0,2026-10-15,2026-10-15T03:37:05Z,sonar,n/a,true,3,6,0,stop
+R148,Q19,VN-VI-19,perplexity,vi,1,2026-10-15,2026-10-15T03:37:09Z,sonar,n/a,true,6,4,0,stop
+R149,Q12,VN-VI-12,chatgpt,vi,0,2026-10-15,2026-10-15T03:37:14Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,7,31,0,completed
+R150,Q10,VN-VI-10,gemini,vi,0,2026-10-15,2026-10-15T03:37:36Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R151,Q23,VN-EN-23,chatgpt,en,1,2026-10-15,2026-10-15T03:37:56Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,1,5,0,completed
+R152,Q12,VN-EN-12,chatgpt,en,1,2026-10-15,2026-10-15T03:38:12Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,6,32,0,completed
+R153,Q18,VN-VI-18,claude,vi,1,2026-10-15,2026-10-15T03:38:34Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",false,0,0,0,end_turn
+R154,Q20,VN-EN-20,gemini,en,0,2026-10-15,2026-10-15T03:38:52Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R155,Q01,VN-EN-01,claude,en,0,2026-10-15,2026-10-15T03:39:05Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,3,1,0,end_turn
+R156,Q19,VN-VI-19,perplexity,vi,0,2026-10-15,2026-10-15T03:39:20Z,sonar,n/a,true,6,4,0,stop
+R157,Q10,VN-EN-10,claude,en,1,2026-10-15,2026-10-15T03:39:24Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,6,3,0,end_turn
+R158,Q15,VN-EN-15,gemini,en,0,2026-10-15,2026-10-15T03:39:40Z,gemini-3.8-flash,provider default (no thinking level sent),true,10,0,0,STOP
+R159,Q23,VN-EN-23,gemini,en,1,2026-10-15,2026-10-15T03:39:58Z,gemini-3.8-flash,provider default (no thinking level sent),true,9,0,0,STOP
+R160,Q10,VN-EN-10,chatgpt,en,0,2026-10-15,2026-10-15T03:40:16Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,6,26,0,completed
+R161,Q20,VN-VI-20,gemini,vi,0,2026-10-15,2026-10-15T03:40:44Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R162,Q09,VN-VI-09,chatgpt,vi,1,2026-10-15,2026-10-15T03:41:04Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,1,13,0,completed
+R163,Q15,VN-VI-15,perplexity,vi,1,2026-10-15,2026-10-15T03:41:20Z,sonar,n/a,true,6,3,0,stop
+R164,Q15,VN-VI-15,claude,vi,0,2026-10-15,2026-10-15T03:41:24Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,7,2,0,end_turn
+R165,Q03,VN-EN-03,chatgpt,en,1,2026-10-15,2026-10-15T03:41:39Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,1,15,0,completed
+R166,Q16,VN-VI-16,claude,vi,1,2026-10-15,2026-10-15T03:41:46Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,6,2,0,end_turn
+R167,Q12,VN-VI-12,perplexity,vi,1,2026-10-15,2026-10-15T03:42:00Z,sonar,n/a,true,2,3,0,stop
+R168,Q12,VN-EN-12,gemini,en,0,2026-10-15,2026-10-15T03:42:03Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R169,Q20,VN-VI-20,gemini,vi,1,2026-10-15,2026-10-15T03:42:16Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R170,Q13,VN-VI-13,claude,vi,1,2026-10-15,2026-10-15T03:42:33Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,3,6,0,end_turn
+R171,Q10,VN-EN-10,perplexity,en,0,2026-10-15,2026-10-15T03:42:51Z,sonar,n/a,true,3,3,0,stop
+R172,Q14,VN-VI-14,claude,vi,0,2026-10-15,2026-10-15T03:42:54Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,6,3,0,end_turn
+R173,Q20,VN-VI-20,claude,vi,0,2026-10-15,2026-10-15T03:43:20Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,7,2,0,end_turn
+R174,Q08,VN-VI-08,chatgpt,vi,0,2026-10-15,2026-10-15T03:43:40Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,3,2,0,completed
+R175,Q16,VN-EN-16,chatgpt,en,1,2026-10-15,2026-10-15T03:43:57Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,6,19,0,completed
+R176,Q14,VN-VI-14,perplexity,vi,0,2026-10-15,2026-10-15T03:44:25Z,sonar,n/a,true,4,2,0,stop
+R177,Q20,VN-EN-20,gemini,en,1,2026-10-15,2026-10-15T03:44:31Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R178,Q16,VN-VI-16,claude,vi,0,2026-10-15,2026-10-15T03:44:45Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,8,1,0,end_turn
+R179,Q23,VN-EN-23,perplexity,en,1,2026-10-15,2026-10-15T03:45:00Z,sonar,n/a,true,2,2,0,stop
+R180,Q04,VN-EN-04,claude,en,1,2026-10-15,2026-10-15T03:45:03Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,6,3,0,end_turn
+R181,Q24,VN-VI-24,chatgpt,vi,1,2026-10-15,2026-10-15T03:45:16Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,7,12,0,completed
+R182,Q07,VN-EN-07,chatgpt,en,0,2026-10-15,2026-10-15T03:45:33Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,3,12,0,completed
+R183,Q02,VN-VI-02,claude,vi,0,2026-10-15,2026-10-15T03:45:49Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",false,0,0,0,end_turn
+R184,Q09,VN-EN-09,claude,en,1,2026-10-15,2026-10-15T03:46:18Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,6,2,0,end_turn
+R185,Q04,VN-EN-04,gemini,en,1,2026-10-15,2026-10-15T03:46:34Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R186,Q05,VN-EN-05,chatgpt,en,1,2026-10-15,2026-10-15T03:46:48Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,5,18,0,completed
+R187,Q22,VN-EN-22,perplexity,en,1,2026-10-15,2026-10-15T03:47:25Z,sonar,n/a,true,4,5,0,stop
+R188,Q07,VN-EN-07,gemini,en,0,2026-10-15,2026-10-15T03:47:29Z,gemini-3.8-flash,provider default (no thinking level sent),true,7,0,0,STOP
+R189,Q22,VN-EN-22,gemini,en,1,2026-10-15,2026-10-15T03:47:45Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R190,Q17,VN-EN-17,claude,en,1,2026-10-15,2026-10-15T03:48:03Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,2,0,end_turn
+R191,Q11,VN-VI-11,gemini,vi,0,2026-10-15,2026-10-15T03:48:17Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R192,Q10,VN-VI-10,chatgpt,vi,1,2026-10-15,2026-10-15T03:48:36Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,6,18,0,completed
+R193,Q01,VN-VI-01,chatgpt,vi,0,2026-10-15,2026-10-15T03:49:01Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,7,23,0,completed
+R194,Q15,VN-VI-15,chatgpt,vi,1,2026-10-15,2026-10-15T03:49:24Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,4,2,0,completed
+R195,Q17,VN-VI-17,gemini,vi,0,2026-10-15,2026-10-15T03:49:40Z,gemini-3.8-flash,provider default (no thinking level sent),true,5,0,0,STOP
+R196,Q02,VN-VI-02,gemini,vi,0,2026-10-15,2026-10-15T03:50:01Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R197,Q06,VN-EN-06,claude,en,1,2026-10-15,2026-10-15T03:50:24Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,3,0,end_turn
+R198,Q11,VN-VI-11,gemini,vi,1,2026-10-15,2026-10-15T03:50:40Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R199,Q07,VN-EN-07,perplexity,en,0,2026-10-15,2026-10-15T03:50:58Z,sonar,n/a,true,4,4,0,stop
+R200,Q11,VN-VI-11,perplexity,vi,0,2026-10-15,2026-10-15T03:51:01Z,sonar,n/a,true,4,6,0,stop
+R201,Q01,VN-EN-01,perplexity,en,0,2026-10-15,2026-10-15T03:51:04Z,sonar,n/a,true,4,4,0,stop
+R202,Q07,VN-VI-07,claude,vi,1,2026-10-15,2026-10-15T03:51:09Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,7,1,0,end_turn
+R203,Q18,VN-VI-18,perplexity,vi,0,2026-10-15,2026-10-15T03:51:23Z,sonar,n/a,true,3,3,0,stop
+R204,Q20,VN-EN-20,chatgpt,en,1,2026-10-15,2026-10-15T03:51:29Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,9,13,0,completed
+R205,Q03,VN-EN-03,gemini,en,1,2026-10-15,2026-10-15T03:51:53Z,gemini-3.8-flash,provider default (no thinking level sent),true,6,0,0,STOP
+R206,Q17,VN-VI-17,gemini,vi,1,2026-10-15,2026-10-15T03:52:04Z,gemini-3.8-flash,provider default (no thinking level sent),true,5,0,0,STOP
+R207,Q08,VN-EN-08,gemini,en,0,2026-10-15,2026-10-15T03:52:24Z,gemini-3.8-flash,provider default (no thinking level sent),true,10,0,0,STOP
+R208,Q16,VN-EN-16,perplexity,en,1,2026-10-15,2026-10-15T03:52:43Z,sonar,n/a,true,4,4,0,stop
+R209,Q10,VN-VI-10,claude,vi,1,2026-10-15,2026-10-15T03:52:47Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,9,0,end_turn
+R210,Q18,VN-EN-18,claude,en,0,2026-10-15,2026-10-15T03:53:08Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,2,6,0,end_turn
+R211,Q03,VN-VI-03,perplexity,vi,1,2026-10-15,2026-10-15T03:53:27Z,sonar,n/a,true,3,4,0,stop
+R212,Q10,VN-EN-10,chatgpt,en,1,2026-10-15,2026-10-15T03:53:30Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,5,24,0,completed
+R213,Q13,VN-VI-13,perplexity,vi,0,2026-10-15,2026-10-15T03:53:54Z,sonar,n/a,true,5,3,0,stop
+R214,Q01,VN-VI-01,gemini,vi,0,2026-10-15,2026-10-15T03:53:59Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R215,Q02,VN-VI-02,claude,vi,1,2026-10-15,2026-10-15T03:54:15Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",false,0,0,0,end_turn
+R216,Q06,VN-VI-06,claude,vi,1,2026-10-15,2026-10-15T03:54:45Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,4,19,0,end_turn
+R217,Q05,VN-VI-05,gemini,vi,0,2026-10-15,2026-10-15T03:55:17Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R218,Q18,VN-EN-18,gemini,en,0,2026-10-15,2026-10-15T03:55:32Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R219,Q07,VN-VI-07,gemini,vi,1,2026-10-15,2026-10-15T03:55:50Z,gemini-3.8-flash,provider default (no thinking level sent),true,6,0,0,STOP
+R220,Q15,VN-EN-15,claude,en,1,2026-10-15,2026-10-15T03:56:07Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,6,2,0,end_turn
+R221,Q22,VN-VI-22,perplexity,vi,0,2026-10-15,2026-10-15T03:56:23Z,sonar,n/a,true,6,3,0,stop
+R222,Q22,VN-EN-22,chatgpt,en,0,2026-10-15,2026-10-15T03:56:27Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,8,49,0,completed
+R223,Q21,VN-EN-21,perplexity,en,0,2026-10-15,2026-10-15T03:57:21Z,sonar,n/a,true,4,5,0,stop
+R224,Q09,VN-EN-09,gemini,en,1,2026-10-15,2026-10-15T03:57:24Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R225,Q03,VN-EN-03,perplexity,en,1,2026-10-15,2026-10-15T03:57:41Z,sonar,n/a,true,2,6,0,stop
+R226,Q14,VN-VI-14,claude,vi,1,2026-10-15,2026-10-15T03:57:43Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,4,0,end_turn
+R227,Q03,VN-VI-03,claude,vi,1,2026-10-15,2026-10-15T03:58:11Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,6,3,0,end_turn
+R228,Q01,VN-VI-01,perplexity,vi,1,2026-10-15,2026-10-15T03:58:25Z,sonar,n/a,true,6,4,0,stop
+R229,Q21,VN-VI-21,claude,vi,1,2026-10-15,2026-10-15T03:58:29Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,2,0,end_turn
+R230,Q14,VN-VI-14,gemini,vi,1,2026-10-15,2026-10-15T03:58:46Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R231,Q13,VN-EN-13,gemini,en,0,2026-10-15,2026-10-15T03:59:09Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R232,Q03,VN-VI-03,chatgpt,vi,0,2026-10-15,2026-10-15T03:59:25Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,1,16,0,completed
+R233,Q20,VN-VI-20,chatgpt,vi,1,2026-10-15,2026-10-15T03:59:33Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,7,2,0,completed
+R234,Q20,VN-EN-20,chatgpt,en,0,2026-10-15,2026-10-15T04:00:06Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,10,1,0,completed
+R235,Q03,VN-EN-03,perplexity,en,0,2026-10-15,2026-10-15T04:00:31Z,sonar,n/a,true,3,5,0,stop
+R236,Q21,VN-VI-21,chatgpt,vi,1,2026-10-15,2026-10-15T04:00:34Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,5,2,0,completed
+R237,Q15,VN-EN-15,gemini,en,1,2026-10-15,2026-10-15T04:00:50Z,gemini-3.8-flash,provider default (no thinking level sent),true,8,0,0,STOP
+R238,Q11,VN-EN-11,gemini,en,0,2026-10-15,2026-10-15T04:01:10Z,gemini-3.8-flash,provider default (no thinking level sent),true,9,0,0,STOP
+R239,Q14,VN-EN-14,gemini,en,1,2026-10-15,2026-10-15T04:01:27Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R240,Q21,VN-EN-21,gemini,en,1,2026-10-15,2026-10-15T04:01:46Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R241,Q20,VN-EN-20,perplexity,en,1,2026-10-15,2026-10-15T04:01:56Z,sonar,n/a,true,7,2,0,stop
+R242,Q11,VN-VI-11,claude,vi,1,2026-10-15,2026-10-15T04:02:02Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,3,0,end_turn
+R243,Q14,VN-EN-14,perplexity,en,1,2026-10-15,2026-10-15T04:02:16Z,sonar,n/a,true,7,2,0,stop
+R244,Q22,VN-EN-22,perplexity,en,0,2026-10-15,2026-10-15T04:02:23Z,sonar,n/a,true,5,4,0,stop
+R245,Q13,VN-VI-13,gemini,vi,1,2026-10-15,2026-10-15T04:02:27Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R246,Q21,VN-EN-21,chatgpt,en,1,2026-10-15,2026-10-15T04:02:46Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,6,14,0,completed
+R247,Q19,VN-EN-19,gemini,en,0,2026-10-15,2026-10-15T04:05:38Z,gemini-3.8-flash,provider default (no thinking level sent),true,9,0,0,STOP
+R248,Q16,VN-EN-16,perplexity,en,0,2026-10-15,2026-10-15T04:06:00Z,sonar,n/a,true,4,4,0,stop
+R249,Q14,VN-VI-14,gemini,vi,0,2026-10-15,2026-10-15T04:06:03Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R250,Q11,VN-EN-11,claude,en,0,2026-10-15,2026-10-15T04:06:25Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,4,0,end_turn
+R251,Q04,VN-VI-04,gemini,vi,0,2026-10-15,2026-10-15T04:06:37Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R252,Q02,VN-VI-02,chatgpt,vi,1,2026-10-15,2026-10-15T04:06:56Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,3,17,0,completed
+R253,Q16,VN-EN-16,chatgpt,en,0,2026-10-15,2026-10-15T04:07:20Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,6,12,0,completed
+R254,Q11,VN-EN-11,perplexity,en,1,2026-10-15,2026-10-15T04:07:41Z,sonar,n/a,true,6,3,0,stop
+R255,Q19,VN-EN-19,perplexity,en,0,2026-10-15,2026-10-15T04:07:44Z,sonar,n/a,true,6,4,0,stop
+R256,Q10,VN-VI-10,gemini,vi,1,2026-10-15,2026-10-15T04:07:48Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R257,Q09,VN-EN-09,claude,en,0,2026-10-15,2026-10-15T04:08:10Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,4,3,0,end_turn
+R258,Q04,VN-VI-04,perplexity,vi,0,2026-10-15,2026-10-15T04:08:25Z,sonar,n/a,true,4,0,0,stop
+R259,Q10,VN-EN-10,gemini,en,0,2026-10-15,2026-10-15T04:08:28Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R260,Q05,VN-VI-05,claude,vi,1,2026-10-15,2026-10-15T04:08:49Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,3,0,end_turn
+R261,Q03,VN-VI-03,chatgpt,vi,1,2026-10-15,2026-10-15T04:09:08Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,1,17,0,completed
+R262,Q04,VN-VI-04,claude,vi,1,2026-10-15,2026-10-15T04:09:17Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,3,4,0,end_turn
+R263,Q11,VN-EN-11,gemini,en,1,2026-10-15,2026-10-15T04:09:32Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R264,Q12,VN-VI-12,gemini,vi,0,2026-10-15,2026-10-15T04:09:48Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R265,Q10,VN-VI-10,chatgpt,vi,0,2026-10-15,2026-10-15T04:10:06Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,5,17,0,completed
+R266,Q22,VN-VI-22,claude,vi,1,2026-10-15,2026-10-15T04:10:21Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,4,5,0,end_turn
+R267,Q17,VN-EN-17,chatgpt,en,0,2026-10-15,2026-10-15T04:10:38Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,8,26,0,completed
+R268,Q06,VN-VI-06,perplexity,vi,1,2026-10-15,2026-10-15T04:11:28Z,sonar,n/a,true,3,3,0,stop
+R269,Q01,VN-VI-01,claude,vi,0,2026-10-15,2026-10-15T04:11:33Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,3,1,0,end_turn
+R270,Q03,VN-VI-03,gemini,vi,1,2026-10-15,2026-10-15T04:11:53Z,gemini-3.8-flash,provider default (no thinking level sent),true,8,0,0,STOP
+R271,Q03,VN-VI-03,perplexity,vi,0,2026-10-15,2026-10-15T04:12:09Z,sonar,n/a,true,3,4,0,stop
+R272,Q02,VN-EN-02,chatgpt,en,1,2026-10-15,2026-10-15T04:12:11Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,3,11,0,completed
+R273,Q02,VN-VI-02,chatgpt,vi,0,2026-10-15,2026-10-15T04:12:37Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,1,1,0,completed
+R274,Q12,VN-EN-12,chatgpt,en,0,2026-10-15,2026-10-15T04:13:02Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,3,14,0,completed
+R275,Q20,VN-EN-20,perplexity,en,0,2026-10-15,2026-10-15T04:13:25Z,sonar,n/a,true,7,2,0,stop
+R276,Q13,VN-VI-13,perplexity,vi,1,2026-10-15,2026-10-15T04:13:29Z,sonar,n/a,true,4,4,0,stop
+R277,Q04,VN-VI-04,chatgpt,vi,1,2026-10-15,2026-10-15T04:13:34Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,7,10,0,completed
+R278,Q07,VN-EN-07,claude,en,0,2026-10-15,2026-10-15T04:13:56Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,4,1,0,end_turn
+R279,Q04,VN-VI-04,chatgpt,vi,0,2026-10-15,2026-10-15T04:14:10Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,6,2,0,completed
+R280,Q16,VN-EN-16,claude,en,1,2026-10-15,2026-10-15T04:14:26Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,9,6,0,end_turn
+R281,Q24,VN-EN-24,perplexity,en,0,2026-10-15,2026-10-15T04:14:43Z,sonar,n/a,true,3,4,0,stop
+R282,Q04,VN-VI-04,gemini,vi,1,2026-10-15,2026-10-15T04:14:46Z,gemini-3.8-flash,provider default (no thinking level sent),true,8,0,0,STOP
+R283,Q24,VN-EN-24,perplexity,en,1,2026-10-15,2026-10-15T04:15:07Z,sonar,n/a,true,4,3,0,stop
+R284,Q22,VN-EN-22,claude,en,1,2026-10-15,2026-10-15T04:15:11Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,4,1,0,end_turn
+R285,Q14,VN-EN-14,gemini,en,0,2026-10-15,2026-10-15T04:15:31Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R286,Q06,VN-VI-06,gemini,vi,1,2026-10-15,2026-10-15T04:15:48Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R287,Q19,VN-VI-19,chatgpt,vi,0,2026-10-15,2026-10-15T04:16:06Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,3,17,0,completed
+R288,Q09,VN-VI-09,chatgpt,vi,0,2026-10-15,2026-10-15T04:16:33Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,1,13,0,completed
+R289,Q23,VN-VI-23,perplexity,vi,1,2026-10-15,2026-10-15T04:16:52Z,sonar,n/a,true,3,4,0,stop
+R290,Q17,VN-EN-17,perplexity,en,0,2026-10-15,2026-10-15T04:16:56Z,sonar,n/a,true,6,1,0,stop
+R291,Q15,VN-EN-15,claude,en,0,2026-10-15,2026-10-15T04:17:00Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,8,1,0,end_turn
+R292,Q21,VN-EN-21,perplexity,en,1,2026-10-15,2026-10-15T04:17:15Z,sonar,n/a,true,4,5,0,stop
+R293,Q08,VN-VI-08,perplexity,vi,1,2026-10-15,2026-10-15T04:17:18Z,sonar,n/a,true,2,6,0,stop
+R294,Q20,VN-VI-20,claude,vi,1,2026-10-15,2026-10-15T04:17:22Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,6,3,0,end_turn
+R295,Q10,VN-VI-10,claude,vi,0,2026-10-15,2026-10-15T04:17:48Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,6,7,0,end_turn
+R296,Q21,VN-EN-21,chatgpt,en,0,2026-10-15,2026-10-15T04:22:45Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,4,20,0,completed
+R297,Q24,VN-VI-24,claude,vi,0,2026-10-15,2026-10-15T04:23:14Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,3,0,end_turn
+R298,Q07,VN-VI-07,chatgpt,vi,1,2026-10-15,2026-10-15T04:23:27Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,4,12,0,completed
+R299,Q10,VN-EN-10,gemini,en,1,2026-10-15,2026-10-15T04:23:41Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R300,Q24,VN-VI-24,claude,vi,1,2026-10-15,2026-10-15T04:24:03Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,6,3,0,end_turn
+R301,Q15,VN-VI-15,gemini,vi,0,2026-10-15,2026-10-15T04:24:17Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R302,Q15,VN-VI-15,chatgpt,vi,0,2026-10-15,2026-10-15T04:24:40Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,5,2,0,completed
+R303,Q14,VN-EN-14,claude,en,1,2026-10-15,2026-10-15T04:25:01Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,3,2,0,end_turn
+R304,Q08,VN-VI-08,claude,vi,0,2026-10-15,2026-10-15T04:25:23Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,1,0,end_turn
+R305,Q12,VN-EN-12,perplexity,en,0,2026-10-15,2026-10-15T04:25:39Z,sonar,n/a,true,4,1,0,stop
+R306,Q17,VN-EN-17,gemini,en,1,2026-10-15,2026-10-15T04:25:42Z,gemini-3.8-flash,provider default (no thinking level sent),true,9,0,0,STOP
+R307,Q13,VN-EN-13,perplexity,en,1,2026-10-15,2026-10-15T04:26:03Z,sonar,n/a,true,3,6,0,stop
+R308,Q23,VN-EN-23,perplexity,en,0,2026-10-15,2026-10-15T04:26:07Z,sonar,n/a,true,2,2,0,stop
+R309,Q02,VN-EN-02,chatgpt,en,0,2026-10-15,2026-10-15T04:26:10Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,2,14,0,completed
+R310,Q10,VN-VI-10,perplexity,vi,0,2026-10-15,2026-10-15T04:26:29Z,sonar,n/a,true,5,2,0,stop
+R311,Q04,VN-EN-04,claude,en,0,2026-10-15,2026-10-15T04:26:33Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,1,0,end_turn
+R312,Q22,VN-VI-22,perplexity,vi,1,2026-10-15,2026-10-15T04:26:46Z,sonar,n/a,true,5,4,0,stop
+R313,Q05,VN-EN-05,perplexity,en,0,2026-10-15,2026-10-15T04:26:49Z,sonar,n/a,true,4,3,0,stop
+R314,Q13,VN-EN-13,claude,en,0,2026-10-15,2026-10-15T04:26:53Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,1,0,0,end_turn
+R315,Q07,VN-EN-07,chatgpt,en,1,2026-10-15,2026-10-15T06:49:28Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,2,13,0,completed
+R316,Q03,VN-EN-03,claude,en,1,2026-10-15,2026-10-15T06:58:16Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,6,2,0,end_turn
+R317,Q04,VN-VI-04,claude,vi,0,2026-10-15,2026-10-15T06:58:28Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,1,0,end_turn
+R318,Q23,VN-VI-23,chatgpt,vi,1,2026-10-15,2026-10-15T06:58:42Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,2,7,0,completed
+R319,Q23,VN-VI-23,claude,vi,1,2026-10-15,2026-10-15T06:58:59Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,4,5,0,end_turn
+R320,Q15,VN-EN-15,perplexity,en,0,2026-10-15,2026-10-15T07:02:01Z,sonar,n/a,true,6,1,0,stop
+R321,Q24,VN-VI-24,chatgpt,vi,0,2026-10-15,2026-10-15T07:02:05Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,2,12,0,completed
+R322,Q21,VN-VI-21,claude,vi,0,2026-10-15,2026-10-15T07:02:21Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,6,3,0,end_turn
+R323,Q01,VN-EN-01,gemini,en,0,2026-10-15,2026-10-15T07:02:39Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R324,Q06,VN-EN-06,perplexity,en,1,2026-10-15,2026-10-15T07:02:55Z,sonar,n/a,true,6,4,0,stop
+R325,Q14,VN-VI-14,chatgpt,vi,1,2026-10-15,2026-10-15T07:02:59Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,3,7,0,completed
+R326,Q24,VN-VI-24,perplexity,vi,1,2026-10-15,2026-10-15T07:03:44Z,sonar,n/a,true,3,4,0,stop
+R327,Q18,VN-EN-18,claude,en,1,2026-10-15,2026-10-15T07:03:47Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,4,5,0,end_turn
+R328,Q01,VN-EN-01,chatgpt,en,0,2026-10-15,2026-10-15T07:04:07Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,7,28,0,completed
+R329,Q02,VN-EN-02,gemini,en,1,2026-10-15,2026-10-15T07:04:48Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R330,Q01,VN-VI-01,perplexity,vi,0,2026-10-15,2026-10-15T07:05:08Z,sonar,n/a,true,6,4,0,stop
+R331,Q06,VN-VI-06,claude,vi,0,2026-10-15,2026-10-15T07:05:12Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,2,14,0,end_turn
+R332,Q13,VN-VI-13,chatgpt,vi,0,2026-10-15,2026-10-15T07:05:40Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,4,0,0,completed
+R333,Q20,VN-VI-20,perplexity,vi,0,2026-10-15,2026-10-15T07:06:08Z,sonar,n/a,true,7,1,0,stop
+R334,Q23,VN-EN-23,claude,en,1,2026-10-15,2026-10-15T07:06:13Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,4,4,0,end_turn
+R335,Q08,VN-VI-08,chatgpt,vi,1,2026-10-15,2026-10-15T07:06:28Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,3,6,0,completed
+R336,Q22,VN-VI-22,claude,vi,0,2026-10-15,2026-10-15T07:06:50Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,6,3,0,end_turn
+R337,Q12,VN-EN-12,claude,en,1,2026-10-15,2026-10-15T07:07:24Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,8,0,0,end_turn
+R338,Q03,VN-EN-03,claude,en,0,2026-10-15,2026-10-15T07:07:39Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,6,2,0,end_turn
+R339,Q09,VN-VI-09,claude,vi,0,2026-10-15,2026-10-15T07:07:51Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,4,2,0,end_turn
+R340,Q22,VN-EN-22,chatgpt,en,1,2026-10-15,2026-10-15T07:08:10Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,9,69,0,completed
+R341,Q02,VN-VI-02,gemini,vi,1,2026-10-15,2026-10-15T07:09:16Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R342,Q06,VN-VI-06,perplexity,vi,0,2026-10-15,2026-10-15T07:09:38Z,sonar,n/a,true,3,3,0,stop
+R343,Q18,VN-VI-18,claude,vi,0,2026-10-15,2026-10-15T07:09:43Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",false,0,0,0,end_turn
+R344,Q23,VN-VI-23,perplexity,vi,0,2026-10-15,2026-10-15T07:10:02Z,sonar,n/a,true,2,5,0,stop
+R345,Q02,VN-VI-02,perplexity,vi,1,2026-10-15,2026-10-15T07:10:06Z,sonar,n/a,true,3,5,0,stop
+R346,Q22,VN-VI-22,gemini,vi,1,2026-10-15,2026-10-15T07:10:11Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R347,Q16,VN-VI-16,gemini,vi,0,2026-10-15,2026-10-15T07:10:38Z,gemini-3.8-flash,provider default (no thinking level sent),true,4,0,0,STOP
+R348,Q08,VN-EN-08,gemini,en,1,2026-10-15,2026-10-15T07:10:57Z,gemini-3.8-flash,provider default (no thinking level sent),true,7,0,0,STOP
+R349,Q13,VN-VI-13,chatgpt,vi,1,2026-10-15,2026-10-15T07:11:18Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,4,1,0,completed
+R350,Q23,VN-VI-23,gemini,vi,1,2026-10-15,2026-10-15T07:11:38Z,gemini-3.8-flash,provider default (no thinking level sent),true,6,0,0,STOP
+R351,Q24,VN-EN-24,claude,en,0,2026-10-15,2026-10-15T07:11:57Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,4,0,end_turn
+R352,Q21,VN-EN-21,claude,en,1,2026-10-15,2026-10-15T07:12:09Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,1,0,end_turn
+R353,Q23,VN-EN-23,chatgpt,en,0,2026-10-15,2026-10-15T07:12:27Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,2,6,0,completed
+R354,Q21,VN-VI-21,gemini,vi,0,2026-10-15,2026-10-15T07:12:44Z,gemini-3.8-flash,provider default (no thinking level sent),true,3,0,0,STOP
+R355,Q19,VN-EN-19,perplexity,en,1,2026-10-15,2026-10-15T07:13:05Z,sonar,n/a,true,6,4,0,stop
+R356,Q13,VN-VI-13,claude,vi,0,2026-10-15,2026-10-15T07:13:09Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,4,0,end_turn
+R357,Q14,VN-VI-14,chatgpt,vi,0,2026-10-15,2026-10-15T07:13:26Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,4,4,0,completed
+R358,Q17,VN-VI-17,perplexity,vi,0,2026-10-15,2026-10-15T07:14:18Z,sonar,n/a,true,4,6,0,stop
+R359,Q07,VN-EN-07,claude,en,1,2026-10-15,2026-10-15T07:14:22Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,0,0,end_turn
+R360,Q20,VN-VI-20,chatgpt,vi,0,2026-10-15,2026-10-15T07:14:37Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,8,12,0,completed
+R361,Q01,VN-VI-01,gemini,vi,1,2026-10-15,2026-10-15T07:15:10Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R362,Q02,VN-EN-02,perplexity,en,0,2026-10-15,2026-10-15T07:15:28Z,sonar,n/a,true,3,1,0,stop
+R363,Q01,VN-EN-01,perplexity,en,1,2026-10-15,2026-10-15T07:15:32Z,sonar,n/a,true,6,1,0,stop
+R364,Q16,VN-EN-16,gemini,en,0,2026-10-15,2026-10-15T07:15:37Z,gemini-3.8-flash,provider default (no thinking level sent),true,9,0,0,STOP
+R365,Q15,VN-EN-15,chatgpt,en,1,2026-10-15,2026-10-15T07:16:09Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,5,20,0,completed
+R366,Q07,VN-EN-07,perplexity,en,1,2026-10-15,2026-10-15T07:16:37Z,sonar,n/a,true,6,2,0,stop
+R367,Q07,VN-VI-07,perplexity,vi,0,2026-10-15,2026-10-15T07:16:41Z,sonar,n/a,true,4,2,0,stop
+R368,Q09,VN-EN-09,chatgpt,en,0,2026-10-15,2026-10-15T07:16:56Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,1,12,0,completed
+R369,Q24,VN-EN-24,chatgpt,en,1,2026-10-15,2026-10-15T07:17:32Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,8,23,0,completed
+R370,Q20,VN-VI-20,perplexity,vi,1,2026-10-15,2026-10-15T07:17:56Z,sonar,n/a,true,7,1,0,stop
+R371,Q11,VN-EN-11,claude,en,1,2026-10-15,2026-10-15T07:18:00Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,5,1,0,end_turn
+R372,Q08,VN-VI-08,gemini,vi,0,2026-10-15,2026-10-15T07:18:11Z,gemini-3.8-flash,provider default (no thinking level sent),true,7,0,0,STOP
+R373,Q09,VN-VI-09,claude,vi,1,2026-10-15,2026-10-15T07:18:38Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,3,3,0,end_turn
+R374,Q19,VN-VI-19,claude,vi,0,2026-10-15,2026-10-15T07:18:54Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,8,1,0,end_turn
+R375,Q06,VN-VI-06,gemini,vi,0,2026-10-15,2026-10-15T07:19:14Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R376,Q18,VN-VI-18,gemini,vi,1,2026-10-15,2026-10-15T07:19:31Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R377,Q15,VN-VI-15,gemini,vi,1,2026-10-15,2026-10-15T07:19:53Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R378,Q01,VN-VI-01,chatgpt,vi,1,2026-10-15,2026-10-15T07:20:09Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,3,27,0,completed
+R379,Q16,VN-EN-16,claude,en,0,2026-10-15,2026-10-15T07:20:34Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",true,8,11,0,end_turn
+R380,Q07,VN-VI-07,chatgpt,vi,0,2026-10-15,2026-10-15T07:20:53Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,2,1,0,completed
+R381,Q18,VN-VI-18,perplexity,vi,1,2026-10-15,2026-10-15T07:21:10Z,sonar,n/a,true,2,4,0,stop
+R382,Q22,VN-EN-22,gemini,en,0,2026-10-15,2026-10-15T07:21:16Z,gemini-3.8-flash,provider default (no thinking level sent),false,0,0,0,STOP
+R383,Q02,VN-EN-02,claude,en,1,2026-10-15,2026-10-15T07:21:42Z,claude-opus-5-5,"medium (provider default for claude-opus-5-5, not sent)",false,0,0,0,end_turn
+R384,Q18,VN-EN-18,chatgpt,en,1,2026-10-15,2026-10-15T07:22:11Z,gpt-5.6-sol,"medium (provider default, not sent; the response echoes reasoning.effort)",true,5,12,0,completed

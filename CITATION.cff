@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this record, please cite it as below."
+title: "Sandria VN sources 2026: which websites four AI assistants cited for everyday questions about Vietnam, in English and Vietnamese"
+abstract: >-
+  A dated record of the websites four AI assistants (ChatGPT, Claude, Perplexity
+  and Gemini, through their developer APIs with web search available) cited when
+  asked 24 everyday questions about businesses and services in Vietnam, in
+  English and in Vietnamese, each twice, on 2026-10-15.
+  384 answers, 1,544 citations across 613 websites, each classified by type and
+  by whether it is based in Vietnam, plus the question set, the six
+  pre-registered numbers and the pre-registration with its amendments. Answer
+  texts, URLs and page titles are withheld. Every business's own website is
+  coded as an identifier and the mapping is not published. This is not a
+  ranking of any business or website, and no cited website is verified as true.
+type: dataset
+version: 1.0.0
+date-released: "2026-10-15"
+license: CC-BY-4.0
+url: "https://sandria.ai/findings/language-changes-ai-sources/"
+repository-code: "https://github.com/healthspanmedia/sandria-vn-sources-2026"
+languages:
+  - eng
+  - vie
+keywords:
+  - AI assistants
+  - generative search
+  - answer engines
+  - citations
+  - source attribution
+  - Vietnam
+  - Vietnamese
+  - multilingual
+  - pre-registered study
+  - large language models
+authors:
+  - family-names: Peringeth
+    given-names: Sumesh
+    orcid: "https://orcid.org/0009-0007-7719-3751"
+    affiliation: "Sandria OÜ"
+contact:
+  - name: "Sandria OÜ"
+    email: "hello@sandria.ai"
